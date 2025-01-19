@@ -1,0 +1,19 @@
+#,Player,SP,DIG,DIG,RECEPT,RECEPT,RECEPT,RECEPT,BLOCK,BLOCK,BLOCK,BLOCK,BLOCK,BLOCK,Bio Link
+#,Player,SP,DIG,DIG/S,RE,TA,Rec%,RE/S,BS,BA,BLK,BLK/S,BE,BHE,Bio Link
+2.0,"Adam, Amelia 2Adam, Amelia",6,8,1.33,0,9,1.0,0.0,0,1,1.0,0.17,0,0,View Bio
+3.0,"Miles, Malaina 3Miles, Malaina",26,17,0.65,0,2,1.0,0.0,5,8,13.0,0.5,2,0,View Bio
+4.0,"Woock, Rachel 4Woock, Rachel",17,51,3.0,4,64,0.938,0.24,0,3,3.0,0.18,0,1,View Bio
+5.0,"Vajda, Julianna 5Vajda, Julianna",26,12,0.46,1,12,0.917,0.04,0,1,1.0,0.04,0,0,View Bio
+6.0,"Richardson, Avery 6Richardson, Avery",4,1,0.25,0,0,0.0,0.0,0,2,2.0,0.5,0,0,View Bio
+9.0,"Nyquist, Emmy 9Nyquist, Emmy",27,73,2.7,6,103,0.942,0.22,0,0,0.0,0.0,0,0,View Bio
+10.0,"Snell, Kylie 10Snell, Kylie",15,9,0.6,0,1,1.0,0.0,0,10,10.0,0.67,0,0,View Bio
+11.0,"Taka, Hayley 11Taka, Hayley",27,16,0.59,2,12,0.833,0.07,3,5,8.0,0.3,1,0,View Bio
+13.0,"Keller, Jenna 13Keller, Jenna",18,38,2.11,3,80,0.963,0.17,1,2,3.0,0.17,0,0,View Bio
+14.0,"Brewer, Emily 14Brewer, Emily",28,86,3.07,0,0,0.0,0.0,0,2,2.0,0.07,0,10,View Bio
+15.0,"Weber, Sophie 15Weber, Sophie",28,77,2.75,4,101,0.96,0.14,0,0,0.0,0.0,0,0,View Bio
+20.0,"Lowrey, Payton 20Lowrey, Payton",27,204,7.56,2,112,0.982,0.07,0,0,0.0,0.0,0,0,View Bio
+21.0,"O'Neill, Ella 21O'Neill, Ella",17,10,0.59,0,3,1.0,0.0,1,9,10.0,0.59,0,0,View Bio
+22.0,"Choy, Gabby 22Choy, Gabby",3,4,1.33,0,0,0.0,0.0,0,0,0.0,0.0,0,0,View Bio
+33.0,"Mlynski, Nicole 33Mlynski, Nicole",19,15,0.79,0,0,0.0,0.0,1,9,10.0,0.53,0,0,View Bio
+,Total,28,621,22.18,34,499,0.932,1.21,11,52,37.0,1.32,3,11,
+,Opponents,28,557,19.89,56,594,0.906,2.0,12,78,51.0,1.82,8,14,

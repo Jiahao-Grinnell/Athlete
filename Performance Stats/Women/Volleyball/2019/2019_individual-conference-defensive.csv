@@ -1,0 +1,18 @@
+#,Player,SP,DIG,DIG,RECEPT,RECEPT,RECEPT,RECEPT,BLOCK,BLOCK,BLOCK,BLOCK,BLOCK,BLOCK,Bio Link
+#,Player,SP,DIG,DIG/S,RE,TA,Rec%,RE/S,BS,BA,BLK,BLK/S,BE,BHE,Bio Link
+1.0,"Kuhn, Kaylin 1Kuhn, Kaylin",32,97,3.03,6,113,0.947,0.19,1,14,15.0,0.47,0,0,View Bio
+2.0,"Smith, Abbie 2Smith, Abbie",2,0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,View Bio
+4.0,"Woock, Rachel 4Woock, Rachel",32,116,3.63,18,152,0.882,0.56,0,3,3.0,0.09,1,0,View Bio
+5.0,"Smith, Madison 5Smith, Madison",13,31,2.38,1,42,0.976,0.08,0,0,0.0,0.0,0,2,View Bio
+6.0,"Richardson, Avery 6Richardson, Avery",5,3,0.6,0,0,0.0,0.0,0,0,0.0,0.0,0,0,View Bio
+7.0,"Killin, Anna 7Killin, Anna",29,13,0.45,0,0,0.0,0.0,1,15,16.0,0.55,2,1,View Bio
+8.0,"Welch, Julia 8Welch, Julia",20,10,0.5,0,0,0.0,0.0,0,0,0.0,0.0,0,1,View Bio
+9.0,"Nyquist, Emmy 9Nyquist, Emmy",32,42,1.31,0,7,1.0,0.0,0,0,0.0,0.0,0,0,View Bio
+10.0,"Roth, Julianna 10Roth, Julianna",32,104,3.25,1,1,0.0,0.03,0,3,3.0,0.09,2,2,View Bio
+11.0,"Jensen, Olivia 11Jensen, Olivia",32,13,0.41,1,1,0.0,0.03,3,13,16.0,0.5,2,1,View Bio
+12.0,"Carbajal, Sophia 12Carbajal, Sophia",4,2,0.5,0,0,0.0,0.0,1,3,4.0,1.0,0,0,View Bio
+15.0,"Taylor, Hannah 15Taylor, Hannah",32,21,0.66,0,1,1.0,0.0,3,13,16.0,0.5,0,2,View Bio
+20.0,"Lowrey, Payton 20Lowrey, Payton",32,147,4.59,7,146,0.952,0.22,0,0,0.0,0.0,0,0,View Bio
+23.0,"Smith, Sophie 23Smith, Sophie",2,0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,View Bio
+,Total,32,599,18.72,42,463,0.909,1.31,9,64,41.0,1.28,7,9,
+,Opponents,32,555,17.34,69,504,0.863,2.16,14,95,61.5,1.92,3,12,

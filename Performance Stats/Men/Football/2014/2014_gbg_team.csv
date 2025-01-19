@@ -1,0 +1,12 @@
+Date,Opponent,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Passing,Passing,Passing,Kick Returns,Kick Returns,Kick Returns,Kick Returns,Punt Returns,Punt Returns,Punt Returns,Punt Returns
+Date,Opponent,ATT,YDS,TD,Long,ATT,YDS,TD,Long,YDS,TD,Long,ATT,YDS,TD,Long,ATT,YDS,TD,Long
+9/13/2014,Beloit College,33,50,1,19,18,267,2,49,267,2,49,5,85,0,33,1,4,0,4
+9/20/2014,Luther College,41,159,2,26,16,140,1,20,140,1,20,3,40,0,14,1,0,0,0
+9/27/2014,Macalester College,36,117,1,17,8,132,0,58,132,0,58,3,60,0,20,1,0,0,0
+10/4/2014,Lawrence University,45,125,1,33,21,240,2,51,240,2,51,3,35,0,19,1,10,0,10
+10/11/2014,Cornell College,50,146,2,36,17,153,0,32,153,0,32,4,63,0,18,0,0,0,0
+10/18/2014,Illinois College,35,64,0,12,18,125,1,19,125,1,19,5,84,0,22,0,0,0,0
+10/25/2014,Knox College,30,118,2,15,19,155,0,25,155,0,25,2,35,0,21,0,0,0,0
+11/1/2014,Monmouth College,26,74,0,12,18,120,0,16,120,0,16,6,102,0,30,0,0,0,0
+11/8/2014,Lake Forest College,23,32,1,11,26,240,1,63,240,1,63,3,45,0,24,1,6,0,0
+11/15/2014,Lawrence University,52,213,1,41,18,323,6,58,323,6,58,3,80,0,31,2,21,0,15

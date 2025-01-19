@@ -1,0 +1,21 @@
+#,Player,SP,MP,MS,PTS,PTS/S,Attack,Attack,Attack,Attack,Attack,Set,Set,Serve,Serve,Serve,Bio Link
+#,Player,SP,MP,MS,PTS,PTS/S,K,K/S,E,TA,PCT,A,A/S,SA,SA/S,SE,Bio Link
+1.0,"Smith, Kylie-Ann 1Smith, Kylie-Ann",1,1,0.0,0.0,0.0,0,0.0,0,0,0.0,5,5.0,0,0.0,1,View Bio
+2.0,"Adam, Amelia 2Adam, Amelia",2,1,0.0,1.0,0.5,0,0.0,0,1,0.0,0,0.0,1,0.5,0,View Bio
+3.0,"Miles, Malaina 3Miles, Malaina",29,8,4.0,54.5,1.88,46,1.59,9,115,0.322,5,0.17,2,0.07,0,View Bio
+4.0,"Woock, Rachel 4Woock, Rachel",19,6,1.0,0.0,0.0,0,0.0,0,1,0.0,3,0.16,0,0.0,3,View Bio
+5.0,"Vajda, Julianna 5Vajda, Julianna",14,5,0.0,4.0,0.29,0,0.0,1,1,-1.0,0,0.0,4,0.29,2,View Bio
+6.0,"Richardson, Avery 6Richardson, Avery",3,1,1.0,1.0,0.33,1,0.33,4,13,-0.231,0,0.0,0,0.0,0,View Bio
+8.0,"Leonard, Millie 8Leonard, Millie",29,8,8.0,88.0,3.03,82,2.83,35,195,0.241,3,0.1,1,0.03,4,View Bio
+9.0,"Nyquist, Emmy 9Nyquist, Emmy",26,8,4.0,6.0,0.23,0,0.0,0,7,0.0,5,0.19,6,0.23,5,View Bio
+10.0,"Snell, Kylie 10Snell, Kylie",24,8,6.0,32.5,1.35,29,1.21,6,66,0.348,0,0.0,0,0.0,0,View Bio
+11.0,"Taka, Hayley 11Taka, Hayley",28,8,6.0,87.0,3.11,77,2.75,32,239,0.188,0,0.0,7,0.25,3,View Bio
+13.0,"Keller, Jenna 13Keller, Jenna",29,8,8.0,131.0,4.52,115,3.97,42,295,0.247,9,0.31,11,0.38,10,View Bio
+14.0,"Brewer, Emily 14Brewer, Emily",29,8,8.0,29.0,1.0,16,0.55,10,77,0.078,300,10.34,9,0.31,19,View Bio
+15.0,"Weber, Sophie 15Weber, Sophie",28,8,0.0,13.0,0.46,1,0.04,0,5,0.2,11,0.39,12,0.43,11,View Bio
+21.0,"O'Neill, Ella 21O'Neill, Ella",1,1,0.0,1.0,1.0,1,1.0,1,4,0.0,0,0.0,0,0.0,0,View Bio
+22.0,"Choy, Gabby 22Choy, Gabby",20,7,1.0,7.0,0.35,1,0.05,3,6,-0.333,8,0.4,6,0.3,7,View Bio
+23.0,"Sullivan, Keira 23Sullivan, Keira",5,3,1.0,8.0,1.6,8,1.6,3,33,0.152,0,0.0,0,0.0,2,View Bio
+33.0,"Mlynski, Nicole 33Mlynski, Nicole",2,2,0.0,3.0,1.5,3,1.5,3,13,0.0,0,0.0,0,0.0,0,View Bio
+,Total,29,8,,466.0,16.07,380,13.1,149,1071,0.216,349,12.03,59,2.03,67,
+,Opponents,29,8,,365.0,12.59,281,9.69,144,1065,0.129,257,8.86,40,1.38,46,

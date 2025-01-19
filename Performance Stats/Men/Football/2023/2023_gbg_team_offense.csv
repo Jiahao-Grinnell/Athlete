@@ -1,0 +1,12 @@
+Date,Opponent,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Passing,Passing,Passing,Kick Returns,Kick Returns,Kick Returns,Kick Returns,Punt Returns,Punt Returns,Punt Returns,Punt Returns
+Date,Opponent,ATT,YDS,TD,Long,ATT,YDS,TD,Long,YDS,TD,Long,ATT,YDS,TD,Long,ATT,YDS,TD,Long
+09/04/2023,Lyon,34,40,1,16,19,193,0,31,193,0,31,3,42,0,17,0,0,0,0
+09/09/2023,Ripon,35,92,1,15,12,150,1,32,150,1,32,5,68,0,25,0,0,0,0
+09/16/2023,Beloit,37,142,3,44,15,269,2,81,269,2,81,3,37,0,16,0,0,0,0
+09/30/2023,Lawrence,29,159,1,32,11,170,3,59,170,3,59,2,26,0,21,2,0,0,0
+10/07/2023,Monmouth (IL),32,69,0,10,10,67,1,26,67,1,26,4,36,0,19,0,0,0,0
+10/14/2023,Lake Forest,30,33,0,10,7,25,0,17,25,0,17,0,0,0,0,0,0,0,0
+10/21/2023,Knox,23,91,0,33,14,150,1,26,150,1,26,2,42,0,22,0,0,0,0
+10/28/2023,Illinois Col.,45,-16,0,25,8,66,0,26,66,0,26,4,33,0,13,0,0,0,0
+11/04/2023,UChicago,26,15,1,13,17,210,1,70,210,1,70,2,36,0,26,0,0,0,0
+11/11/2023,Cornell College,24,-8,0,16,27,366,3,38,366,3,38,3,38,0,26,0,0,0,0

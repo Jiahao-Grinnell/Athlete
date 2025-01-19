@@ -1,0 +1,18 @@
+#,Player,SP,MP,MS,PTS,PTS/S,Attack,Attack,Attack,Attack,Attack,Set,Set,Serve,Serve,Serve,Bio Link
+#,Player,SP,MP,MS,PTS,PTS/S,K,K/S,E,TA,PCT,A,A/S,SA,SA/S,SE,Bio Link
+1.0,"Smith, Kylie-Ann 1Smith, Kylie-Ann",13,5,1.0,6.0,0.46,0,0.0,1,3,-0.333,56,4.31,6,0.46,4,View Bio
+2.0,"Adam, Amelia 2Adam, Amelia",3,1,1.0,0.0,0.0,0,0.0,0,0,0.0,0,0.0,0,0.0,0,View Bio
+4.0,"Lim, Gracie 4Lim, Gracie",25,8,0.0,10.0,0.4,0,0.0,0,1,0.0,4,0.16,10,0.4,6,View Bio
+6.0,"Hurst, Marlowe 6Hurst, Marlowe",4,3,0.0,1.0,0.25,0,0.0,0,0,0.0,17,4.25,1,0.25,3,View Bio
+8.0,"Leonard, Millie 8Leonard, Millie",28,8,8.0,85.5,3.05,75,2.68,28,162,0.29,1,0.04,2,0.07,4,View Bio
+10.0,"Snell, Kylie 10Snell, Kylie",16,5,3.0,22.0,1.38,18,1.13,8,69,0.145,0,0.0,0,0.0,0,View Bio
+11.0,"Taka, Hayley 11Taka, Hayley",27,8,7.0,62.0,2.3,57,2.11,19,180,0.211,1,0.04,1,0.04,5,View Bio
+13.0,"Keller, Jenna 13Keller, Jenna",27,8,8.0,112.5,4.17,100,3.7,42,268,0.216,8,0.3,11,0.41,8,View Bio
+14.0,"Brewer, Emily 14Brewer, Emily",27,8,8.0,37.5,1.39,17,0.63,2,53,0.283,214,7.93,18,0.67,21,View Bio
+15.0,"Weber, Sophie 15Weber, Sophie",28,8,0.0,5.0,0.18,0,0.0,0,1,0.0,21,0.75,5,0.18,5,View Bio
+21.0,"O'Neill, Ella 21O'Neill, Ella",17,7,3.0,22.5,1.32,16,0.94,1,52,0.288,1,0.06,0,0.0,2,View Bio
+22.0,"Choy, Gabby 22Choy, Gabby",28,8,0.0,12.0,0.43,0,0.0,1,3,-0.333,4,0.14,12,0.43,14,View Bio
+23.0,"Sullivan, Keira 23Sullivan, Keira",24,8,7.0,60.5,2.52,56,2.33,23,173,0.191,0,0.0,1,0.04,0,View Bio
+33.0,"Mlynski, Nicole 33Mlynski, Nicole",28,8,2.0,28.5,1.02,22,0.79,7,72,0.208,1,0.04,5,0.18,2,View Bio
+,Total,28,8,,465.0,16.61,361,12.89,132,1037,0.221,328,11.71,72,2.57,74,
+,Opponents,28,8,,374.0,13.36,286,10.21,143,980,0.146,261,9.32,49,1.75,56,

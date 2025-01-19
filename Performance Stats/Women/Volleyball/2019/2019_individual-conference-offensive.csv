@@ -1,0 +1,18 @@
+#,Player,SP,MP,MS,PTS,PTS/S,Attack,Attack,Attack,Attack,Attack,Set,Set,Serve,Serve,Serve,Bio Link
+#,Player,SP,MP,MS,PTS,PTS/S,K,K/S,E,TA,PCT,A,A/S,SA,SA/S,SE,Bio Link
+1.0,"Kuhn, Kaylin 1Kuhn, Kaylin",32,9,6.0,176.0,5.5,156,4.88,59,433,0.224,5,0.16,12,0.38,20,View Bio
+2.0,"Smith, Abbie 2Smith, Abbie",2,2,0.0,0.0,0.0,0,0.0,1,1,-1.0,1,0.5,0,0.0,0,View Bio
+4.0,"Woock, Rachel 4Woock, Rachel",32,9,6.0,102.5,3.2,93,2.91,56,273,0.136,2,0.06,8,0.25,14,View Bio
+5.0,"Smith, Madison 5Smith, Madison",13,5,4.0,3.0,0.23,0,0.0,0,2,0.0,1,0.08,3,0.23,4,View Bio
+6.0,"Richardson, Avery 6Richardson, Avery",5,3,0.0,6.0,1.2,6,1.2,4,21,0.095,0,0.0,0,0.0,0,View Bio
+7.0,"Killin, Anna 7Killin, Anna",29,9,6.0,57.5,1.98,49,1.69,16,131,0.252,0,0.0,0,0.0,0,View Bio
+8.0,"Welch, Julia 8Welch, Julia",20,7,0.0,5.0,0.25,1,0.05,0,3,0.333,23,1.15,4,0.2,5,View Bio
+9.0,"Nyquist, Emmy 9Nyquist, Emmy",32,9,2.0,7.0,0.22,1,0.03,0,3,0.333,4,0.13,6,0.19,7,View Bio
+10.0,"Roth, Julianna 10Roth, Julianna",32,9,6.0,24.5,0.77,10,0.31,1,43,0.209,305,9.53,13,0.41,10,View Bio
+11.0,"Jensen, Olivia 11Jensen, Olivia",32,9,6.0,68.5,2.14,59,1.84,13,155,0.297,2,0.06,0,0.0,0,View Bio
+12.0,"Carbajal, Sophia 12Carbajal, Sophia",4,3,0.0,6.5,1.63,4,1.0,7,18,-0.167,1,0.25,0,0.0,0,View Bio
+15.0,"Taylor, Hannah 15Taylor, Hannah",32,9,0.0,46.5,1.45,37,1.16,16,139,0.151,1,0.03,0,0.0,0,View Bio
+20.0,"Lowrey, Payton 20Lowrey, Payton",32,9,5.0,24.0,0.75,1,0.03,1,12,0.0,33,1.03,23,0.72,22,View Bio
+23.0,"Smith, Sophie 23Smith, Sophie",2,2,0.0,1.0,0.5,1,0.5,0,4,0.25,0,0.0,0,0.0,0,View Bio
+,Total,32,9,,528.0,16.5,418,13.06,174,1238,0.197,378,11.81,69,2.16,82,
+,Opponents,32,9,,409.5,12.8,306,9.56,166,1151,0.122,273,8.53,42,1.31,57,
