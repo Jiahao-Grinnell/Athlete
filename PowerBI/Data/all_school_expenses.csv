@@ -1,0 +1,3257 @@
+Year,Gender,Sport,School,Expense
+2003,Men,Baseball,St Norbert College,46792.0
+2003,Men,Basketball,St Norbert College,86018.0
+2003,Men,Football,St Norbert College,259356.0
+2003,Men,Golf,St Norbert College,21031.0
+2003,Men,Soccer,St Norbert College,28813.0
+2003,Men,Tennis,St Norbert College,9502.0
+2003,Women,Basketball,St Norbert College,87069.0
+2003,Women,Golf,St Norbert College,19982.0
+2003,Women,Soccer,St Norbert College,24421.0
+2003,Women,Softball,St Norbert College,45621.0
+2003,Women,Tennis,St Norbert College,7561.0
+2003,Women,Volleyball,St Norbert College,67866.0
+2004,Men,Baseball,St Norbert College,59370.0
+2004,Men,Basketball,St Norbert College,81812.0
+2004,Men,Football,St Norbert College,240701.0
+2004,Men,Golf,St Norbert College,21481.0
+2004,Men,Soccer,St Norbert College,32256.0
+2004,Men,Tennis,St Norbert College,10749.0
+2004,Women,Basketball,St Norbert College,81757.0
+2004,Women,Golf,St Norbert College,21242.0
+2004,Women,Soccer,St Norbert College,22146.0
+2004,Women,Softball,St Norbert College,46462.0
+2004,Women,Tennis,St Norbert College,11158.0
+2004,Women,Volleyball,St Norbert College,68916.0
+2005,Men,Baseball,St Norbert College,47953.0
+2005,Men,Basketball,St Norbert College,87774.0
+2005,Men,Football,St Norbert College,270928.0
+2005,Men,Golf,St Norbert College,24496.0
+2005,Men,Soccer,St Norbert College,25760.0
+2005,Men,Tennis,St Norbert College,20398.0
+2005,Women,Basketball,St Norbert College,96861.0
+2005,Women,Golf,St Norbert College,19702.0
+2005,Women,Soccer,St Norbert College,17755.0
+2005,Women,Softball,St Norbert College,52417.0
+2005,Women,Tennis,St Norbert College,13448.0
+2005,Women,Volleyball,St Norbert College,74316.0
+2006,Men,Baseball,St Norbert College,57627.0
+2006,Men,Basketball,St Norbert College,115463.0
+2006,Men,Cross Country,St Norbert College,83863.0
+2006,Men,Football,St Norbert College,312498.0
+2006,Men,Golf,St Norbert College,28552.0
+2006,Men,Soccer,St Norbert College,31879.0
+2006,Men,Tennis,St Norbert College,28684.0
+2006,Women,Basketball,St Norbert College,98701.0
+2006,Women,Cross Country,St Norbert College,62913.0
+2006,Women,Golf,St Norbert College,24298.0
+2006,Women,Soccer,St Norbert College,25643.0
+2006,Women,Softball,St Norbert College,50193.0
+2006,Women,Tennis,St Norbert College,22362.0
+2006,Women,Volleyball,St Norbert College,57660.0
+2007,Men,Baseball,St Norbert College,63632.0
+2007,Men,Basketball,St Norbert College,128437.0
+2007,Men,Football,St Norbert College,338846.0
+2007,Men,Golf,St Norbert College,36089.0
+2007,Men,Soccer,St Norbert College,35563.0
+2007,Men,Tennis,St Norbert College,26675.0
+2007,Women,Basketball,St Norbert College,130376.0
+2007,Women,Golf,St Norbert College,29295.0
+2007,Women,Soccer,St Norbert College,23490.0
+2007,Women,Softball,St Norbert College,70636.0
+2007,Women,Tennis,St Norbert College,17235.0
+2007,Women,Volleyball,St Norbert College,64200.0
+2008,Men,Baseball,St Norbert College,77966.0
+2008,Men,Basketball,St Norbert College,190004.0
+2008,Men,Football,St Norbert College,337761.0
+2008,Men,Golf,St Norbert College,33091.0
+2008,Men,Soccer,St Norbert College,43499.0
+2008,Men,Tennis,St Norbert College,28114.0
+2008,Women,Basketball,St Norbert College,126405.0
+2008,Women,Golf,St Norbert College,30151.0
+2008,Women,Soccer,St Norbert College,33914.0
+2008,Women,Softball,St Norbert College,57003.0
+2008,Women,Tennis,St Norbert College,17988.0
+2008,Women,Volleyball,St Norbert College,39104.0
+2009,Men,Baseball,St Norbert College,75765.0
+2009,Men,Basketball,St Norbert College,124105.0
+2009,Men,Football,St Norbert College,398471.0
+2009,Men,Golf,St Norbert College,32531.0
+2009,Men,Soccer,St Norbert College,39981.0
+2009,Men,Tennis,St Norbert College,30827.0
+2009,Women,Basketball,St Norbert College,114894.0
+2009,Women,Golf,St Norbert College,33868.0
+2009,Women,Soccer,St Norbert College,36225.0
+2009,Women,Softball,St Norbert College,64783.0
+2009,Women,Tennis,St Norbert College,23432.0
+2009,Women,Volleyball,St Norbert College,38462.0
+2010,Men,Baseball,St Norbert College,75869.0
+2010,Men,Basketball,St Norbert College,183020.0
+2010,Men,Football,St Norbert College,390337.0
+2010,Men,Golf,St Norbert College,16158.0
+2010,Men,Soccer,St Norbert College,45756.0
+2010,Men,Tennis,St Norbert College,19348.0
+2010,Women,Basketball,St Norbert College,161875.0
+2010,Women,Golf,St Norbert College,11664.0
+2010,Women,Soccer,St Norbert College,29183.0
+2010,Women,Softball,St Norbert College,57706.0
+2010,Women,Tennis,St Norbert College,22223.0
+2010,Women,Volleyball,St Norbert College,37007.0
+2011,Men,Baseball,St Norbert College,98812.0
+2011,Men,Basketball,St Norbert College,248025.0
+2011,Men,Football,St Norbert College,414616.0
+2011,Men,Golf,St Norbert College,20377.0
+2011,Men,Soccer,St Norbert College,37040.0
+2011,Men,Tennis,St Norbert College,28172.0
+2011,Women,Basketball,St Norbert College,133707.0
+2011,Women,Golf,St Norbert College,14187.0
+2011,Women,Soccer,St Norbert College,31341.0
+2011,Women,Softball,St Norbert College,66463.0
+2011,Women,Tennis,St Norbert College,24457.0
+2011,Women,Volleyball,St Norbert College,39748.0
+2012,Men,Baseball,St Norbert College,100973.0
+2012,Men,Basketball,St Norbert College,207535.0
+2012,Men,Football,St Norbert College,409850.0
+2012,Men,Golf,St Norbert College,25409.0
+2012,Men,Soccer,St Norbert College,40264.0
+2012,Men,Tennis,St Norbert College,26657.0
+2012,Women,Basketball,St Norbert College,141837.0
+2012,Women,Golf,St Norbert College,16235.0
+2012,Women,Soccer,St Norbert College,39613.0
+2012,Women,Softball,St Norbert College,69012.0
+2012,Women,Tennis,St Norbert College,33517.0
+2012,Women,Volleyball,St Norbert College,45446.0
+2013,Men,Baseball,St Norbert College,125928.0
+2013,Men,Basketball,St Norbert College,227497.0
+2013,Men,Football,St Norbert College,379759.0
+2013,Men,Golf,St Norbert College,23446.0
+2013,Men,Soccer,St Norbert College,39821.0
+2013,Men,Tennis,St Norbert College,22865.0
+2013,Women,Basketball,St Norbert College,160964.0
+2013,Women,Golf,St Norbert College,12606.0
+2013,Women,Soccer,St Norbert College,42378.0
+2013,Women,Softball,St Norbert College,72271.0
+2013,Women,Tennis,St Norbert College,42753.0
+2013,Women,Volleyball,St Norbert College,36360.0
+2014,Men,Baseball,St Norbert College,115260.0
+2014,Men,Basketball,St Norbert College,275317.0
+2014,Men,Football,St Norbert College,459592.0
+2014,Men,Golf,St Norbert College,23283.0
+2014,Men,Soccer,St Norbert College,44346.0
+2014,Men,Tennis,St Norbert College,24343.0
+2014,Women,Basketball,St Norbert College,152002.0
+2014,Women,Golf,St Norbert College,13135.0
+2014,Women,Soccer,St Norbert College,40946.0
+2014,Women,Softball,St Norbert College,89967.0
+2014,Women,Tennis,St Norbert College,60842.0
+2014,Women,Volleyball,St Norbert College,44232.0
+2015,Men,Baseball,St Norbert College,124343.0
+2015,Men,Basketball,St Norbert College,212906.0
+2015,Men,Football,St Norbert College,440309.0
+2015,Men,Golf,St Norbert College,18637.0
+2015,Men,Soccer,St Norbert College,48099.0
+2015,Men,Tennis,St Norbert College,23100.0
+2015,Women,Basketball,St Norbert College,157329.0
+2015,Women,Golf,St Norbert College,18023.0
+2015,Women,Soccer,St Norbert College,39967.0
+2015,Women,Softball,St Norbert College,87596.0
+2015,Women,Tennis,St Norbert College,38680.0
+2015,Women,Volleyball,St Norbert College,43237.0
+2016,Men,Baseball,St Norbert College,149991.0
+2016,Men,Basketball,St Norbert College,242492.0
+2016,Men,Football,St Norbert College,551571.0
+2016,Men,Golf,St Norbert College,27142.0
+2016,Men,Soccer,St Norbert College,57813.0
+2016,Men,Tennis,St Norbert College,28174.0
+2016,Women,Basketball,St Norbert College,199153.0
+2016,Women,Golf,St Norbert College,22422.0
+2016,Women,Soccer,St Norbert College,43638.0
+2016,Women,Softball,St Norbert College,92392.0
+2016,Women,Tennis,St Norbert College,62648.0
+2016,Women,Volleyball,St Norbert College,53716.0
+2017,Men,Baseball,St Norbert College,121425.0
+2017,Men,Basketball,St Norbert College,220945.0
+2017,Men,Football,St Norbert College,441290.0
+2017,Men,Golf,St Norbert College,21315.0
+2017,Men,Soccer,St Norbert College,46630.0
+2017,Men,Tennis,St Norbert College,23254.0
+2017,Women,Basketball,St Norbert College,158532.0
+2017,Women,Golf,St Norbert College,18256.0
+2017,Women,Soccer,St Norbert College,39452.0
+2017,Women,Softball,St Norbert College,88678.0
+2017,Women,Tennis,St Norbert College,42631.0
+2017,Women,Volleyball,St Norbert College,43982.0
+2018,Men,Baseball,St Norbert College,215201.0
+2018,Men,Basketball,St Norbert College,212168.0
+2018,Men,Football,St Norbert College,502564.0
+2018,Men,Golf,St Norbert College,32927.0
+2018,Men,Soccer,St Norbert College,115179.0
+2018,Men,Swimming and Diving,St Norbert College,133681.0
+2018,Men,Tennis,St Norbert College,29714.0
+2018,Women,Basketball,St Norbert College,164693.0
+2018,Women,Golf,St Norbert College,18359.0
+2018,Women,Soccer,St Norbert College,47951.0
+2018,Women,Softball,St Norbert College,108008.0
+2018,Women,Swimming and Diving,St Norbert College,116255.0
+2018,Women,Tennis,St Norbert College,33099.0
+2018,Women,Volleyball,St Norbert College,94703.0
+2019,Men,Baseball,St Norbert College,168826.0
+2019,Men,Basketball,St Norbert College,276550.0
+2019,Men,Football,St Norbert College,659889.0
+2019,Men,Golf,St Norbert College,33604.0
+2019,Men,Soccer,St Norbert College,60287.0
+2019,Men,Swimming and Diving,St Norbert College,81595.0
+2019,Men,Tennis,St Norbert College,20304.0
+2019,Men,Volleyball,St Norbert College,82711.0
+2019,Women,Basketball,St Norbert College,146512.0
+2019,Women,Golf,St Norbert College,29740.0
+2019,Women,Soccer,St Norbert College,55766.0
+2019,Women,Softball,St Norbert College,63529.0
+2019,Women,Swimming and Diving,St Norbert College,81595.0
+2019,Women,Tennis,St Norbert College,33252.0
+2019,Women,Volleyball,St Norbert College,77739.0
+2020,Men,Baseball,St Norbert College,109487.0
+2020,Men,Golf,St Norbert College,18467.0
+2020,Men,Tennis,St Norbert College,13621.0
+2020,Men,Track and Fields,St Norbert College,59645.0
+2020,Women,Golf,St Norbert College,44738.0
+2020,Women,Softball,St Norbert College,30970.0
+2020,Women,Tennis,St Norbert College,12640.0
+2020,Women,Track and Fields,St Norbert College,52631.0
+2021,Men,Baseball,St Norbert College,224271.0
+2021,Men,Basketball,St Norbert College,292026.0
+2021,Men,Football,St Norbert College,530666.0
+2021,Men,Golf,St Norbert College,51351.0
+2021,Men,Soccer,St Norbert College,141596.0
+2021,Men,Swimming and Diving,St Norbert College,129914.0
+2021,Men,Tennis,St Norbert College,28274.0
+2021,Men,Volleyball,St Norbert College,66795.0
+2021,Women,Basketball,St Norbert College,124787.0
+2021,Women,Golf,St Norbert College,38294.0
+2021,Women,Soccer,St Norbert College,59158.0
+2021,Women,Softball,St Norbert College,88230.0
+2021,Women,Swimming and Diving,St Norbert College,125296.0
+2021,Women,Tennis,St Norbert College,16149.0
+2021,Women,Volleyball,St Norbert College,97186.0
+2022,Men,Baseball,St Norbert College,256855.0
+2022,Men,Basketball,St Norbert College,368240.0
+2022,Men,Football,St Norbert College,590675.0
+2022,Men,Golf,St Norbert College,38469.0
+2022,Men,Soccer,St Norbert College,74228.0
+2022,Men,Swimming and Diving,St Norbert College,116714.0
+2022,Men,Tennis,St Norbert College,22429.0
+2022,Men,Volleyball,St Norbert College,174116.0
+2022,Women,Basketball,St Norbert College,181192.0
+2022,Women,Golf,St Norbert College,34438.0
+2022,Women,Soccer,St Norbert College,99114.0
+2022,Women,Softball,St Norbert College,164584.0
+2022,Women,Swimming and Diving,St Norbert College,91686.0
+2022,Women,Tennis,St Norbert College,27988.0
+2022,Women,Volleyball,St Norbert College,128836.0
+2003,Men,Baseball,Monmouth IL,29846.0
+2003,Men,Basketball,Monmouth IL,49504.0
+2003,Men,Cross Country,Monmouth IL,12701.0
+2003,Men,Football,Monmouth IL,99433.0
+2003,Men,Golf,Monmouth IL,17346.0
+2003,Men,Soccer,Monmouth IL,22240.0
+2003,Men,Tennis,Monmouth IL,23080.0
+2003,Men,Track and Fields,Monmouth IL,28232.0
+2003,Women,Basketball,Monmouth IL,23267.0
+2003,Women,Cross Country,Monmouth IL,12701.0
+2003,Women,Golf,Monmouth IL,9623.0
+2003,Women,Soccer,Monmouth IL,19620.0
+2003,Women,Softball,Monmouth IL,24263.0
+2003,Women,Tennis,Monmouth IL,11198.0
+2003,Women,Track and Fields,Monmouth IL,28232.0
+2003,Women,Volleyball,Monmouth IL,27126.0
+2004,Men,Baseball,Monmouth IL,41678.0
+2004,Men,Basketball,Monmouth IL,37748.0
+2004,Men,Cross Country,Monmouth IL,12305.0
+2004,Men,Football,Monmouth IL,105506.0
+2004,Men,Golf,Monmouth IL,20616.0
+2004,Men,Soccer,Monmouth IL,27335.0
+2004,Men,Tennis,Monmouth IL,26895.0
+2004,Men,Track and Fields,Monmouth IL,41798.0
+2004,Women,Basketball,Monmouth IL,27072.0
+2004,Women,Cross Country,Monmouth IL,12305.0
+2004,Women,Golf,Monmouth IL,16412.0
+2004,Women,Soccer,Monmouth IL,20555.0
+2004,Women,Softball,Monmouth IL,29528.0
+2004,Women,Tennis,Monmouth IL,9585.0
+2004,Women,Track and Fields,Monmouth IL,41798.0
+2004,Women,Volleyball,Monmouth IL,20441.0
+2005,Men,Baseball,Monmouth IL,40333.0
+2005,Men,Basketball,Monmouth IL,48167.0
+2005,Men,Football,Monmouth IL,123536.0
+2005,Men,Golf,Monmouth IL,22765.0
+2005,Men,Soccer,Monmouth IL,30779.0
+2005,Men,Tennis,Monmouth IL,14256.0
+2005,Women,Basketball,Monmouth IL,44569.0
+2005,Women,Golf,Monmouth IL,22664.0
+2005,Women,Soccer,Monmouth IL,27443.0
+2005,Women,Softball,Monmouth IL,36731.0
+2005,Women,Tennis,Monmouth IL,13118.0
+2005,Women,Volleyball,Monmouth IL,57287.0
+2006,Men,Baseball,Monmouth IL,48408.0
+2006,Men,Basketball,Monmouth IL,112407.0
+2006,Men,Football,Monmouth IL,170742.0
+2006,Men,Golf,Monmouth IL,29028.0
+2006,Men,Soccer,Monmouth IL,60176.0
+2006,Men,Tennis,Monmouth IL,24988.0
+2006,Women,Basketball,Monmouth IL,46207.0
+2006,Women,Golf,Monmouth IL,21381.0
+2006,Women,Soccer,Monmouth IL,19659.0
+2006,Women,Softball,Monmouth IL,27873.0
+2006,Women,Tennis,Monmouth IL,13448.0
+2006,Women,Volleyball,Monmouth IL,32499.0
+2007,Men,Baseball,Monmouth IL,30326.0
+2007,Men,Basketball,Monmouth IL,77032.0
+2007,Men,Cross Country,Monmouth IL,14713.0
+2007,Men,Football,Monmouth IL,131792.0
+2007,Men,Golf,Monmouth IL,21221.0
+2007,Men,Soccer,Monmouth IL,61294.0
+2007,Men,Swimming and Diving,Monmouth IL,33773.0
+2007,Men,Tennis,Monmouth IL,23032.0
+2007,Men,Track and Fields,Monmouth IL,39988.0
+2007,Women,Basketball,Monmouth IL,32661.0
+2007,Women,Cross Country,Monmouth IL,14713.0
+2007,Women,Golf,Monmouth IL,14556.0
+2007,Women,Soccer,Monmouth IL,20660.0
+2007,Women,Softball,Monmouth IL,27392.0
+2007,Women,Swimming and Diving,Monmouth IL,33773.0
+2007,Women,Tennis,Monmouth IL,10789.0
+2007,Women,Track and Fields,Monmouth IL,39988.0
+2007,Women,Volleyball,Monmouth IL,29470.0
+2008,Men,Baseball,Monmouth IL,50952.0
+2008,Men,Basketball,Monmouth IL,90799.0
+2008,Men,Cross Country,Monmouth IL,22754.0
+2008,Men,Football,Monmouth IL,132831.0
+2008,Men,Golf,Monmouth IL,46462.0
+2008,Men,Soccer,Monmouth IL,80098.0
+2008,Men,Swimming and Diving,Monmouth IL,39612.0
+2008,Men,Tennis,Monmouth IL,46108.0
+2008,Men,Track and Fields,Monmouth IL,63318.0
+2008,Women,Basketball,Monmouth IL,66165.0
+2008,Women,Cross Country,Monmouth IL,23888.0
+2008,Women,Golf,Monmouth IL,29943.0
+2008,Women,Soccer,Monmouth IL,36327.0
+2008,Women,Softball,Monmouth IL,33589.0
+2008,Women,Swimming and Diving,Monmouth IL,31134.0
+2008,Women,Tennis,Monmouth IL,10885.0
+2008,Women,Track and Fields,Monmouth IL,57394.0
+2008,Women,Volleyball,Monmouth IL,62371.0
+2009,Men,Baseball,Monmouth IL,44532.0
+2009,Men,Basketball,Monmouth IL,98430.0
+2009,Men,Cross Country,Monmouth IL,44853.0
+2009,Men,Football,Monmouth IL,197704.0
+2009,Men,Golf,Monmouth IL,55489.0
+2009,Men,Soccer,Monmouth IL,64479.0
+2009,Men,Tennis,Monmouth IL,45970.0
+2009,Men,Track and Fields,Monmouth IL,71348.0
+2009,Women,Basketball,Monmouth IL,64559.0
+2009,Women,Cross Country,Monmouth IL,43377.0
+2009,Women,Golf,Monmouth IL,18082.0
+2009,Women,Soccer,Monmouth IL,30392.0
+2009,Women,Softball,Monmouth IL,27805.0
+2009,Women,Tennis,Monmouth IL,16172.0
+2009,Women,Track and Fields,Monmouth IL,49980.0
+2009,Women,Volleyball,Monmouth IL,58042.0
+2010,Men,Baseball,Monmouth IL,55227.0
+2010,Men,Basketball,Monmouth IL,96965.0
+2010,Men,Cross Country,Monmouth IL,45864.0
+2010,Men,Football,Monmouth IL,202967.0
+2010,Men,Golf,Monmouth IL,57314.0
+2010,Men,Soccer,Monmouth IL,50501.0
+2010,Men,Swimming and Diving,Monmouth IL,23861.0
+2010,Men,Tennis,Monmouth IL,48348.0
+2010,Men,Track and Fields,Monmouth IL,78376.0
+2010,Women,Basketball,Monmouth IL,64101.0
+2010,Women,Cross Country,Monmouth IL,25799.0
+2010,Women,Golf,Monmouth IL,19794.0
+2010,Women,Soccer,Monmouth IL,28199.0
+2010,Women,Softball,Monmouth IL,28740.0
+2010,Women,Swimming and Diving,Monmouth IL,34467.0
+2010,Women,Tennis,Monmouth IL,12954.0
+2010,Women,Track and Fields,Monmouth IL,51728.0
+2010,Women,Volleyball,Monmouth IL,51027.0
+2011,Men,Baseball,Monmouth IL,34900.0
+2011,Men,Basketball,Monmouth IL,89830.0
+2011,Men,Cross Country,Monmouth IL,32128.0
+2011,Men,Football,Monmouth IL,162383.0
+2011,Men,Golf,Monmouth IL,62479.0
+2011,Men,Soccer,Monmouth IL,60549.0
+2011,Men,Swimming and Diving,Monmouth IL,23521.0
+2011,Men,Tennis,Monmouth IL,54522.0
+2011,Men,Track and Fields,Monmouth IL,101381.0
+2011,Women,Basketball,Monmouth IL,82965.0
+2011,Women,Cross Country,Monmouth IL,30743.0
+2011,Women,Golf,Monmouth IL,24322.0
+2011,Women,Soccer,Monmouth IL,30721.0
+2011,Women,Softball,Monmouth IL,26673.0
+2011,Women,Swimming and Diving,Monmouth IL,57122.0
+2011,Women,Tennis,Monmouth IL,66727.0
+2011,Women,Track and Fields,Monmouth IL,82966.0
+2011,Women,Volleyball,Monmouth IL,34591.0
+2012,Men,Baseball,Monmouth IL,38738.0
+2012,Men,Basketball,Monmouth IL,101625.0
+2012,Men,Cross Country,Monmouth IL,29258.0
+2012,Men,Football,Monmouth IL,204619.0
+2012,Men,Golf,Monmouth IL,57281.0
+2012,Men,Soccer,Monmouth IL,32159.0
+2012,Men,Swimming and Diving,Monmouth IL,33727.0
+2012,Men,Tennis,Monmouth IL,54849.0
+2012,Men,Track and Fields,Monmouth IL,57090.0
+2012,Women,Basketball,Monmouth IL,57070.0
+2012,Women,Cross Country,Monmouth IL,31002.0
+2012,Women,Golf,Monmouth IL,16410.0
+2012,Women,Soccer,Monmouth IL,26010.0
+2012,Women,Softball,Monmouth IL,54413.0
+2012,Women,Swimming and Diving,Monmouth IL,57635.0
+2012,Women,Tennis,Monmouth IL,12205.0
+2012,Women,Track and Fields,Monmouth IL,53296.0
+2012,Women,Volleyball,Monmouth IL,47488.0
+2013,Men,Baseball,Monmouth IL,64937.0
+2013,Men,Basketball,Monmouth IL,111123.0
+2013,Men,Cross Country,Monmouth IL,20469.0
+2013,Men,Football,Monmouth IL,174136.0
+2013,Men,Golf,Monmouth IL,58964.0
+2013,Men,Soccer,Monmouth IL,33155.0
+2013,Men,Tennis,Monmouth IL,61992.0
+2013,Men,Track and Fields,Monmouth IL,65292.0
+2013,Women,Basketball,Monmouth IL,77075.0
+2013,Women,Cross Country,Monmouth IL,21114.0
+2013,Women,Golf,Monmouth IL,26752.0
+2013,Women,Soccer,Monmouth IL,28566.0
+2013,Women,Softball,Monmouth IL,41570.0
+2013,Women,Tennis,Monmouth IL,12120.0
+2013,Women,Track and Fields,Monmouth IL,56732.0
+2013,Women,Volleyball,Monmouth IL,57852.0
+2014,Men,Baseball,Monmouth IL,27599.0
+2014,Men,Basketball,Monmouth IL,112734.0
+2014,Men,Cross Country,Monmouth IL,34753.0
+2014,Men,Football,Monmouth IL,188367.0
+2014,Men,Golf,Monmouth IL,15388.0
+2014,Men,Soccer,Monmouth IL,26118.0
+2014,Men,Swimming and Diving,Monmouth IL,52422.0
+2014,Men,Tennis,Monmouth IL,15524.0
+2014,Men,Track and Fields,Monmouth IL,103370.0
+2014,Women,Basketball,Monmouth IL,69961.0
+2014,Women,Cross Country,Monmouth IL,34753.0
+2014,Women,Golf,Monmouth IL,20833.0
+2014,Women,Soccer,Monmouth IL,31267.0
+2014,Women,Softball,Monmouth IL,21293.0
+2014,Women,Swimming and Diving,Monmouth IL,38888.0
+2014,Women,Tennis,Monmouth IL,14773.0
+2014,Women,Track and Fields,Monmouth IL,97886.0
+2014,Women,Volleyball,Monmouth IL,47954.0
+2015,Men,Baseball,Monmouth IL,70630.0
+2015,Men,Basketball,Monmouth IL,80236.0
+2015,Men,Cross Country,Monmouth IL,25792.0
+2015,Men,Football,Monmouth IL,336999.0
+2015,Men,Golf,Monmouth IL,47686.0
+2015,Men,Soccer,Monmouth IL,67957.0
+2015,Men,Swimming and Diving,Monmouth IL,47672.0
+2015,Men,Tennis,Monmouth IL,31334.0
+2015,Men,Track and Fields,Monmouth IL,80663.0
+2015,Women,Basketball,Monmouth IL,45124.0
+2015,Women,Cross Country,Monmouth IL,26378.0
+2015,Women,Golf,Monmouth IL,42177.0
+2015,Women,Soccer,Monmouth IL,38127.0
+2015,Women,Softball,Monmouth IL,47811.0
+2015,Women,Swimming and Diving,Monmouth IL,47544.0
+2015,Women,Tennis,Monmouth IL,31334.0
+2015,Women,Track and Fields,Monmouth IL,77500.0
+2015,Women,Volleyball,Monmouth IL,72606.0
+2016,Men,Baseball,Monmouth IL,91957.0
+2016,Men,Basketball,Monmouth IL,91173.0
+2016,Men,Cross Country,Monmouth IL,38969.0
+2016,Men,Football,Monmouth IL,396530.0
+2016,Men,Golf,Monmouth IL,64574.0
+2016,Men,Soccer,Monmouth IL,59178.0
+2016,Men,Tennis,Monmouth IL,51283.0
+2016,Men,Track and Fields,Monmouth IL,93266.0
+2016,Women,Basketball,Monmouth IL,77301.0
+2016,Women,Cross Country,Monmouth IL,46731.0
+2016,Women,Golf,Monmouth IL,52707.0
+2016,Women,Soccer,Monmouth IL,70082.0
+2016,Women,Softball,Monmouth IL,83483.0
+2016,Women,Tennis,Monmouth IL,40943.0
+2016,Women,Track and Fields,Monmouth IL,85486.0
+2016,Women,Volleyball,Monmouth IL,71452.0
+2017,Men,Baseball,Monmouth IL,97817.0
+2017,Men,Basketball,Monmouth IL,76938.0
+2017,Men,Cross Country,Monmouth IL,25858.0
+2017,Men,Football,Monmouth IL,297214.0
+2017,Men,Golf,Monmouth IL,32066.0
+2017,Men,Soccer,Monmouth IL,62414.0
+2017,Men,Tennis,Monmouth IL,39387.0
+2017,Men,Track and Fields,Monmouth IL,81388.0
+2017,Women,Basketball,Monmouth IL,82615.0
+2017,Women,Cross Country,Monmouth IL,23966.0
+2017,Women,Golf,Monmouth IL,34829.0
+2017,Women,Soccer,Monmouth IL,64736.0
+2017,Women,Softball,Monmouth IL,65006.0
+2017,Women,Tennis,Monmouth IL,23570.0
+2017,Women,Track and Fields,Monmouth IL,65905.0
+2017,Women,Volleyball,Monmouth IL,59082.0
+2018,Men,Baseball,Monmouth IL,94821.0
+2018,Men,Basketball,Monmouth IL,105075.0
+2018,Men,Cross Country,Monmouth IL,19024.0
+2018,Men,Football,Monmouth IL,309310.0
+2018,Men,Golf,Monmouth IL,32256.0
+2018,Men,Soccer,Monmouth IL,49541.0
+2018,Men,Tennis,Monmouth IL,33963.0
+2018,Men,Track and Fields,Monmouth IL,105336.0
+2018,Women,Basketball,Monmouth IL,77414.0
+2018,Women,Cross Country,Monmouth IL,21462.0
+2018,Women,Golf,Monmouth IL,44164.0
+2018,Women,Soccer,Monmouth IL,52058.0
+2018,Women,Softball,Monmouth IL,58463.0
+2018,Women,Tennis,Monmouth IL,22070.0
+2018,Women,Track and Fields,Monmouth IL,97065.0
+2018,Women,Volleyball,Monmouth IL,56958.0
+2019,Men,Baseball,Monmouth IL,61435.0
+2019,Men,Basketball,Monmouth IL,91463.0
+2019,Men,Cross Country,Monmouth IL,21229.0
+2019,Men,Football,Monmouth IL,313629.0
+2019,Men,Golf,Monmouth IL,28810.0
+2019,Men,Soccer,Monmouth IL,56401.0
+2019,Men,Tennis,Monmouth IL,23191.0
+2019,Men,Track and Fields,Monmouth IL,48283.0
+2019,Women,Basketball,Monmouth IL,74255.0
+2019,Women,Cross Country,Monmouth IL,22157.0
+2019,Women,Golf,Monmouth IL,19898.0
+2019,Women,Soccer,Monmouth IL,60115.0
+2019,Women,Softball,Monmouth IL,40943.0
+2019,Women,Tennis,Monmouth IL,25754.0
+2019,Women,Track and Fields,Monmouth IL,56930.0
+2019,Women,Volleyball,Monmouth IL,58064.0
+2020,Men,Baseball,Monmouth IL,69286.0
+2020,Men,Golf,Monmouth IL,14901.0
+2020,Men,Tennis,Monmouth IL,21769.0
+2020,Men,Track and Fields,Monmouth IL,51824.0
+2020,Women,Golf,Monmouth IL,11970.0
+2020,Women,Softball,Monmouth IL,53482.0
+2020,Women,Tennis,Monmouth IL,19441.0
+2020,Women,Track and Fields,Monmouth IL,50538.0
+2021,Men,Baseball,Monmouth IL,108799.0
+2021,Men,Basketball,Monmouth IL,92999.0
+2021,Men,Cross Country,Monmouth IL,26364.0
+2021,Men,Football,Monmouth IL,336660.0
+2021,Men,Golf,Monmouth IL,27692.0
+2021,Men,Soccer,Monmouth IL,50828.0
+2021,Men,Tennis,Monmouth IL,25207.0
+2021,Men,Track and Fields,Monmouth IL,100278.0
+2021,Women,Basketball,Monmouth IL,71383.0
+2021,Women,Cross Country,Monmouth IL,25943.0
+2021,Women,Golf,Monmouth IL,18328.0
+2021,Women,Soccer,Monmouth IL,66154.0
+2021,Women,Softball,Monmouth IL,73391.0
+2021,Women,Tennis,Monmouth IL,22225.0
+2021,Women,Track and Fields,Monmouth IL,106015.0
+2021,Women,Volleyball,Monmouth IL,66282.0
+2022,Men,Baseball,Monmouth IL,122001.0
+2022,Men,Basketball,Monmouth IL,95517.0
+2022,Men,Cross Country,Monmouth IL,22902.0
+2022,Men,Football,Monmouth IL,373864.0
+2022,Men,Golf,Monmouth IL,27073.0
+2022,Men,Soccer,Monmouth IL,47601.0
+2022,Men,Tennis,Monmouth IL,27089.0
+2022,Men,Track and Fields,Monmouth IL,87540.0
+2022,Women,Basketball,Monmouth IL,73212.0
+2022,Women,Cross Country,Monmouth IL,23079.0
+2022,Women,Golf,Monmouth IL,22052.0
+2022,Women,Soccer,Monmouth IL,60398.0
+2022,Women,Softball,Monmouth IL,99594.0
+2022,Women,Tennis,Monmouth IL,26732.0
+2022,Women,Track and Fields,Monmouth IL,94880.0
+2022,Women,Volleyball,Monmouth IL,66242.0
+2003,Men,Baseball,Macalester College,93332.0
+2003,Men,Basketball,Macalester College,99610.0
+2003,Men,Cross Country,Macalester College,82411.0
+2003,Men,Football,Macalester College,190903.0
+2003,Men,Golf,Macalester College,45930.0
+2003,Men,Soccer,Macalester College,80550.0
+2003,Men,Swimming and Diving,Macalester College,43735.0
+2003,Men,Tennis,Macalester College,23194.0
+2003,Women,Basketball,Macalester College,80874.0
+2003,Women,Cross Country,Macalester College,99169.0
+2003,Women,Golf,Macalester College,34618.0
+2003,Women,Soccer,Macalester College,61925.0
+2003,Women,Softball,Macalester College,116518.0
+2003,Women,Swimming and Diving,Macalester College,54961.0
+2003,Women,Tennis,Macalester College,15620.0
+2003,Women,Volleyball,Macalester College,98747.0
+2004,Men,Baseball,Macalester College,109809.0
+2004,Men,Basketball,Macalester College,119687.0
+2004,Men,Cross Country,Macalester College,83329.0
+2004,Men,Football,Macalester College,210917.0
+2004,Men,Golf,Macalester College,32684.0
+2004,Men,Soccer,Macalester College,67471.0
+2004,Men,Swimming and Diving,Macalester College,59752.0
+2004,Men,Tennis,Macalester College,19800.0
+2004,Women,Basketball,Macalester College,90959.0
+2004,Women,Cross Country,Macalester College,109483.0
+2004,Women,Golf,Macalester College,25486.0
+2004,Women,Soccer,Macalester College,130159.0
+2004,Women,Softball,Macalester College,64702.0
+2004,Women,Swimming and Diving,Macalester College,64602.0
+2004,Women,Tennis,Macalester College,19345.0
+2004,Women,Volleyball,Macalester College,118262.0
+2005,Men,Baseball,Macalester College,133511.0
+2005,Men,Basketball,Macalester College,137033.0
+2005,Men,Football,Macalester College,336154.0
+2005,Men,Golf,Macalester College,31843.0
+2005,Men,Soccer,Macalester College,130991.0
+2005,Men,Swimming and Diving,Macalester College,45889.0
+2005,Men,Tennis,Macalester College,33998.0
+2005,Women,Basketball,Macalester College,105928.0
+2005,Women,Golf,Macalester College,29741.0
+2005,Women,Soccer,Macalester College,97408.0
+2005,Women,Softball,Macalester College,74298.0
+2005,Women,Swimming and Diving,Macalester College,79435.0
+2005,Women,Tennis,Macalester College,29302.0
+2005,Women,Volleyball,Macalester College,124511.0
+2006,Men,Baseball,Macalester College,139848.0
+2006,Men,Basketball,Macalester College,135736.0
+2006,Men,Football,Macalester College,355288.0
+2006,Men,Golf,Macalester College,35396.0
+2006,Men,Soccer,Macalester College,119739.0
+2006,Men,Swimming and Diving,Macalester College,62768.0
+2006,Men,Tennis,Macalester College,28720.0
+2006,Women,Basketball,Macalester College,120687.0
+2006,Women,Golf,Macalester College,35396.0
+2006,Women,Soccer,Macalester College,97433.0
+2006,Women,Softball,Macalester College,117785.0
+2006,Women,Swimming and Diving,Macalester College,62768.0
+2006,Women,Tennis,Macalester College,28720.0
+2006,Women,Volleyball,Macalester College,127325.0
+2007,Men,Baseball,Macalester College,135883.0
+2007,Men,Basketball,Macalester College,126730.0
+2007,Men,Football,Macalester College,273624.0
+2007,Men,Golf,Macalester College,41700.0
+2007,Men,Soccer,Macalester College,95722.0
+2007,Men,Swimming and Diving,Macalester College,78152.0
+2007,Men,Tennis,Macalester College,30122.0
+2007,Women,Basketball,Macalester College,123203.0
+2007,Women,Golf,Macalester College,41700.0
+2007,Women,Soccer,Macalester College,150351.0
+2007,Women,Softball,Macalester College,116742.0
+2007,Women,Swimming and Diving,Macalester College,78152.0
+2007,Women,Tennis,Macalester College,30122.0
+2007,Women,Volleyball,Macalester College,124254.0
+2008,Men,Baseball,Macalester College,151196.0
+2008,Men,Basketball,Macalester College,163039.0
+2008,Men,Football,Macalester College,316406.0
+2008,Men,Golf,Macalester College,37956.0
+2008,Men,Soccer,Macalester College,121467.0
+2008,Men,Swimming and Diving,Macalester College,62563.0
+2008,Men,Tennis,Macalester College,34754.0
+2008,Women,Basketball,Macalester College,125476.0
+2008,Women,Golf,Macalester College,36448.0
+2008,Women,Soccer,Macalester College,163521.0
+2008,Women,Softball,Macalester College,118892.0
+2008,Women,Swimming and Diving,Macalester College,75789.0
+2008,Women,Tennis,Macalester College,33018.0
+2008,Women,Volleyball,Macalester College,132608.0
+2009,Men,Baseball,Macalester College,141939.0
+2009,Men,Basketball,Macalester College,166449.0
+2009,Men,Football,Macalester College,324618.0
+2009,Men,Golf,Macalester College,39670.0
+2009,Men,Soccer,Macalester College,138915.0
+2009,Men,Swimming and Diving,Macalester College,57939.0
+2009,Men,Tennis,Macalester College,26865.0
+2009,Women,Basketball,Macalester College,145196.0
+2009,Women,Golf,Macalester College,39670.0
+2009,Women,Soccer,Macalester College,186607.0
+2009,Women,Softball,Macalester College,116968.0
+2009,Women,Swimming and Diving,Macalester College,57939.0
+2009,Women,Tennis,Macalester College,26865.0
+2009,Women,Volleyball,Macalester College,149151.0
+2010,Men,Baseball,Macalester College,146204.0
+2010,Men,Basketball,Macalester College,163871.0
+2010,Men,Football,Macalester College,366743.0
+2010,Men,Golf,Macalester College,55194.0
+2010,Men,Soccer,Macalester College,145185.0
+2010,Men,Swimming and Diving,Macalester College,58199.0
+2010,Men,Tennis,Macalester College,31595.0
+2010,Women,Basketball,Macalester College,160115.0
+2010,Women,Golf,Macalester College,39425.0
+2010,Women,Soccer,Macalester College,130395.0
+2010,Women,Softball,Macalester College,124265.0
+2010,Women,Swimming and Diving,Macalester College,95236.0
+2010,Women,Tennis,Macalester College,31595.0
+2010,Women,Volleyball,Macalester College,118365.0
+2011,Men,Baseball,Macalester College,146356.0
+2011,Men,Basketball,Macalester College,154857.0
+2011,Men,Football,Macalester College,383251.0
+2011,Men,Golf,Macalester College,54091.0
+2011,Men,Soccer,Macalester College,130314.0
+2011,Men,Swimming and Diving,Macalester College,46735.0
+2011,Men,Tennis,Macalester College,36330.0
+2011,Women,Basketball,Macalester College,162756.0
+2011,Women,Golf,Macalester College,47333.0
+2011,Women,Soccer,Macalester College,100165.0
+2011,Women,Softball,Macalester College,131452.0
+2011,Women,Swimming and Diving,Macalester College,72227.0
+2011,Women,Tennis,Macalester College,33027.0
+2011,Women,Volleyball,Macalester College,120783.0
+2012,Men,Baseball,Macalester College,161911.0
+2012,Men,Basketball,Macalester College,177731.0
+2012,Men,Football,Macalester College,410395.0
+2012,Men,Golf,Macalester College,35489.0
+2012,Men,Soccer,Macalester College,141081.0
+2012,Men,Swimming and Diving,Macalester College,56686.0
+2012,Men,Tennis,Macalester College,30649.0
+2012,Women,Basketball,Macalester College,170337.0
+2012,Women,Golf,Macalester College,47319.0
+2012,Women,Soccer,Macalester College,120370.0
+2012,Women,Softball,Macalester College,109561.0
+2012,Women,Swimming and Diving,Macalester College,61046.0
+2012,Women,Tennis,Macalester College,27863.0
+2012,Women,Volleyball,Macalester College,161241.0
+2013,Men,Baseball,Macalester College,157561.0
+2013,Men,Basketball,Macalester College,165981.0
+2013,Men,Football,Macalester College,417601.0
+2013,Men,Golf,Macalester College,42207.0
+2013,Men,Soccer,Macalester College,157353.0
+2013,Men,Tennis,Macalester College,28697.0
+2013,Women,Basketball,Macalester College,165870.0
+2013,Women,Golf,Macalester College,54267.0
+2013,Women,Soccer,Macalester College,141159.0
+2013,Women,Softball,Macalester College,112877.0
+2013,Women,Swimming and Diving,Macalester College,76570.0
+2013,Women,Tennis,Macalester College,31306.0
+2013,Women,Volleyball,Macalester College,139580.0
+2014,Men,Baseball,Macalester College,157755.0
+2014,Men,Basketball,Macalester College,172625.0
+2014,Men,Football,Macalester College,493476.0
+2014,Men,Golf,Macalester College,47373.0
+2014,Men,Soccer,Macalester College,166675.0
+2014,Men,Swimming and Diving,Macalester College,55403.0
+2014,Men,Tennis,Macalester College,32286.0
+2014,Women,Basketball,Macalester College,150379.0
+2014,Women,Golf,Macalester College,55268.0
+2014,Women,Soccer,Macalester College,154171.0
+2014,Women,Softball,Macalester College,120566.0
+2014,Women,Swimming and Diving,Macalester College,100733.0
+2014,Women,Tennis,Macalester College,35222.0
+2014,Women,Volleyball,Macalester College,133530.0
+2015,Men,Baseball,Macalester College,168917.0
+2015,Men,Basketball,Macalester College,187322.0
+2015,Men,Football,Macalester College,542622.0
+2015,Men,Golf,Macalester College,52880.0
+2015,Men,Soccer,Macalester College,170310.0
+2015,Men,Swimming and Diving,Macalester College,54758.0
+2015,Men,Tennis,Macalester College,35064.0
+2015,Women,Basketball,Macalester College,158053.0
+2015,Women,Golf,Macalester College,52880.0
+2015,Women,Soccer,Macalester College,149093.0
+2015,Women,Softball,Macalester College,135261.0
+2015,Women,Swimming and Diving,Macalester College,76661.0
+2015,Women,Tennis,Macalester College,35064.0
+2015,Women,Volleyball,Macalester College,142030.0
+2016,Men,Baseball,Macalester College,188592.0
+2016,Men,Basketball,Macalester College,185268.0
+2016,Men,Football,Macalester College,538305.0
+2016,Men,Golf,Macalester College,71633.0
+2016,Men,Soccer,Macalester College,177147.0
+2016,Men,Swimming and Diving,Macalester College,51863.0
+2016,Men,Tennis,Macalester College,35754.0
+2016,Women,Basketball,Macalester College,169417.0
+2016,Women,Golf,Macalester College,11939.0
+2016,Women,Soccer,Macalester College,165328.0
+2016,Women,Softball,Macalester College,150789.0
+2016,Women,Swimming and Diving,Macalester College,82116.0
+2016,Women,Tennis,Macalester College,32504.0
+2016,Women,Volleyball,Macalester College,134709.0
+2017,Men,Baseball,Macalester College,187736.0
+2017,Men,Basketball,Macalester College,169774.0
+2017,Men,Football,Macalester College,544721.0
+2017,Men,Golf,Macalester College,67488.0
+2017,Men,Soccer,Macalester College,173100.0
+2017,Men,Swimming and Diving,Macalester College,68838.0
+2017,Men,Tennis,Macalester College,46701.0
+2017,Women,Basketball,Macalester College,144540.0
+2017,Women,Golf,Macalester College,34244.0
+2017,Women,Soccer,Macalester College,148477.0
+2017,Women,Softball,Macalester College,136704.0
+2017,Women,Swimming and Diving,Macalester College,79790.0
+2017,Women,Tennis,Macalester College,34072.0
+2017,Women,Volleyball,Macalester College,134926.0
+2018,Men,Baseball,Macalester College,222993.0
+2018,Men,Basketball,Macalester College,161588.0
+2018,Men,Football,Macalester College,584346.0
+2018,Men,Golf,Macalester College,61509.0
+2018,Men,Soccer,Macalester College,227553.0
+2018,Men,Swimming and Diving,Macalester College,77751.0
+2018,Men,Tennis,Macalester College,51050.0
+2018,Women,Basketball,Macalester College,167125.0
+2018,Women,Golf,Macalester College,51258.0
+2018,Women,Soccer,Macalester College,171265.0
+2018,Women,Softball,Macalester College,204018.0
+2018,Women,Swimming and Diving,Macalester College,88118.0
+2018,Women,Tennis,Macalester College,30630.0
+2018,Women,Volleyball,Macalester College,137604.0
+2019,Men,Baseball,Macalester College,181150.0
+2019,Men,Basketball,Macalester College,198279.0
+2019,Men,Football,Macalester College,569283.0
+2019,Men,Golf,Macalester College,72766.0
+2019,Men,Soccer,Macalester College,225812.0
+2019,Men,Swimming and Diving,Macalester College,45395.0
+2019,Men,Tennis,Macalester College,42848.0
+2019,Women,Basketball,Macalester College,189355.0
+2019,Women,Golf,Macalester College,27287.0
+2019,Women,Soccer,Macalester College,171394.0
+2019,Women,Softball,Macalester College,197609.0
+2019,Women,Swimming and Diving,Macalester College,141860.0
+2019,Women,Tennis,Macalester College,29458.0
+2019,Women,Volleyball,Macalester College,168823.0
+2020,Men,Baseball,Macalester College,187301.0
+2020,Men,Basketball,Macalester College,165716.0
+2020,Men,Football,Macalester College,488421.0
+2020,Men,Golf,Macalester College,50174.0
+2020,Men,Soccer,Macalester College,182804.0
+2020,Men,Tennis,Macalester College,27643.0
+2020,Women,Basketball,Macalester College,170285.0
+2020,Women,Golf,Macalester College,40139.0
+2020,Women,Soccer,Macalester College,145865.0
+2020,Women,Softball,Macalester College,185794.0
+2020,Women,Swimming and Diving,Macalester College,92584.0
+2020,Women,Tennis,Macalester College,34554.0
+2020,Women,Volleyball,Macalester College,127046.0
+2021,Men,Baseball,Macalester College,241324.0
+2021,Men,Basketball,Macalester College,208117.0
+2021,Men,Football,Macalester College,601365.0
+2021,Men,Golf,Macalester College,86347.0
+2021,Men,Soccer,Macalester College,232150.0
+2021,Men,Tennis,Macalester College,55903.0
+2021,Women,Basketball,Macalester College,199737.0
+2021,Women,Golf,Macalester College,86347.0
+2021,Women,Soccer,Macalester College,174866.0
+2021,Women,Softball,Macalester College,222104.0
+2021,Women,Swimming and Diving,Macalester College,127336.0
+2021,Women,Tennis,Macalester College,46037.0
+2021,Women,Volleyball,Macalester College,187168.0
+2022,Men,Baseball,Macalester College,247300.0
+2022,Men,Basketball,Macalester College,212646.0
+2022,Men,Football,Macalester College,535949.0
+2022,Men,Golf,Macalester College,98347.0
+2022,Men,Soccer,Macalester College,263403.0
+2022,Men,Swimming and Diving,Macalester College,84731.0
+2022,Men,Tennis,Macalester College,50586.0
+2022,Women,Basketball,Macalester College,213014.0
+2022,Women,Golf,Macalester College,78677.0
+2022,Women,Soccer,Macalester College,192482.0
+2022,Women,Softball,Macalester College,274133.0
+2022,Women,Swimming and Diving,Macalester College,150632.0
+2022,Women,Tennis,Macalester College,67448.0
+2022,Women,Volleyball,Macalester College,227887.0
+2003,Men,Baseball,Lawrence,65315.0
+2003,Men,Basketball,Lawrence,76467.0
+2003,Men,Cross Country,Lawrence,8447.0
+2003,Men,Football,Lawrence,102837.0
+2003,Men,Golf,Lawrence,23591.0
+2003,Men,Soccer,Lawrence,58570.0
+2003,Men,Swimming and Diving,Lawrence,42429.0
+2003,Men,Tennis,Lawrence,7975.0
+2003,Men,Track and Fields,Lawrence,46206.0
+2003,Women,Basketball,Lawrence,86140.0
+2003,Women,Cross Country,Lawrence,9507.0
+2003,Women,Soccer,Lawrence,47441.0
+2003,Women,Softball,Lawrence,47384.0
+2003,Women,Swimming and Diving,Lawrence,44958.0
+2003,Women,Tennis,Lawrence,6415.0
+2003,Women,Track and Fields,Lawrence,46206.0
+2003,Women,Volleyball,Lawrence,40956.0
+2004,Men,Baseball,Lawrence,70278.0
+2004,Men,Basketball,Lawrence,89645.0
+2004,Men,Football,Lawrence,192046.0
+2004,Men,Golf,Lawrence,19000.0
+2004,Men,Soccer,Lawrence,57165.0
+2004,Men,Swimming and Diving,Lawrence,35615.0
+2004,Men,Tennis,Lawrence,13380.0
+2004,Women,Basketball,Lawrence,105729.0
+2004,Women,Soccer,Lawrence,43599.0
+2004,Women,Softball,Lawrence,68653.0
+2004,Women,Swimming and Diving,Lawrence,32906.0
+2004,Women,Tennis,Lawrence,8419.0
+2004,Women,Volleyball,Lawrence,32709.0
+2005,Men,Baseball,Lawrence,61659.0
+2005,Men,Basketball,Lawrence,117336.0
+2005,Men,Cross Country,Lawrence,10303.0
+2005,Men,Football,Lawrence,175019.0
+2005,Men,Golf,Lawrence,12344.0
+2005,Men,Soccer,Lawrence,48501.0
+2005,Men,Swimming and Diving,Lawrence,30890.0
+2005,Men,Tennis,Lawrence,12097.0
+2005,Men,Track and Fields,Lawrence,35486.0
+2005,Women,Basketball,Lawrence,116009.0
+2005,Women,Cross Country,Lawrence,16223.0
+2005,Women,Soccer,Lawrence,53149.0
+2005,Women,Softball,Lawrence,105597.0
+2005,Women,Swimming and Diving,Lawrence,29150.0
+2005,Women,Tennis,Lawrence,18839.0
+2005,Women,Track and Fields,Lawrence,25950.0
+2005,Women,Volleyball,Lawrence,35910.0
+2006,Men,Baseball,Lawrence,48005.0
+2006,Men,Basketball,Lawrence,72230.0
+2006,Men,Football,Lawrence,130807.0
+2006,Men,Golf,Lawrence,20789.0
+2006,Men,Soccer,Lawrence,33816.0
+2006,Men,Swimming and Diving,Lawrence,24350.0
+2006,Men,Tennis,Lawrence,19343.0
+2006,Women,Basketball,Lawrence,61416.0
+2006,Women,Soccer,Lawrence,31717.0
+2006,Women,Softball,Lawrence,54719.0
+2006,Women,Swimming and Diving,Lawrence,22384.0
+2006,Women,Tennis,Lawrence,17397.0
+2006,Women,Volleyball,Lawrence,41337.0
+2007,Men,Baseball,Lawrence,65014.0
+2007,Men,Basketball,Lawrence,105353.0
+2007,Men,Football,Lawrence,237483.0
+2007,Men,Golf,Lawrence,14925.0
+2007,Men,Soccer,Lawrence,53188.0
+2007,Men,Swimming and Diving,Lawrence,36421.0
+2007,Men,Tennis,Lawrence,27810.0
+2007,Women,Basketball,Lawrence,90112.0
+2007,Women,Soccer,Lawrence,53725.0
+2007,Women,Softball,Lawrence,111270.0
+2007,Women,Swimming and Diving,Lawrence,36003.0
+2007,Women,Tennis,Lawrence,25047.0
+2007,Women,Volleyball,Lawrence,70757.0
+2008,Men,Baseball,Lawrence,91386.0
+2008,Men,Basketball,Lawrence,111158.0
+2008,Men,Football,Lawrence,272639.0
+2008,Men,Golf,Lawrence,11643.0
+2008,Men,Soccer,Lawrence,56917.0
+2008,Men,Swimming and Diving,Lawrence,39447.0
+2008,Men,Tennis,Lawrence,36409.0
+2008,Women,Basketball,Lawrence,94463.0
+2008,Women,Soccer,Lawrence,77795.0
+2008,Women,Softball,Lawrence,76331.0
+2008,Women,Swimming and Diving,Lawrence,38780.0
+2008,Women,Tennis,Lawrence,25660.0
+2008,Women,Volleyball,Lawrence,78341.0
+2009,Men,Baseball,Lawrence,84231.0
+2009,Men,Basketball,Lawrence,94404.0
+2009,Men,Football,Lawrence,236244.0
+2009,Men,Golf,Lawrence,9964.0
+2009,Men,Soccer,Lawrence,49323.0
+2009,Men,Swimming and Diving,Lawrence,34571.0
+2009,Men,Tennis,Lawrence,25309.0
+2009,Women,Basketball,Lawrence,92113.0
+2009,Women,Soccer,Lawrence,65671.0
+2009,Women,Softball,Lawrence,68043.0
+2009,Women,Swimming and Diving,Lawrence,39503.0
+2009,Women,Tennis,Lawrence,25079.0
+2009,Women,Volleyball,Lawrence,77874.0
+2010,Men,Baseball,Lawrence,86457.0
+2010,Men,Basketball,Lawrence,98327.0
+2010,Men,Football,Lawrence,242313.0
+2010,Men,Golf,Lawrence,9656.0
+2010,Men,Soccer,Lawrence,48070.0
+2010,Men,Swimming and Diving,Lawrence,37907.0
+2010,Men,Tennis,Lawrence,31733.0
+2010,Women,Basketball,Lawrence,80018.0
+2010,Women,Soccer,Lawrence,57533.0
+2010,Women,Softball,Lawrence,76452.0
+2010,Women,Swimming and Diving,Lawrence,38430.0
+2010,Women,Tennis,Lawrence,31809.0
+2010,Women,Volleyball,Lawrence,78738.0
+2011,Men,Baseball,Lawrence,94249.0
+2011,Men,Basketball,Lawrence,109000.0
+2011,Men,Football,Lawrence,257037.0
+2011,Men,Golf,Lawrence,10762.0
+2011,Men,Soccer,Lawrence,85999.0
+2011,Men,Swimming and Diving,Lawrence,41365.0
+2011,Men,Tennis,Lawrence,31661.0
+2011,Women,Basketball,Lawrence,97988.0
+2011,Women,Soccer,Lawrence,63286.0
+2011,Women,Softball,Lawrence,86695.0
+2011,Women,Swimming and Diving,Lawrence,41412.0
+2011,Women,Tennis,Lawrence,39540.0
+2011,Women,Volleyball,Lawrence,89649.0
+2012,Men,Baseball,Lawrence,95868.0
+2012,Men,Basketball,Lawrence,110231.0
+2012,Men,Football,Lawrence,206581.0
+2012,Men,Golf,Lawrence,12582.0
+2012,Men,Soccer,Lawrence,83151.0
+2012,Men,Swimming and Diving,Lawrence,39104.0
+2012,Men,Tennis,Lawrence,37327.0
+2012,Women,Basketball,Lawrence,100551.0
+2012,Women,Soccer,Lawrence,73067.0
+2012,Women,Softball,Lawrence,94536.0
+2012,Women,Swimming and Diving,Lawrence,47303.0
+2012,Women,Tennis,Lawrence,31207.0
+2012,Women,Volleyball,Lawrence,90417.0
+2013,Men,Baseball,Lawrence,119318.0
+2013,Men,Basketball,Lawrence,121117.0
+2013,Men,Football,Lawrence,251490.0
+2013,Men,Golf,Lawrence,25667.0
+2013,Men,Soccer,Lawrence,100101.0
+2013,Men,Tennis,Lawrence,34502.0
+2013,Women,Basketball,Lawrence,98141.0
+2013,Women,Soccer,Lawrence,85425.0
+2013,Women,Softball,Lawrence,112882.0
+2013,Women,Tennis,Lawrence,32204.0
+2013,Women,Volleyball,Lawrence,103404.0
+2014,Men,Baseball,Lawrence,123861.0
+2014,Men,Basketball,Lawrence,120447.0
+2014,Men,Football,Lawrence,284054.0
+2014,Men,Golf,Lawrence,25437.0
+2014,Men,Soccer,Lawrence,100116.0
+2014,Men,Tennis,Lawrence,35926.0
+2014,Women,Basketball,Lawrence,107938.0
+2014,Women,Soccer,Lawrence,93719.0
+2014,Women,Softball,Lawrence,112664.0
+2014,Women,Tennis,Lawrence,34459.0
+2014,Women,Volleyball,Lawrence,107193.0
+2015,Men,Baseball,Lawrence,97195.0
+2015,Men,Basketball,Lawrence,108867.0
+2015,Men,Football,Lawrence,330191.0
+2015,Men,Golf,Lawrence,22363.0
+2015,Men,Soccer,Lawrence,84286.0
+2015,Men,Tennis,Lawrence,39740.0
+2015,Women,Basketball,Lawrence,89143.0
+2015,Women,Soccer,Lawrence,78422.0
+2015,Women,Softball,Lawrence,103292.0
+2015,Women,Tennis,Lawrence,30839.0
+2015,Women,Volleyball,Lawrence,93788.0
+2016,Men,Baseball,Lawrence,105993.0
+2016,Men,Basketball,Lawrence,119625.0
+2016,Men,Football,Lawrence,378198.0
+2016,Men,Soccer,Lawrence,86084.0
+2016,Men,Tennis,Lawrence,54779.0
+2016,Women,Basketball,Lawrence,95359.0
+2016,Women,Soccer,Lawrence,87577.0
+2016,Women,Softball,Lawrence,117659.0
+2016,Women,Tennis,Lawrence,42231.0
+2016,Women,Volleyball,Lawrence,107164.0
+2017,Men,Baseball,Lawrence,131737.0
+2017,Men,Basketball,Lawrence,156544.0
+2017,Men,Football,Lawrence,366616.0
+2017,Men,Soccer,Lawrence,83792.0
+2017,Men,Tennis,Lawrence,34800.0
+2017,Women,Basketball,Lawrence,113715.0
+2017,Women,Soccer,Lawrence,91352.0
+2017,Women,Softball,Lawrence,111523.0
+2017,Women,Tennis,Lawrence,33563.0
+2017,Women,Volleyball,Lawrence,99493.0
+2018,Men,Baseball,Lawrence,123866.0
+2018,Men,Basketball,Lawrence,163831.0
+2018,Men,Football,Lawrence,357084.0
+2018,Men,Soccer,Lawrence,94666.0
+2018,Men,Tennis,Lawrence,43242.0
+2018,Women,Basketball,Lawrence,118351.0
+2018,Women,Soccer,Lawrence,85245.0
+2018,Women,Softball,Lawrence,110063.0
+2018,Women,Swimming and Diving,Lawrence,71783.0
+2018,Women,Tennis,Lawrence,35933.0
+2018,Women,Volleyball,Lawrence,126350.0
+2019,Men,Baseball,Lawrence,119294.0
+2019,Men,Basketball,Lawrence,165703.0
+2019,Men,Football,Lawrence,365225.0
+2019,Men,Soccer,Lawrence,95604.0
+2019,Men,Tennis,Lawrence,39321.0
+2019,Women,Basketball,Lawrence,126132.0
+2019,Women,Soccer,Lawrence,99465.0
+2019,Women,Softball,Lawrence,96416.0
+2019,Women,Swimming and Diving,Lawrence,57662.0
+2019,Women,Tennis,Lawrence,36169.0
+2019,Women,Volleyball,Lawrence,111542.0
+2020,Men,Baseball,Lawrence,159327.0
+2020,Men,Basketball,Lawrence,134836.0
+2020,Men,Soccer,Lawrence,81407.0
+2020,Women,Basketball,Lawrence,99496.0
+2020,Women,Soccer,Lawrence,72220.0
+2020,Women,Softball,Lawrence,93229.0
+2020,Women,Swimming and Diving,Lawrence,51587.0
+2020,Women,Tennis,Lawrence,33292.0
+2020,Women,Volleyball,Lawrence,74916.0
+2021,Men,Baseball,Lawrence,140362.0
+2021,Men,Basketball,Lawrence,137941.0
+2021,Men,Football,Lawrence,380226.0
+2021,Men,Soccer,Lawrence,97151.0
+2021,Men,Swimming and Diving,Lawrence,54316.0
+2021,Men,Tennis,Lawrence,11115.0
+2021,Women,Basketball,Lawrence,112975.0
+2021,Women,Soccer,Lawrence,91435.0
+2021,Women,Softball,Lawrence,112173.0
+2021,Women,Swimming and Diving,Lawrence,67198.0
+2021,Women,Tennis,Lawrence,13036.0
+2021,Women,Volleyball,Lawrence,107898.0
+2022,Men,Baseball,Lawrence,209033.0
+2022,Men,Basketball,Lawrence,167829.0
+2022,Men,Football,Lawrence,424495.0
+2022,Men,Soccer,Lawrence,120687.0
+2022,Men,Swimming and Diving,Lawrence,80506.0
+2022,Men,Tennis,Lawrence,65874.0
+2022,Women,Basketball,Lawrence,179837.0
+2022,Women,Soccer,Lawrence,120769.0
+2022,Women,Softball,Lawrence,151219.0
+2022,Women,Swimming and Diving,Lawrence,86172.0
+2022,Women,Tennis,Lawrence,43807.0
+2022,Women,Volleyball,Lawrence,100333.0
+2003,Men,Baseball,Knox,21409.0
+2003,Men,Basketball,Knox,52316.0
+2003,Men,Football,Knox,125595.0
+2003,Men,Golf,Knox,18679.0
+2003,Men,Soccer,Knox,18771.0
+2003,Men,Tennis,Knox,9930.0
+2003,Women,Basketball,Knox,32075.0
+2003,Women,Golf,Knox,10921.0
+2003,Women,Soccer,Knox,26678.0
+2003,Women,Softball,Knox,30237.0
+2003,Women,Tennis,Knox,30408.0
+2003,Women,Volleyball,Knox,21568.0
+2004,Men,Baseball,Knox,21350.0
+2004,Men,Basketball,Knox,55557.0
+2004,Men,Football,Knox,100728.0
+2004,Men,Golf,Knox,29365.0
+2004,Men,Soccer,Knox,16013.0
+2004,Men,Swimming and Diving,Knox,6407.0
+2004,Men,Tennis,Knox,7536.0
+2004,Women,Basketball,Knox,31222.0
+2004,Women,Golf,Knox,9977.0
+2004,Women,Soccer,Knox,26814.0
+2004,Women,Softball,Knox,28953.0
+2004,Women,Swimming and Diving,Knox,8747.0
+2004,Women,Tennis,Knox,32599.0
+2004,Women,Volleyball,Knox,35600.0
+2005,Men,Baseball,Knox,38129.0
+2005,Men,Basketball,Knox,71372.0
+2005,Men,Football,Knox,120114.0
+2005,Men,Golf,Knox,21150.0
+2005,Men,Soccer,Knox,18728.0
+2005,Men,Swimming and Diving,Knox,6012.0
+2005,Men,Tennis,Knox,10960.0
+2005,Women,Basketball,Knox,51286.0
+2005,Women,Golf,Knox,9578.0
+2005,Women,Soccer,Knox,38470.0
+2005,Women,Softball,Knox,36491.0
+2005,Women,Swimming and Diving,Knox,6916.0
+2005,Women,Tennis,Knox,38916.0
+2005,Women,Volleyball,Knox,42316.0
+2006,Men,Baseball,Knox,47145.0
+2006,Men,Basketball,Knox,104561.0
+2006,Men,Cross Country,Knox,46825.0
+2006,Men,Football,Knox,151312.0
+2006,Men,Golf,Knox,21175.0
+2006,Men,Soccer,Knox,20630.0
+2006,Men,Swimming and Diving,Knox,7179.0
+2006,Men,Tennis,Knox,29859.0
+2006,Women,Basketball,Knox,44249.0
+2006,Women,Cross Country,Knox,37967.0
+2006,Women,Golf,Knox,11316.0
+2006,Women,Soccer,Knox,35164.0
+2006,Women,Softball,Knox,40174.0
+2006,Women,Swimming and Diving,Knox,8860.0
+2006,Women,Tennis,Knox,20001.0
+2006,Women,Volleyball,Knox,39566.0
+2007,Men,Baseball,Knox,74117.0
+2007,Men,Basketball,Knox,95013.0
+2007,Men,Football,Knox,199992.0
+2007,Men,Golf,Knox,24824.0
+2007,Men,Soccer,Knox,24838.0
+2007,Men,Swimming and Diving,Knox,8741.0
+2007,Men,Tennis,Knox,29979.0
+2007,Women,Basketball,Knox,60724.0
+2007,Women,Golf,Knox,21782.0
+2007,Women,Soccer,Knox,54763.0
+2007,Women,Softball,Knox,54256.0
+2007,Women,Swimming and Diving,Knox,10997.0
+2007,Women,Tennis,Knox,21016.0
+2007,Women,Volleyball,Knox,65748.0
+2008,Men,Baseball,Knox,70534.0
+2008,Men,Basketball,Knox,86339.0
+2008,Men,Football,Knox,216624.0
+2008,Men,Golf,Knox,27675.0
+2008,Men,Soccer,Knox,21538.0
+2008,Men,Swimming and Diving,Knox,9756.0
+2008,Men,Tennis,Knox,19074.0
+2008,Women,Basketball,Knox,95955.0
+2008,Women,Golf,Knox,24200.0
+2008,Women,Soccer,Knox,41236.0
+2008,Women,Softball,Knox,88739.0
+2008,Women,Swimming and Diving,Knox,9990.0
+2008,Women,Tennis,Knox,45937.0
+2008,Women,Volleyball,Knox,33088.0
+2009,Men,Baseball,Knox,80818.0
+2009,Men,Basketball,Knox,83068.0
+2009,Men,Football,Knox,218410.0
+2009,Men,Golf,Knox,37830.0
+2009,Men,Soccer,Knox,25356.0
+2009,Men,Swimming and Diving,Knox,15408.0
+2009,Men,Tennis,Knox,22381.0
+2009,Women,Basketball,Knox,86207.0
+2009,Women,Golf,Knox,23084.0
+2009,Women,Soccer,Knox,50198.0
+2009,Women,Softball,Knox,50787.0
+2009,Women,Swimming and Diving,Knox,16415.0
+2009,Women,Tennis,Knox,8388.0
+2009,Women,Volleyball,Knox,51095.0
+2010,Men,Baseball,Knox,73773.0
+2010,Men,Basketball,Knox,120799.0
+2010,Men,Football,Knox,193770.0
+2010,Men,Golf,Knox,34369.0
+2010,Men,Soccer,Knox,19452.0
+2010,Men,Swimming and Diving,Knox,7647.0
+2010,Men,Tennis,Knox,32872.0
+2010,Women,Basketball,Knox,78966.0
+2010,Women,Golf,Knox,26899.0
+2010,Women,Soccer,Knox,46577.0
+2010,Women,Softball,Knox,45917.0
+2010,Women,Swimming and Diving,Knox,9972.0
+2010,Women,Tennis,Knox,9861.0
+2010,Women,Volleyball,Knox,43969.0
+2011,Men,Baseball,Knox,92403.0
+2011,Men,Basketball,Knox,123356.0
+2011,Men,Football,Knox,255064.0
+2011,Men,Golf,Knox,43401.0
+2011,Men,Soccer,Knox,54009.0
+2011,Men,Swimming and Diving,Knox,10448.0
+2011,Men,Tennis,Knox,27282.0
+2011,Women,Basketball,Knox,93989.0
+2011,Women,Golf,Knox,30856.0
+2011,Women,Soccer,Knox,68817.0
+2011,Women,Softball,Knox,61582.0
+2011,Women,Swimming and Diving,Knox,14930.0
+2011,Women,Tennis,Knox,11153.0
+2011,Women,Volleyball,Knox,57222.0
+2012,Men,Baseball,Knox,80680.0
+2012,Men,Basketball,Knox,112458.0
+2012,Men,Cross Country,Knox,22121.0
+2012,Men,Football,Knox,242868.0
+2012,Men,Golf,Knox,13588.0
+2012,Men,Soccer,Knox,85810.0
+2012,Men,Tennis,Knox,32741.0
+2012,Men,Track and Fields,Knox,44542.0
+2012,Women,Basketball,Knox,123707.0
+2012,Women,Cross Country,Knox,17513.0
+2012,Women,Golf,Knox,13506.0
+2012,Women,Soccer,Knox,67230.0
+2012,Women,Softball,Knox,59418.0
+2012,Women,Tennis,Knox,27077.0
+2012,Women,Track and Fields,Knox,47824.0
+2012,Women,Volleyball,Knox,91847.0
+2013,Men,Baseball,Knox,126976.0
+2013,Men,Basketball,Knox,136932.0
+2013,Men,Cross Country,Knox,16915.0
+2013,Men,Football,Knox,338348.0
+2013,Men,Golf,Knox,14714.0
+2013,Men,Soccer,Knox,105787.0
+2013,Men,Tennis,Knox,49301.0
+2013,Men,Track and Fields,Knox,42310.0
+2013,Women,Basketball,Knox,119622.0
+2013,Women,Cross Country,Knox,17061.0
+2013,Women,Golf,Knox,13152.0
+2013,Women,Soccer,Knox,81408.0
+2013,Women,Softball,Knox,79147.0
+2013,Women,Tennis,Knox,37424.0
+2013,Women,Track and Fields,Knox,40005.0
+2013,Women,Volleyball,Knox,76185.0
+2014,Men,Baseball,Knox,126928.0
+2014,Men,Basketball,Knox,176943.0
+2014,Men,Cross Country,Knox,33917.0
+2014,Men,Football,Knox,340547.0
+2014,Men,Golf,Knox,8398.0
+2014,Men,Soccer,Knox,111118.0
+2014,Men,Swimming and Diving,Knox,10888.0
+2014,Men,Tennis,Knox,38996.0
+2014,Men,Track and Fields,Knox,40815.0
+2014,Women,Basketball,Knox,137550.0
+2014,Women,Cross Country,Knox,22168.0
+2014,Women,Golf,Knox,8712.0
+2014,Women,Soccer,Knox,95135.0
+2014,Women,Softball,Knox,70996.0
+2014,Women,Swimming and Diving,Knox,13235.0
+2014,Women,Tennis,Knox,38658.0
+2014,Women,Track and Fields,Knox,40654.0
+2014,Women,Volleyball,Knox,56407.0
+2015,Men,Baseball,Knox,122473.0
+2015,Men,Basketball,Knox,132097.0
+2015,Men,Cross Country,Knox,20823.0
+2015,Men,Football,Knox,275259.0
+2015,Men,Golf,Knox,37634.0
+2015,Men,Soccer,Knox,123560.0
+2015,Men,Tennis,Knox,34034.0
+2015,Men,Track and Fields,Knox,55213.0
+2015,Women,Basketball,Knox,132746.0
+2015,Women,Cross Country,Knox,19901.0
+2015,Women,Soccer,Knox,114883.0
+2015,Women,Softball,Knox,74174.0
+2015,Women,Tennis,Knox,36622.0
+2015,Women,Track and Fields,Knox,54229.0
+2015,Women,Volleyball,Knox,81881.0
+2016,Men,Baseball,Knox,145932.0
+2016,Men,Basketball,Knox,189041.0
+2016,Men,Cross Country,Knox,23116.0
+2016,Men,Football,Knox,326779.0
+2016,Men,Golf,Knox,36539.0
+2016,Men,Soccer,Knox,123945.0
+2016,Men,Tennis,Knox,32857.0
+2016,Men,Track and Fields,Knox,63377.0
+2016,Women,Basketball,Knox,138687.0
+2016,Women,Cross Country,Knox,23658.0
+2016,Women,Golf,Knox,31030.0
+2016,Women,Soccer,Knox,136815.0
+2016,Women,Softball,Knox,92134.0
+2016,Women,Tennis,Knox,40785.0
+2016,Women,Track and Fields,Knox,61967.0
+2016,Women,Volleyball,Knox,89272.0
+2017,Men,Baseball,Knox,134631.0
+2017,Men,Basketball,Knox,146371.0
+2017,Men,Cross Country,Knox,17404.0
+2017,Men,Football,Knox,355700.0
+2017,Men,Golf,Knox,73894.0
+2017,Men,Soccer,Knox,144282.0
+2017,Men,Tennis,Knox,27340.0
+2017,Men,Track and Fields,Knox,65742.0
+2017,Women,Basketball,Knox,147382.0
+2017,Women,Cross Country,Knox,18048.0
+2017,Women,Golf,Knox,42692.0
+2017,Women,Soccer,Knox,121299.0
+2017,Women,Softball,Knox,114574.0
+2017,Women,Tennis,Knox,30985.0
+2017,Women,Track and Fields,Knox,60132.0
+2017,Women,Volleyball,Knox,89532.0
+2018,Men,Baseball,Knox,137303.0
+2018,Men,Basketball,Knox,143804.0
+2018,Men,Cross Country,Knox,18579.0
+2018,Men,Football,Knox,293069.0
+2018,Men,Golf,Knox,97575.0
+2018,Men,Soccer,Knox,160732.0
+2018,Men,Swimming and Diving,Knox,12141.0
+2018,Men,Tennis,Knox,34599.0
+2018,Men,Track and Fields,Knox,61106.0
+2018,Women,Basketball,Knox,146490.0
+2018,Women,Cross Country,Knox,19179.0
+2018,Women,Golf,Knox,51895.0
+2018,Women,Soccer,Knox,138972.0
+2018,Women,Softball,Knox,83776.0
+2018,Women,Swimming and Diving,Knox,14995.0
+2018,Women,Tennis,Knox,35797.0
+2018,Women,Track and Fields,Knox,57220.0
+2018,Women,Volleyball,Knox,95690.0
+2019,Men,Baseball,Knox,105577.0
+2019,Men,Basketball,Knox,151363.0
+2019,Men,Cross Country,Knox,30823.0
+2019,Men,Football,Knox,315925.0
+2019,Men,Golf,Knox,60737.0
+2019,Men,Soccer,Knox,144339.0
+2019,Men,Tennis,Knox,30375.0
+2019,Men,Track and Fields,Knox,59410.0
+2019,Women,Basketball,Knox,142860.0
+2019,Women,Cross Country,Knox,29968.0
+2019,Women,Golf,Knox,50776.0
+2019,Women,Soccer,Knox,120260.0
+2019,Women,Softball,Knox,77929.0
+2019,Women,Swimming and Diving,Knox,18993.0
+2019,Women,Tennis,Knox,34546.0
+2019,Women,Track and Fields,Knox,56873.0
+2019,Women,Volleyball,Knox,98450.0
+2020,Men,Baseball,Knox,113428.0
+2020,Men,Basketball,Knox,116349.0
+2020,Men,Golf,Knox,56325.0
+2020,Men,Soccer,Knox,96275.0
+2020,Men,Track and Fields,Knox,80242.0
+2020,Women,Basketball,Knox,119840.0
+2020,Women,Golf,Knox,42751.0
+2020,Women,Soccer,Knox,93479.0
+2020,Women,Softball,Knox,85478.0
+2020,Women,Track and Fields,Knox,82688.0
+2020,Women,Volleyball,Knox,81070.0
+2021,Men,Baseball,Knox,134302.0
+2021,Men,Basketball,Knox,183861.0
+2021,Men,Cross Country,Knox,32619.0
+2021,Men,Football,Knox,435300.0
+2021,Men,Golf,Knox,73850.0
+2021,Men,Soccer,Knox,153672.0
+2021,Men,Track and Fields,Knox,83682.0
+2021,Women,Basketball,Knox,175346.0
+2021,Women,Cross Country,Knox,33222.0
+2021,Women,Golf,Knox,46048.0
+2021,Women,Soccer,Knox,139770.0
+2021,Women,Softball,Knox,109071.0
+2021,Women,Track and Fields,Knox,70732.0
+2021,Women,Volleyball,Knox,125431.0
+2022,Men,Baseball,Knox,283340.0
+2022,Men,Basketball,Knox,256384.0
+2022,Men,Cross Country,Knox,51909.0
+2022,Men,Football,Knox,610950.0
+2022,Men,Golf,Knox,122908.0
+2022,Men,Soccer,Knox,202172.0
+2022,Men,Track and Fields,Knox,104716.0
+2022,Women,Basketball,Knox,287873.0
+2022,Women,Cross Country,Knox,46901.0
+2022,Women,Golf,Knox,44501.0
+2022,Women,Soccer,Knox,152815.0
+2022,Women,Softball,Knox,175303.0
+2022,Women,Track and Fields,Knox,99418.0
+2022,Women,Volleyball,Knox,166498.0
+2003,Men,Basketball,Lake Forest,63249.0
+2003,Men,Cross Country,Lake Forest,9670.0
+2003,Men,Football,Lake Forest,110198.0
+2003,Men,Soccer,Lake Forest,20451.0
+2003,Men,Swimming and Diving,Lake Forest,33491.0
+2003,Men,Tennis,Lake Forest,12862.0
+2003,Women,Basketball,Lake Forest,84715.0
+2003,Women,Cross Country,Lake Forest,9671.0
+2003,Women,Soccer,Lake Forest,26947.0
+2003,Women,Softball,Lake Forest,36971.0
+2003,Women,Swimming and Diving,Lake Forest,33492.0
+2003,Women,Tennis,Lake Forest,20303.0
+2003,Women,Volleyball,Lake Forest,40868.0
+2004,Men,Basketball,Lake Forest,85263.0
+2004,Men,Cross Country,Lake Forest,10055.0
+2004,Men,Football,Lake Forest,155873.0
+2004,Men,Soccer,Lake Forest,20071.0
+2004,Men,Swimming and Diving,Lake Forest,36072.0
+2004,Men,Tennis,Lake Forest,15312.0
+2004,Women,Basketball,Lake Forest,93616.0
+2004,Women,Cross Country,Lake Forest,10056.0
+2004,Women,Soccer,Lake Forest,31388.0
+2004,Women,Softball,Lake Forest,58700.0
+2004,Women,Swimming and Diving,Lake Forest,36072.0
+2004,Women,Tennis,Lake Forest,15890.0
+2004,Women,Volleyball,Lake Forest,64324.0
+2005,Men,Basketball,Lake Forest,64746.0
+2005,Men,Cross Country,Lake Forest,9981.0
+2005,Men,Football,Lake Forest,114088.0
+2005,Men,Soccer,Lake Forest,25267.0
+2005,Men,Swimming and Diving,Lake Forest,32180.0
+2005,Men,Tennis,Lake Forest,14230.0
+2005,Women,Basketball,Lake Forest,92690.0
+2005,Women,Cross Country,Lake Forest,9982.0
+2005,Women,Soccer,Lake Forest,35336.0
+2005,Women,Softball,Lake Forest,42628.0
+2005,Women,Swimming and Diving,Lake Forest,34033.0
+2005,Women,Tennis,Lake Forest,22953.0
+2005,Women,Volleyball,Lake Forest,43103.0
+2006,Men,Basketball,Lake Forest,89269.0
+2006,Men,Cross Country,Lake Forest,11733.0
+2006,Men,Football,Lake Forest,128600.0
+2006,Men,Soccer,Lake Forest,24228.0
+2006,Men,Swimming and Diving,Lake Forest,29145.0
+2006,Men,Tennis,Lake Forest,20253.0
+2006,Women,Basketball,Lake Forest,98389.0
+2006,Women,Cross Country,Lake Forest,11734.0
+2006,Women,Soccer,Lake Forest,36806.0
+2006,Women,Softball,Lake Forest,48524.0
+2006,Women,Swimming and Diving,Lake Forest,29789.0
+2006,Women,Tennis,Lake Forest,19988.0
+2006,Women,Volleyball,Lake Forest,44577.0
+2007,Men,Basketball,Lake Forest,91414.0
+2007,Men,Cross Country,Lake Forest,11965.0
+2007,Men,Football,Lake Forest,147714.0
+2007,Men,Soccer,Lake Forest,24312.0
+2007,Men,Swimming and Diving,Lake Forest,32037.0
+2007,Men,Tennis,Lake Forest,20983.0
+2007,Women,Basketball,Lake Forest,102967.0
+2007,Women,Cross Country,Lake Forest,11965.0
+2007,Women,Soccer,Lake Forest,47378.0
+2007,Women,Softball,Lake Forest,45680.0
+2007,Women,Swimming and Diving,Lake Forest,33180.0
+2007,Women,Tennis,Lake Forest,22025.0
+2007,Women,Volleyball,Lake Forest,51722.0
+2008,Men,Basketball,Lake Forest,101832.0
+2008,Men,Cross Country,Lake Forest,11998.0
+2008,Men,Football,Lake Forest,157196.0
+2008,Men,Soccer,Lake Forest,29612.0
+2008,Men,Swimming and Diving,Lake Forest,32732.0
+2008,Men,Tennis,Lake Forest,29487.0
+2008,Women,Basketball,Lake Forest,90413.0
+2008,Women,Cross Country,Lake Forest,16227.0
+2008,Women,Soccer,Lake Forest,54039.0
+2008,Women,Softball,Lake Forest,49909.0
+2008,Women,Swimming and Diving,Lake Forest,35989.0
+2008,Women,Tennis,Lake Forest,21880.0
+2008,Women,Volleyball,Lake Forest,49010.0
+2009,Men,Basketball,Lake Forest,95706.0
+2009,Men,Cross Country,Lake Forest,13176.0
+2009,Men,Football,Lake Forest,195691.0
+2009,Men,Soccer,Lake Forest,28609.0
+2009,Men,Swimming and Diving,Lake Forest,35152.0
+2009,Men,Tennis,Lake Forest,29560.0
+2009,Women,Basketball,Lake Forest,86385.0
+2009,Women,Cross Country,Lake Forest,16990.0
+2009,Women,Soccer,Lake Forest,51481.0
+2009,Women,Softball,Lake Forest,46982.0
+2009,Women,Swimming and Diving,Lake Forest,35934.0
+2009,Women,Tennis,Lake Forest,22126.0
+2009,Women,Volleyball,Lake Forest,43883.0
+2010,Men,Basketball,Lake Forest,109233.0
+2010,Men,Cross Country,Lake Forest,11784.0
+2010,Men,Football,Lake Forest,209674.0
+2010,Men,Soccer,Lake Forest,40140.0
+2010,Men,Swimming and Diving,Lake Forest,37082.0
+2010,Men,Tennis,Lake Forest,34975.0
+2010,Women,Basketball,Lake Forest,93189.0
+2010,Women,Cross Country,Lake Forest,15812.0
+2010,Women,Soccer,Lake Forest,84092.0
+2010,Women,Softball,Lake Forest,48272.0
+2010,Women,Swimming and Diving,Lake Forest,43494.0
+2010,Women,Tennis,Lake Forest,32128.0
+2010,Women,Volleyball,Lake Forest,45764.0
+2011,Men,Basketball,Lake Forest,143522.0
+2011,Men,Cross Country,Lake Forest,17598.0
+2011,Men,Football,Lake Forest,292538.0
+2011,Men,Soccer,Lake Forest,67025.0
+2011,Men,Swimming and Diving,Lake Forest,50307.0
+2011,Men,Tennis,Lake Forest,39238.0
+2011,Women,Basketball,Lake Forest,122382.0
+2011,Women,Cross Country,Lake Forest,19330.0
+2011,Women,Soccer,Lake Forest,82064.0
+2011,Women,Softball,Lake Forest,87304.0
+2011,Women,Swimming and Diving,Lake Forest,55886.0
+2011,Women,Tennis,Lake Forest,36228.0
+2011,Women,Volleyball,Lake Forest,72167.0
+2012,Men,Basketball,Lake Forest,151575.0
+2012,Men,Cross Country,Lake Forest,23499.0
+2012,Men,Football,Lake Forest,291224.0
+2012,Men,Soccer,Lake Forest,61719.0
+2012,Men,Swimming and Diving,Lake Forest,56601.0
+2012,Men,Tennis,Lake Forest,41078.0
+2012,Women,Basketball,Lake Forest,122064.0
+2012,Women,Cross Country,Lake Forest,24831.0
+2012,Women,Soccer,Lake Forest,95253.0
+2012,Women,Softball,Lake Forest,90024.0
+2012,Women,Swimming and Diving,Lake Forest,59476.0
+2012,Women,Tennis,Lake Forest,39066.0
+2012,Women,Volleyball,Lake Forest,71442.0
+2013,Men,Basketball,Lake Forest,134097.0
+2013,Men,Cross Country,Lake Forest,30258.0
+2013,Men,Football,Lake Forest,317199.0
+2013,Men,Soccer,Lake Forest,70233.0
+2013,Men,Swimming and Diving,Lake Forest,67380.0
+2013,Men,Tennis,Lake Forest,42113.0
+2013,Women,Basketball,Lake Forest,115994.0
+2013,Women,Cross Country,Lake Forest,29507.0
+2013,Women,Soccer,Lake Forest,98367.0
+2013,Women,Softball,Lake Forest,95900.0
+2013,Women,Swimming and Diving,Lake Forest,60947.0
+2013,Women,Tennis,Lake Forest,42052.0
+2013,Women,Volleyball,Lake Forest,72901.0
+2014,Men,Basketball,Lake Forest,121183.0
+2014,Men,Cross Country,Lake Forest,32628.0
+2014,Men,Football,Lake Forest,343309.0
+2014,Men,Golf,Lake Forest,63285.0
+2014,Men,Soccer,Lake Forest,85052.0
+2014,Men,Swimming and Diving,Lake Forest,73977.0
+2014,Men,Tennis,Lake Forest,45058.0
+2014,Women,Basketball,Lake Forest,86929.0
+2014,Women,Cross Country,Lake Forest,31585.0
+2014,Women,Golf,Lake Forest,56109.0
+2014,Women,Soccer,Lake Forest,112145.0
+2014,Women,Softball,Lake Forest,110789.0
+2014,Women,Swimming and Diving,Lake Forest,62399.0
+2014,Women,Tennis,Lake Forest,42044.0
+2014,Women,Volleyball,Lake Forest,78836.0
+2015,Men,Basketball,Lake Forest,122597.0
+2015,Men,Cross Country,Lake Forest,43787.0
+2015,Men,Football,Lake Forest,327727.0
+2015,Men,Golf,Lake Forest,61287.0
+2015,Men,Soccer,Lake Forest,80764.0
+2015,Men,Swimming and Diving,Lake Forest,73189.0
+2015,Men,Tennis,Lake Forest,45647.0
+2015,Women,Basketball,Lake Forest,86934.0
+2015,Women,Cross Country,Lake Forest,35149.0
+2015,Women,Golf,Lake Forest,52258.0
+2015,Women,Soccer,Lake Forest,103510.0
+2015,Women,Softball,Lake Forest,99145.0
+2015,Women,Swimming and Diving,Lake Forest,62897.0
+2015,Women,Tennis,Lake Forest,48410.0
+2015,Women,Volleyball,Lake Forest,77997.0
+2016,Men,Basketball,Lake Forest,131484.0
+2016,Men,Cross Country,Lake Forest,39113.0
+2016,Men,Football,Lake Forest,364573.0
+2016,Men,Golf,Lake Forest,65860.0
+2016,Men,Soccer,Lake Forest,80005.0
+2016,Men,Swimming and Diving,Lake Forest,72722.0
+2016,Men,Tennis,Lake Forest,44727.0
+2016,Women,Basketball,Lake Forest,88693.0
+2016,Women,Cross Country,Lake Forest,43784.0
+2016,Women,Golf,Lake Forest,53243.0
+2016,Women,Soccer,Lake Forest,106349.0
+2016,Women,Softball,Lake Forest,98815.0
+2016,Women,Swimming and Diving,Lake Forest,67358.0
+2016,Women,Tennis,Lake Forest,42024.0
+2016,Women,Volleyball,Lake Forest,80591.0
+2017,Men,Basketball,Lake Forest,128701.0
+2017,Men,Cross Country,Lake Forest,29072.0
+2017,Men,Football,Lake Forest,354323.0
+2017,Men,Golf,Lake Forest,72338.0
+2017,Men,Soccer,Lake Forest,84343.0
+2017,Men,Swimming and Diving,Lake Forest,74085.0
+2017,Men,Tennis,Lake Forest,41872.0
+2017,Men,Track and Fields,Lake Forest,41828.0
+2017,Women,Basketball,Lake Forest,119454.0
+2017,Women,Cross Country,Lake Forest,30817.0
+2017,Women,Golf,Lake Forest,66870.0
+2017,Women,Soccer,Lake Forest,99302.0
+2017,Women,Softball,Lake Forest,105725.0
+2017,Women,Swimming and Diving,Lake Forest,70882.0
+2017,Women,Tennis,Lake Forest,45691.0
+2017,Women,Track and Fields,Lake Forest,44335.0
+2017,Women,Volleyball,Lake Forest,70398.0
+2018,Men,Basketball,Lake Forest,131450.0
+2018,Men,Cross Country,Lake Forest,27453.0
+2018,Men,Football,Lake Forest,400273.0
+2018,Men,Golf,Lake Forest,68213.0
+2018,Men,Soccer,Lake Forest,91609.0
+2018,Men,Swimming and Diving,Lake Forest,75075.0
+2018,Men,Tennis,Lake Forest,44707.0
+2018,Men,Track and Fields,Lake Forest,33901.0
+2018,Women,Basketball,Lake Forest,141676.0
+2018,Women,Cross Country,Lake Forest,30909.0
+2018,Women,Golf,Lake Forest,68489.0
+2018,Women,Soccer,Lake Forest,107458.0
+2018,Women,Softball,Lake Forest,97374.0
+2018,Women,Swimming and Diving,Lake Forest,70691.0
+2018,Women,Tennis,Lake Forest,43176.0
+2018,Women,Track and Fields,Lake Forest,33901.0
+2018,Women,Volleyball,Lake Forest,58796.0
+2019,Men,Basketball,Lake Forest,131777.0
+2019,Men,Cross Country,Lake Forest,20565.0
+2019,Men,Football,Lake Forest,374984.0
+2019,Men,Golf,Lake Forest,61229.0
+2019,Men,Soccer,Lake Forest,90054.0
+2019,Men,Swimming and Diving,Lake Forest,72401.0
+2019,Men,Tennis,Lake Forest,41438.0
+2019,Men,Track and Fields,Lake Forest,24356.0
+2019,Women,Basketball,Lake Forest,122648.0
+2019,Women,Cross Country,Lake Forest,29825.0
+2019,Women,Golf,Lake Forest,67275.0
+2019,Women,Soccer,Lake Forest,113334.0
+2019,Women,Softball,Lake Forest,97293.0
+2019,Women,Swimming and Diving,Lake Forest,74590.0
+2019,Women,Tennis,Lake Forest,48324.0
+2019,Women,Track and Fields,Lake Forest,21394.0
+2019,Women,Volleyball,Lake Forest,73192.0
+2020,Men,Basketball,Lake Forest,81878.0
+2020,Men,Football,Lake Forest,293266.0
+2020,Men,Golf,Lake Forest,56392.0
+2020,Men,Soccer,Lake Forest,48465.0
+2020,Men,Swimming and Diving,Lake Forest,51134.0
+2020,Men,Tennis,Lake Forest,31768.0
+2020,Men,Track and Fields,Lake Forest,33658.0
+2020,Women,Basketball,Lake Forest,74561.0
+2020,Women,Golf,Lake Forest,58175.0
+2020,Women,Soccer,Lake Forest,86468.0
+2020,Women,Softball,Lake Forest,90108.0
+2020,Women,Swimming and Diving,Lake Forest,52696.0
+2020,Women,Tennis,Lake Forest,32936.0
+2020,Women,Track and Fields,Lake Forest,37430.0
+2020,Women,Volleyball,Lake Forest,46306.0
+2021,Men,Basketball,Lake Forest,116230.0
+2021,Men,Cross Country,Lake Forest,24355.0
+2021,Men,Football,Lake Forest,457183.0
+2021,Men,Golf,Lake Forest,77060.0
+2021,Men,Soccer,Lake Forest,94479.0
+2021,Men,Swimming and Diving,Lake Forest,76583.0
+2021,Men,Tennis,Lake Forest,47912.0
+2021,Men,Track and Fields,Lake Forest,44438.0
+2021,Women,Basketball,Lake Forest,138128.0
+2021,Women,Cross Country,Lake Forest,23238.0
+2021,Women,Golf,Lake Forest,90183.0
+2021,Women,Soccer,Lake Forest,119688.0
+2021,Women,Softball,Lake Forest,108717.0
+2021,Women,Swimming and Diving,Lake Forest,76583.0
+2021,Women,Tennis,Lake Forest,44492.0
+2021,Women,Track and Fields,Lake Forest,37356.0
+2021,Women,Volleyball,Lake Forest,83190.0
+2022,Men,Basketball,Lake Forest,149184.0
+2022,Men,Cross Country,Lake Forest,28794.0
+2022,Men,Football,Lake Forest,496801.0
+2022,Men,Golf,Lake Forest,83001.0
+2022,Men,Soccer,Lake Forest,107836.0
+2022,Men,Tennis,Lake Forest,56669.0
+2022,Men,Track and Fields,Lake Forest,56343.0
+2022,Women,Basketball,Lake Forest,165366.0
+2022,Women,Cross Country,Lake Forest,34137.0
+2022,Women,Golf,Lake Forest,100340.0
+2022,Women,Soccer,Lake Forest,138184.0
+2022,Women,Softball,Lake Forest,130457.0
+2022,Women,Swimming and Diving,Lake Forest,95187.0
+2022,Women,Tennis,Lake Forest,57252.0
+2022,Women,Track and Fields,Lake Forest,58602.0
+2022,Women,Volleyball,Lake Forest,83477.0
+2003,Men,Baseball,Ripon,45467.0
+2003,Men,Basketball,Ripon,63352.0
+2003,Men,Cross Country,Ripon,11507.0
+2003,Men,Football,Ripon,87480.0
+2003,Men,Golf,Ripon,8843.0
+2003,Men,Soccer,Ripon,31578.0
+2003,Men,Tennis,Ripon,23525.0
+2003,Men,Track and Fields,Ripon,36470.0
+2003,Women,Basketball,Ripon,58119.0
+2003,Women,Cross Country,Ripon,11507.0
+2003,Women,Golf,Ripon,4774.0
+2003,Women,Soccer,Ripon,28523.0
+2003,Women,Softball,Ripon,40887.0
+2003,Women,Tennis,Ripon,17556.0
+2003,Women,Track and Fields,Ripon,36470.0
+2003,Women,Volleyball,Ripon,40692.0
+2004,Men,Baseball,Ripon,36695.0
+2004,Men,Basketball,Ripon,34576.0
+2004,Men,Cross Country,Ripon,9549.0
+2004,Men,Football,Ripon,67196.0
+2004,Men,Golf,Ripon,4999.0
+2004,Men,Soccer,Ripon,15523.0
+2004,Men,Tennis,Ripon,9986.0
+2004,Men,Track and Fields,Ripon,12900.0
+2004,Women,Basketball,Ripon,37827.0
+2004,Women,Cross Country,Ripon,9549.0
+2004,Women,Golf,Ripon,3689.0
+2004,Women,Soccer,Ripon,13385.0
+2004,Women,Softball,Ripon,32645.0
+2004,Women,Tennis,Ripon,4795.0
+2004,Women,Track and Fields,Ripon,12900.0
+2004,Women,Volleyball,Ripon,26926.0
+2005,Men,Baseball,Ripon,53212.0
+2005,Men,Basketball,Ripon,59062.0
+2005,Men,Cross Country,Ripon,12728.0
+2005,Men,Football,Ripon,90580.0
+2005,Men,Golf,Ripon,5786.0
+2005,Men,Soccer,Ripon,29478.0
+2005,Men,Tennis,Ripon,14825.0
+2005,Men,Track and Fields,Ripon,30930.0
+2005,Women,Basketball,Ripon,61045.0
+2005,Women,Cross Country,Ripon,12728.0
+2005,Women,Golf,Ripon,5859.0
+2005,Women,Soccer,Ripon,20174.0
+2005,Women,Softball,Ripon,44618.0
+2005,Women,Tennis,Ripon,12672.0
+2005,Women,Track and Fields,Ripon,30930.0
+2005,Women,Volleyball,Ripon,37357.0
+2006,Men,Baseball,Ripon,50146.0
+2006,Men,Basketball,Ripon,69000.0
+2006,Men,Cross Country,Ripon,10950.0
+2006,Men,Football,Ripon,104713.0
+2006,Men,Golf,Ripon,8457.0
+2006,Men,Soccer,Ripon,24238.0
+2006,Men,Tennis,Ripon,10552.0
+2006,Men,Track and Fields,Ripon,23064.0
+2006,Women,Basketball,Ripon,71044.0
+2006,Women,Cross Country,Ripon,10950.0
+2006,Women,Golf,Ripon,9085.0
+2006,Women,Soccer,Ripon,27983.0
+2006,Women,Softball,Ripon,44926.0
+2006,Women,Tennis,Ripon,15169.0
+2006,Women,Track and Fields,Ripon,23064.0
+2006,Women,Volleyball,Ripon,39487.0
+2007,Men,Baseball,Ripon,69459.0
+2007,Men,Basketball,Ripon,92802.0
+2007,Men,Cross Country,Ripon,12466.0
+2007,Men,Football,Ripon,131054.0
+2007,Men,Golf,Ripon,11482.0
+2007,Men,Soccer,Ripon,27990.0
+2007,Men,Tennis,Ripon,10946.0
+2007,Men,Track and Fields,Ripon,32486.0
+2007,Women,Basketball,Ripon,86118.0
+2007,Women,Cross Country,Ripon,12466.0
+2007,Women,Golf,Ripon,10981.0
+2007,Women,Soccer,Ripon,29179.0
+2007,Women,Softball,Ripon,68234.0
+2007,Women,Tennis,Ripon,22551.0
+2007,Women,Track and Fields,Ripon,32486.0
+2007,Women,Volleyball,Ripon,55030.0
+2008,Men,Baseball,Ripon,78280.0
+2008,Men,Basketball,Ripon,87488.0
+2008,Men,Cross Country,Ripon,14309.0
+2008,Men,Football,Ripon,147400.0
+2008,Men,Golf,Ripon,10967.0
+2008,Men,Soccer,Ripon,27930.0
+2008,Men,Tennis,Ripon,13631.0
+2008,Men,Track and Fields,Ripon,36012.0
+2008,Women,Basketball,Ripon,115576.0
+2008,Women,Cross Country,Ripon,11817.0
+2008,Women,Golf,Ripon,9653.0
+2008,Women,Soccer,Ripon,27610.0
+2008,Women,Softball,Ripon,53032.0
+2008,Women,Tennis,Ripon,31138.0
+2008,Women,Track and Fields,Ripon,23396.0
+2008,Women,Volleyball,Ripon,61050.0
+2009,Men,Baseball,Ripon,86491.0
+2009,Men,Basketball,Ripon,77543.0
+2009,Men,Cross Country,Ripon,12914.0
+2009,Men,Football,Ripon,121158.0
+2009,Men,Golf,Ripon,10424.0
+2009,Men,Soccer,Ripon,31900.0
+2009,Men,Tennis,Ripon,12843.0
+2009,Men,Track and Fields,Ripon,32116.0
+2009,Women,Basketball,Ripon,57828.0
+2009,Women,Cross Country,Ripon,11842.0
+2009,Women,Golf,Ripon,10037.0
+2009,Women,Soccer,Ripon,34688.0
+2009,Women,Softball,Ripon,44315.0
+2009,Women,Tennis,Ripon,21547.0
+2009,Women,Track and Fields,Ripon,26132.0
+2009,Women,Volleyball,Ripon,44809.0
+2010,Men,Baseball,Ripon,70581.0
+2010,Men,Basketball,Ripon,79829.0
+2010,Men,Cross Country,Ripon,14327.0
+2010,Men,Football,Ripon,148281.0
+2010,Men,Golf,Ripon,18108.0
+2010,Men,Soccer,Ripon,29445.0
+2010,Men,Swimming and Diving,Ripon,15481.0
+2010,Men,Tennis,Ripon,13075.0
+2010,Men,Track and Fields,Ripon,35994.0
+2010,Women,Basketball,Ripon,61756.0
+2010,Women,Cross Country,Ripon,14327.0
+2010,Women,Golf,Ripon,8738.0
+2010,Women,Soccer,Ripon,33227.0
+2010,Women,Softball,Ripon,41407.0
+2010,Women,Swimming and Diving,Ripon,15481.0
+2010,Women,Tennis,Ripon,21014.0
+2010,Women,Track and Fields,Ripon,35994.0
+2010,Women,Volleyball,Ripon,50513.0
+2011,Men,Baseball,Ripon,83503.0
+2011,Men,Basketball,Ripon,62638.0
+2011,Men,Cross Country,Ripon,14744.0
+2011,Men,Football,Ripon,145665.0
+2011,Men,Golf,Ripon,8182.0
+2011,Men,Soccer,Ripon,46559.0
+2011,Men,Swimming and Diving,Ripon,8933.0
+2011,Men,Tennis,Ripon,15475.0
+2011,Men,Track and Fields,Ripon,38060.0
+2011,Women,Basketball,Ripon,65525.0
+2011,Women,Cross Country,Ripon,14744.0
+2011,Women,Golf,Ripon,11683.0
+2011,Women,Soccer,Ripon,46922.0
+2011,Women,Softball,Ripon,60611.0
+2011,Women,Swimming and Diving,Ripon,8697.0
+2011,Women,Tennis,Ripon,12353.0
+2011,Women,Track and Fields,Ripon,38060.0
+2011,Women,Volleyball,Ripon,63572.0
+2012,Men,Baseball,Ripon,123173.0
+2012,Men,Basketball,Ripon,111665.0
+2012,Men,Cross Country,Ripon,17473.0
+2012,Men,Football,Ripon,145737.0
+2012,Men,Golf,Ripon,4695.0
+2012,Men,Soccer,Ripon,55573.0
+2012,Men,Tennis,Ripon,16350.0
+2012,Men,Track and Fields,Ripon,45156.0
+2012,Women,Basketball,Ripon,63502.0
+2012,Women,Cross Country,Ripon,17473.0
+2012,Women,Golf,Ripon,3429.0
+2012,Women,Soccer,Ripon,58260.0
+2012,Women,Softball,Ripon,75826.0
+2012,Women,Tennis,Ripon,10371.0
+2012,Women,Track and Fields,Ripon,45156.0
+2012,Women,Volleyball,Ripon,54859.0
+2013,Men,Baseball,Ripon,78727.0
+2013,Men,Basketball,Ripon,82677.0
+2013,Men,Cross Country,Ripon,19821.0
+2013,Men,Football,Ripon,138967.0
+2013,Men,Golf,Ripon,1503.0
+2013,Men,Soccer,Ripon,58330.0
+2013,Men,Tennis,Ripon,19079.0
+2013,Men,Track and Fields,Ripon,63552.0
+2013,Women,Basketball,Ripon,80805.0
+2013,Women,Cross Country,Ripon,25098.0
+2013,Women,Golf,Ripon,1181.0
+2013,Women,Soccer,Ripon,56743.0
+2013,Women,Softball,Ripon,69732.0
+2013,Women,Tennis,Ripon,15263.0
+2013,Women,Track and Fields,Ripon,49972.0
+2013,Women,Volleyball,Ripon,54749.0
+2014,Men,Baseball,Ripon,81463.0
+2014,Men,Basketball,Ripon,80200.0
+2014,Men,Cross Country,Ripon,15804.0
+2014,Men,Football,Ripon,133616.0
+2014,Men,Golf,Ripon,1200.0
+2014,Men,Soccer,Ripon,59594.0
+2014,Men,Tennis,Ripon,23291.0
+2014,Men,Track and Fields,Ripon,47419.0
+2014,Women,Basketball,Ripon,75110.0
+2014,Women,Cross Country,Ripon,16487.0
+2014,Women,Golf,Ripon,1123.0
+2014,Women,Soccer,Ripon,59783.0
+2014,Women,Softball,Ripon,66001.0
+2014,Women,Tennis,Ripon,16496.0
+2014,Women,Track and Fields,Ripon,39185.0
+2014,Women,Volleyball,Ripon,57715.0
+2015,Men,Baseball,Ripon,84950.0
+2015,Men,Basketball,Ripon,85363.0
+2015,Men,Cross Country,Ripon,17373.0
+2015,Men,Football,Ripon,135237.0
+2015,Men,Soccer,Ripon,41156.0
+2015,Men,Tennis,Ripon,20070.0
+2015,Men,Track and Fields,Ripon,47964.0
+2015,Women,Basketball,Ripon,82757.0
+2015,Women,Cross Country,Ripon,19752.0
+2015,Women,Soccer,Ripon,62659.0
+2015,Women,Softball,Ripon,63093.0
+2015,Women,Tennis,Ripon,17129.0
+2015,Women,Track and Fields,Ripon,39014.0
+2015,Women,Volleyball,Ripon,66576.0
+2016,Men,Baseball,Ripon,88691.0
+2016,Men,Basketball,Ripon,91406.0
+2016,Men,Cross Country,Ripon,16958.0
+2016,Men,Football,Ripon,166451.0
+2016,Men,Soccer,Ripon,57107.0
+2016,Men,Tennis,Ripon,18917.0
+2016,Men,Track and Fields,Ripon,46938.0
+2016,Women,Basketball,Ripon,82550.0
+2016,Women,Cross Country,Ripon,16521.0
+2016,Women,Soccer,Ripon,72489.0
+2016,Women,Softball,Ripon,64736.0
+2016,Women,Tennis,Ripon,14649.0
+2016,Women,Track and Fields,Ripon,50629.0
+2016,Women,Volleyball,Ripon,59834.0
+2017,Men,Baseball,Ripon,116756.0
+2017,Men,Basketball,Ripon,120598.0
+2017,Men,Cross Country,Ripon,30041.0
+2017,Men,Football,Ripon,208429.0
+2017,Men,Soccer,Ripon,55013.0
+2017,Men,Tennis,Ripon,14931.0
+2017,Men,Track and Fields,Ripon,45697.0
+2017,Women,Basketball,Ripon,120403.0
+2017,Women,Cross Country,Ripon,29427.0
+2017,Women,Soccer,Ripon,77077.0
+2017,Women,Softball,Ripon,76930.0
+2017,Women,Tennis,Ripon,15744.0
+2017,Women,Track and Fields,Ripon,51269.0
+2017,Women,Volleyball,Ripon,60489.0
+2018,Men,Baseball,Ripon,123148.0
+2018,Men,Basketball,Ripon,124314.0
+2018,Men,Cross Country,Ripon,30912.0
+2018,Men,Football,Ripon,209334.0
+2018,Men,Soccer,Ripon,85798.0
+2018,Men,Tennis,Ripon,33943.0
+2018,Men,Track and Fields,Ripon,77060.0
+2018,Women,Basketball,Ripon,123311.0
+2018,Women,Cross Country,Ripon,30912.0
+2018,Women,Soccer,Ripon,95083.0
+2018,Women,Softball,Ripon,97390.0
+2018,Women,Tennis,Ripon,36866.0
+2018,Women,Track and Fields,Ripon,81759.0
+2018,Women,Volleyball,Ripon,105339.0
+2019,Men,Basketball,Ripon,130513.0
+2019,Men,Cross Country,Ripon,35233.0
+2019,Men,Football,Ripon,267551.0
+2019,Men,Soccer,Ripon,58119.0
+2019,Men,Tennis,Ripon,15115.0
+2019,Men,Track and Fields,Ripon,56266.0
+2019,Women,Basketball,Ripon,77442.0
+2019,Women,Cross Country,Ripon,37150.0
+2019,Women,Soccer,Ripon,98481.0
+2019,Women,Softball,Ripon,77442.0
+2019,Women,Swimming and Diving,Ripon,48091.0
+2019,Women,Tennis,Ripon,19212.0
+2019,Women,Track and Fields,Ripon,55475.0
+2019,Women,Volleyball,Ripon,67437.0
+2020,Men,Baseball,Ripon,123161.0
+2020,Men,Basketball,Ripon,80183.0
+2020,Men,Football,Ripon,187826.0
+2020,Men,Soccer,Ripon,64482.0
+2020,Men,Tennis,Ripon,28018.0
+2020,Men,Track and Fields,Ripon,50780.0
+2020,Women,Basketball,Ripon,92291.0
+2020,Women,Soccer,Ripon,77151.0
+2020,Women,Softball,Ripon,105129.0
+2020,Women,Swimming and Diving,Ripon,35678.0
+2020,Women,Track and Fields,Ripon,54072.0
+2020,Women,Volleyball,Ripon,47940.0
+2021,Men,Baseball,Ripon,180728.0
+2021,Men,Basketball,Ripon,124860.0
+2021,Men,Cross Country,Ripon,40618.0
+2021,Men,Football,Ripon,322818.0
+2021,Men,Soccer,Ripon,120189.0
+2021,Men,Tennis,Ripon,35699.0
+2021,Men,Track and Fields,Ripon,99785.0
+2021,Women,Basketball,Ripon,113812.0
+2021,Women,Cross Country,Ripon,38694.0
+2021,Women,Soccer,Ripon,129917.0
+2021,Women,Softball,Ripon,126285.0
+2021,Women,Swimming and Diving,Ripon,54524.0
+2021,Women,Tennis,Ripon,35624.0
+2021,Women,Track and Fields,Ripon,98100.0
+2021,Women,Volleyball,Ripon,70483.0
+2022,Men,Baseball,Ripon,177000.0
+2022,Men,Basketball,Ripon,124193.0
+2022,Men,Cross Country,Ripon,44641.0
+2022,Men,Football,Ripon,346964.0
+2022,Men,Soccer,Ripon,105546.0
+2022,Men,Tennis,Ripon,37118.0
+2022,Men,Track and Fields,Ripon,87687.0
+2022,Women,Basketball,Ripon,122710.0
+2022,Women,Cross Country,Ripon,43594.0
+2022,Women,Soccer,Ripon,103617.0
+2022,Women,Softball,Ripon,122590.0
+2022,Women,Tennis,Ripon,36614.0
+2022,Women,Track and Fields,Ripon,88544.0
+2022,Women,Volleyball,Ripon,75639.0
+2003,Men,Baseball,Beloit,24737.0
+2003,Men,Basketball,Beloit,23282.0
+2003,Men,Football,Beloit,23868.0
+2003,Men,Golf,Beloit,3992.0
+2003,Men,Soccer,Beloit,11040.0
+2003,Men,Tennis,Beloit,5778.0
+2003,Women,Basketball,Beloit,18312.0
+2003,Women,Golf,Beloit,4990.0
+2003,Women,Soccer,Beloit,9570.0
+2003,Women,Softball,Beloit,17316.0
+2003,Women,Tennis,Beloit,5580.0
+2003,Women,Volleyball,Beloit,13787.0
+2004,Men,Baseball,Beloit,45785.0
+2004,Men,Basketball,Beloit,84740.0
+2004,Men,Football,Beloit,197811.0
+2004,Men,Golf,Beloit,13916.0
+2004,Men,Soccer,Beloit,63979.0
+2004,Men,Tennis,Beloit,16134.0
+2004,Women,Basketball,Beloit,54250.0
+2004,Women,Golf,Beloit,11096.0
+2004,Women,Soccer,Beloit,26222.0
+2004,Women,Softball,Beloit,50277.0
+2004,Women,Tennis,Beloit,25157.0
+2004,Women,Volleyball,Beloit,45882.0
+2005,Men,Baseball,Beloit,64776.0
+2005,Men,Basketball,Beloit,97214.0
+2005,Men,Football,Beloit,227232.0
+2005,Men,Golf,Beloit,8339.0
+2005,Men,Soccer,Beloit,69571.0
+2005,Men,Tennis,Beloit,19571.0
+2005,Women,Basketball,Beloit,66587.0
+2005,Women,Golf,Beloit,8339.0
+2005,Women,Soccer,Beloit,16709.0
+2005,Women,Softball,Beloit,66193.0
+2005,Women,Tennis,Beloit,8998.0
+2005,Women,Volleyball,Beloit,29814.0
+2006,Men,Baseball,Beloit,68949.0
+2006,Men,Basketball,Beloit,101415.0
+2006,Men,Football,Beloit,225296.0
+2006,Men,Golf,Beloit,8950.0
+2006,Men,Soccer,Beloit,69656.0
+2006,Men,Tennis,Beloit,18548.0
+2006,Women,Basketball,Beloit,62947.0
+2006,Women,Golf,Beloit,5578.0
+2006,Women,Soccer,Beloit,51404.0
+2006,Women,Softball,Beloit,49511.0
+2006,Women,Tennis,Beloit,8520.0
+2006,Women,Volleyball,Beloit,44646.0
+2007,Men,Baseball,Beloit,71897.0
+2007,Men,Basketball,Beloit,65953.0
+2007,Men,Football,Beloit,214456.0
+2007,Men,Golf,Beloit,15125.0
+2007,Men,Soccer,Beloit,79309.0
+2007,Men,Tennis,Beloit,11347.0
+2007,Women,Basketball,Beloit,75734.0
+2007,Women,Golf,Beloit,14458.0
+2007,Women,Soccer,Beloit,54428.0
+2007,Women,Softball,Beloit,72361.0
+2007,Women,Tennis,Beloit,6483.0
+2007,Women,Volleyball,Beloit,71417.0
+2008,Men,Baseball,Beloit,74799.0
+2008,Men,Basketball,Beloit,66232.0
+2008,Men,Football,Beloit,220661.0
+2008,Men,Golf,Beloit,16264.0
+2008,Men,Soccer,Beloit,84455.0
+2008,Men,Tennis,Beloit,14337.0
+2008,Women,Basketball,Beloit,87260.0
+2008,Women,Soccer,Beloit,53463.0
+2008,Women,Softball,Beloit,80108.0
+2008,Women,Tennis,Beloit,7684.0
+2008,Women,Volleyball,Beloit,80826.0
+2009,Men,Baseball,Beloit,67453.0
+2009,Men,Basketball,Beloit,66414.0
+2009,Men,Football,Beloit,237580.0
+2009,Men,Golf,Beloit,18344.0
+2009,Men,Soccer,Beloit,85659.0
+2009,Men,Tennis,Beloit,16514.0
+2009,Women,Basketball,Beloit,84975.0
+2009,Women,Soccer,Beloit,56061.0
+2009,Women,Softball,Beloit,76218.0
+2009,Women,Tennis,Beloit,9560.0
+2009,Women,Volleyball,Beloit,78250.0
+2010,Men,Baseball,Beloit,92342.0
+2010,Men,Basketball,Beloit,84191.0
+2010,Men,Football,Beloit,222496.0
+2010,Men,Golf,Beloit,16455.0
+2010,Men,Soccer,Beloit,80023.0
+2010,Women,Basketball,Beloit,59714.0
+2010,Women,Soccer,Beloit,56062.0
+2010,Women,Softball,Beloit,89128.0
+2010,Women,Tennis,Beloit,9553.0
+2010,Women,Volleyball,Beloit,91932.0
+2011,Men,Baseball,Beloit,136083.0
+2011,Men,Basketball,Beloit,81086.0
+2011,Men,Football,Beloit,311615.0
+2011,Men,Golf,Beloit,19113.0
+2011,Men,Soccer,Beloit,105327.0
+2011,Men,Swimming and Diving,Beloit,16693.0
+2011,Women,Basketball,Beloit,65820.0
+2011,Women,Soccer,Beloit,70337.0
+2011,Women,Softball,Beloit,113290.0
+2011,Women,Swimming and Diving,Beloit,23838.0
+2011,Women,Tennis,Beloit,10198.0
+2011,Women,Volleyball,Beloit,74725.0
+2012,Men,Baseball,Beloit,133523.0
+2012,Men,Basketball,Beloit,101336.0
+2012,Men,Football,Beloit,257010.0
+2012,Men,Soccer,Beloit,86622.0
+2012,Men,Swimming and Diving,Beloit,33111.0
+2012,Women,Basketball,Beloit,71208.0
+2012,Women,Soccer,Beloit,71603.0
+2012,Women,Softball,Beloit,106490.0
+2012,Women,Swimming and Diving,Beloit,36000.0
+2012,Women,Tennis,Beloit,11497.0
+2012,Women,Volleyball,Beloit,82083.0
+2013,Men,Baseball,Beloit,130712.0
+2013,Men,Basketball,Beloit,131556.0
+2013,Men,Football,Beloit,293508.0
+2013,Men,Soccer,Beloit,102798.0
+2013,Women,Basketball,Beloit,103776.0
+2013,Women,Soccer,Beloit,74895.0
+2013,Women,Softball,Beloit,107672.0
+2013,Women,Tennis,Beloit,14859.0
+2013,Women,Volleyball,Beloit,97505.0
+2014,Men,Baseball,Beloit,146966.0
+2014,Men,Basketball,Beloit,106177.0
+2014,Men,Football,Beloit,267096.0
+2014,Men,Soccer,Beloit,60563.0
+2014,Women,Basketball,Beloit,89071.0
+2014,Women,Soccer,Beloit,77416.0
+2014,Women,Softball,Beloit,102763.0
+2014,Women,Tennis,Beloit,14934.0
+2014,Women,Volleyball,Beloit,94861.0
+2015,Men,Baseball,Beloit,167009.0
+2015,Men,Basketball,Beloit,113801.0
+2015,Men,Football,Beloit,296057.0
+2015,Men,Soccer,Beloit,56956.0
+2015,Women,Basketball,Beloit,100587.0
+2015,Women,Soccer,Beloit,78571.0
+2015,Women,Softball,Beloit,104985.0
+2015,Women,Tennis,Beloit,17956.0
+2015,Women,Volleyball,Beloit,94458.0
+2016,Men,Baseball,Beloit,117900.0
+2016,Men,Basketball,Beloit,179556.0
+2016,Men,Football,Beloit,316139.0
+2016,Men,Soccer,Beloit,63810.0
+2016,Women,Basketball,Beloit,85904.0
+2016,Women,Soccer,Beloit,78450.0
+2016,Women,Softball,Beloit,114990.0
+2016,Women,Tennis,Beloit,15531.0
+2016,Women,Volleyball,Beloit,102991.0
+2017,Men,Baseball,Beloit,172033.0
+2017,Men,Basketball,Beloit,142893.0
+2017,Men,Football,Beloit,313781.0
+2017,Men,Soccer,Beloit,72440.0
+2017,Women,Basketball,Beloit,117939.0
+2017,Women,Soccer,Beloit,81818.0
+2017,Women,Softball,Beloit,115926.0
+2017,Women,Tennis,Beloit,15450.0
+2017,Women,Volleyball,Beloit,101005.0
+2018,Men,Baseball,Beloit,170492.0
+2018,Men,Basketball,Beloit,140982.0
+2018,Men,Football,Beloit,303857.0
+2018,Men,Soccer,Beloit,76228.0
+2018,Women,Basketball,Beloit,115005.0
+2018,Women,Soccer,Beloit,90037.0
+2018,Women,Softball,Beloit,113799.0
+2018,Women,Tennis,Beloit,15435.0
+2018,Women,Volleyball,Beloit,77056.0
+2019,Men,Baseball,Beloit,137633.0
+2019,Men,Basketball,Beloit,114653.0
+2019,Men,Football,Beloit,342718.0
+2019,Men,Soccer,Beloit,73541.0
+2019,Women,Basketball,Beloit,113007.0
+2019,Women,Soccer,Beloit,76286.0
+2019,Women,Softball,Beloit,110930.0
+2019,Women,Tennis,Beloit,11927.0
+2019,Women,Volleyball,Beloit,79832.0
+2020,Men,Baseball,Beloit,101885.0
+2020,Men,Track and Fields,Beloit,69324.0
+2020,Women,Softball,Beloit,95795.0
+2020,Women,Track and Fields,Beloit,69875.0
+2021,Men,Baseball,Beloit,156248.0
+2021,Men,Basketball,Beloit,122793.0
+2021,Men,Football,Beloit,349124.0
+2021,Men,Soccer,Beloit,78575.0
+2021,Women,Basketball,Beloit,97521.0
+2021,Women,Soccer,Beloit,84460.0
+2021,Women,Softball,Beloit,142234.0
+2021,Women,Volleyball,Beloit,90967.0
+2022,Men,Baseball,Beloit,174364.0
+2022,Men,Basketball,Beloit,120389.0
+2022,Men,Football,Beloit,356717.0
+2022,Men,Soccer,Beloit,55136.0
+2022,Women,Basketball,Beloit,90114.0
+2022,Women,Soccer,Beloit,87238.0
+2022,Women,Softball,Beloit,142060.0
+2022,Women,Volleyball,Beloit,89431.0
+2003,Men,Baseball,University of Chicago,119123.0
+2003,Men,Basketball,University of Chicago,176613.0
+2003,Men,Cross Country,University of Chicago,102032.0
+2003,Men,Football,University of Chicago,343422.0
+2003,Men,Soccer,University of Chicago,118055.0
+2003,Men,Swimming and Diving,University of Chicago,72511.0
+2003,Men,Tennis,University of Chicago,39899.0
+2003,Women,Basketball,University of Chicago,159779.0
+2003,Women,Cross Country,University of Chicago,101330.0
+2003,Women,Soccer,University of Chicago,137270.0
+2003,Women,Softball,University of Chicago,93698.0
+2003,Women,Swimming and Diving,University of Chicago,85697.0
+2003,Women,Tennis,University of Chicago,39499.0
+2003,Women,Volleyball,University of Chicago,91995.0
+2004,Men,Baseball,University of Chicago,123131.0
+2004,Men,Basketball,University of Chicago,172828.0
+2004,Men,Football,University of Chicago,354359.0
+2004,Men,Soccer,University of Chicago,128014.0
+2004,Men,Swimming and Diving,University of Chicago,98223.0
+2004,Men,Tennis,University of Chicago,54331.0
+2004,Women,Basketball,University of Chicago,156052.0
+2004,Women,Soccer,University of Chicago,128676.0
+2004,Women,Softball,University of Chicago,172709.0
+2004,Women,Swimming and Diving,University of Chicago,92202.0
+2004,Women,Tennis,University of Chicago,50601.0
+2004,Women,Volleyball,University of Chicago,91884.0
+2005,Men,Baseball,University of Chicago,120237.0
+2005,Men,Basketball,University of Chicago,168985.0
+2005,Men,Football,University of Chicago,350851.0
+2005,Men,Soccer,University of Chicago,113147.0
+2005,Men,Swimming and Diving,University of Chicago,96360.0
+2005,Men,Tennis,University of Chicago,48150.0
+2005,Women,Basketball,University of Chicago,161096.0
+2005,Women,Soccer,University of Chicago,152456.0
+2005,Women,Softball,University of Chicago,97487.0
+2005,Women,Swimming and Diving,University of Chicago,86554.0
+2005,Women,Tennis,University of Chicago,49262.0
+2005,Women,Volleyball,University of Chicago,89809.0
+2006,Men,Baseball,University of Chicago,158478.0
+2006,Men,Basketball,University of Chicago,253467.0
+2006,Men,Football,University of Chicago,422876.0
+2006,Men,Soccer,University of Chicago,138208.0
+2006,Men,Swimming and Diving,University of Chicago,113818.0
+2006,Men,Tennis,University of Chicago,69529.0
+2006,Women,Basketball,University of Chicago,185714.0
+2006,Women,Soccer,University of Chicago,144651.0
+2006,Women,Softball,University of Chicago,125945.0
+2006,Women,Swimming and Diving,University of Chicago,114218.0
+2006,Women,Tennis,University of Chicago,67198.0
+2006,Women,Volleyball,University of Chicago,89380.0
+2007,Men,Baseball,University of Chicago,205715.0
+2007,Men,Basketball,University of Chicago,215085.0
+2007,Men,Football,University of Chicago,390924.0
+2007,Men,Soccer,University of Chicago,122655.0
+2007,Men,Swimming and Diving,University of Chicago,89241.0
+2007,Men,Tennis,University of Chicago,67168.0
+2007,Women,Basketball,University of Chicago,184292.0
+2007,Women,Soccer,University of Chicago,171277.0
+2007,Women,Softball,University of Chicago,87434.0
+2007,Women,Swimming and Diving,University of Chicago,90241.0
+2007,Women,Tennis,University of Chicago,71723.0
+2007,Women,Volleyball,University of Chicago,159943.0
+2008,Men,Baseball,University of Chicago,204743.0
+2008,Men,Basketball,University of Chicago,218465.0
+2008,Men,Football,University of Chicago,469337.0
+2008,Men,Soccer,University of Chicago,146671.0
+2008,Men,Swimming and Diving,University of Chicago,163903.0
+2008,Men,Tennis,University of Chicago,137390.0
+2008,Women,Basketball,University of Chicago,196505.0
+2008,Women,Soccer,University of Chicago,172869.0
+2008,Women,Softball,University of Chicago,186437.0
+2008,Women,Swimming and Diving,University of Chicago,162103.0
+2008,Women,Tennis,University of Chicago,147262.0
+2008,Women,Volleyball,University of Chicago,145388.0
+2009,Men,Baseball,University of Chicago,205083.0
+2009,Men,Basketball,University of Chicago,205508.0
+2009,Men,Football,University of Chicago,473146.0
+2009,Men,Soccer,University of Chicago,150917.0
+2009,Men,Swimming and Diving,University of Chicago,201204.0
+2009,Men,Tennis,University of Chicago,133499.0
+2009,Women,Basketball,University of Chicago,197909.0
+2009,Women,Soccer,University of Chicago,163275.0
+2009,Women,Softball,University of Chicago,124981.0
+2009,Women,Swimming and Diving,University of Chicago,205330.0
+2009,Women,Tennis,University of Chicago,138580.0
+2009,Women,Volleyball,University of Chicago,149011.0
+2010,Men,Baseball,University of Chicago,136712.0
+2010,Men,Basketball,University of Chicago,167178.0
+2010,Men,Football,University of Chicago,458727.0
+2010,Men,Soccer,University of Chicago,120694.0
+2010,Men,Swimming and Diving,University of Chicago,153179.0
+2010,Men,Tennis,University of Chicago,77853.0
+2010,Women,Basketball,University of Chicago,167817.0
+2010,Women,Soccer,University of Chicago,126889.0
+2010,Women,Softball,University of Chicago,97244.0
+2010,Women,Swimming and Diving,University of Chicago,164828.0
+2010,Women,Tennis,University of Chicago,83778.0
+2010,Women,Volleyball,University of Chicago,115255.0
+2011,Men,Baseball,University of Chicago,163396.0
+2011,Men,Basketball,University of Chicago,209624.0
+2011,Men,Football,University of Chicago,452879.0
+2011,Men,Soccer,University of Chicago,137609.0
+2011,Men,Swimming and Diving,University of Chicago,103666.0
+2011,Men,Tennis,University of Chicago,54823.0
+2011,Women,Basketball,University of Chicago,196326.0
+2011,Women,Soccer,University of Chicago,223443.0
+2011,Women,Softball,University of Chicago,108460.0
+2011,Women,Swimming and Diving,University of Chicago,106502.0
+2011,Women,Tennis,University of Chicago,65708.0
+2011,Women,Volleyball,University of Chicago,173365.0
+2012,Men,Baseball,University of Chicago,233460.0
+2012,Men,Basketball,University of Chicago,303796.0
+2012,Men,Football,University of Chicago,545190.0
+2012,Men,Soccer,University of Chicago,166344.0
+2012,Men,Swimming and Diving,University of Chicago,253147.0
+2012,Men,Tennis,University of Chicago,115250.0
+2012,Women,Basketball,University of Chicago,222921.0
+2012,Women,Soccer,University of Chicago,193155.0
+2012,Women,Softball,University of Chicago,127116.0
+2012,Women,Swimming and Diving,University of Chicago,255113.0
+2012,Women,Tennis,University of Chicago,99771.0
+2012,Women,Volleyball,University of Chicago,180926.0
+2013,Men,Baseball,University of Chicago,177404.0
+2013,Men,Basketball,University of Chicago,223205.0
+2013,Men,Football,University of Chicago,533221.0
+2013,Men,Soccer,University of Chicago,209506.0
+2013,Men,Swimming and Diving,University of Chicago,134359.0
+2013,Men,Tennis,University of Chicago,75914.0
+2013,Women,Basketball,University of Chicago,195133.0
+2013,Women,Soccer,University of Chicago,186691.0
+2013,Women,Softball,University of Chicago,118744.0
+2013,Women,Swimming and Diving,University of Chicago,130294.0
+2013,Women,Tennis,University of Chicago,80482.0
+2013,Women,Volleyball,University of Chicago,165980.0
+2014,Men,Baseball,University of Chicago,158078.0
+2014,Men,Basketball,University of Chicago,237075.0
+2014,Men,Football,University of Chicago,592577.0
+2014,Men,Soccer,University of Chicago,216060.0
+2014,Men,Swimming and Diving,University of Chicago,131672.0
+2014,Men,Tennis,University of Chicago,86854.0
+2014,Women,Basketball,University of Chicago,208135.0
+2014,Women,Soccer,University of Chicago,223950.0
+2014,Women,Softball,University of Chicago,152613.0
+2014,Women,Swimming and Diving,University of Chicago,136504.0
+2014,Women,Tennis,University of Chicago,89207.0
+2014,Women,Volleyball,University of Chicago,231142.0
+2015,Men,Baseball,University of Chicago,206090.0
+2015,Men,Basketball,University of Chicago,379241.0
+2015,Men,Football,University of Chicago,754086.0
+2015,Men,Soccer,University of Chicago,230057.0
+2015,Men,Swimming and Diving,University of Chicago,181435.0
+2015,Men,Tennis,University of Chicago,88980.0
+2015,Women,Basketball,University of Chicago,323810.0
+2015,Women,Soccer,University of Chicago,353826.0
+2015,Women,Softball,University of Chicago,204195.0
+2015,Women,Swimming and Diving,University of Chicago,198170.0
+2015,Women,Tennis,University of Chicago,85538.0
+2015,Women,Volleyball,University of Chicago,225865.0
+2016,Men,Baseball,University of Chicago,205692.0
+2016,Men,Basketball,University of Chicago,286607.0
+2016,Men,Football,University of Chicago,667320.0
+2016,Men,Soccer,University of Chicago,336331.0
+2016,Men,Swimming and Diving,University of Chicago,185503.0
+2016,Men,Tennis,University of Chicago,133074.0
+2016,Women,Basketball,University of Chicago,245398.0
+2016,Women,Soccer,University of Chicago,260971.0
+2016,Women,Softball,University of Chicago,234355.0
+2016,Women,Swimming and Diving,University of Chicago,182657.0
+2016,Women,Tennis,University of Chicago,118977.0
+2016,Women,Volleyball,University of Chicago,213573.0
+2017,Men,Baseball,University of Chicago,226344.0
+2017,Men,Basketball,University of Chicago,273725.0
+2017,Men,Football,University of Chicago,652301.0
+2017,Men,Soccer,University of Chicago,234735.0
+2017,Men,Swimming and Diving,University of Chicago,144090.0
+2017,Men,Tennis,University of Chicago,107099.0
+2017,Women,Basketball,University of Chicago,270396.0
+2017,Women,Soccer,University of Chicago,275936.0
+2017,Women,Softball,University of Chicago,182311.0
+2017,Women,Swimming and Diving,University of Chicago,146204.0
+2017,Women,Tennis,University of Chicago,96493.0
+2017,Women,Volleyball,University of Chicago,224234.0
+2018,Men,Baseball,University of Chicago,221504.0
+2018,Men,Basketball,University of Chicago,308141.0
+2018,Men,Football,University of Chicago,641173.0
+2018,Men,Soccer,University of Chicago,256500.0
+2018,Men,Swimming and Diving,University of Chicago,125708.0
+2018,Men,Tennis,University of Chicago,103674.0
+2018,Women,Basketball,University of Chicago,278428.0
+2018,Women,Soccer,University of Chicago,356486.0
+2018,Women,Softball,University of Chicago,197751.0
+2018,Women,Swimming and Diving,University of Chicago,133176.0
+2018,Women,Tennis,University of Chicago,111503.0
+2018,Women,Volleyball,University of Chicago,316743.0
+2019,Men,Baseball,University of Chicago,193673.0
+2019,Men,Basketball,University of Chicago,306342.0
+2019,Men,Football,University of Chicago,672072.0
+2019,Men,Soccer,University of Chicago,268573.0
+2019,Men,Swimming and Diving,University of Chicago,149907.0
+2019,Men,Tennis,University of Chicago,114813.0
+2019,Women,Basketball,University of Chicago,261241.0
+2019,Women,Soccer,University of Chicago,281943.0
+2019,Women,Softball,University of Chicago,171101.0
+2019,Women,Swimming and Diving,University of Chicago,146296.0
+2019,Women,Tennis,University of Chicago,121213.0
+2019,Women,Volleyball,University of Chicago,249721.0
+2020,Men,Baseball,University of Chicago,188955.0
+2020,Men,Tennis,University of Chicago,74820.0
+2020,Men,Track and Fields,University of Chicago,127910.0
+2020,Women,Softball,University of Chicago,163825.0
+2020,Women,Tennis,University of Chicago,74399.0
+2020,Women,Track and Fields,University of Chicago,128474.0
+2021,Men,Baseball,University of Chicago,227680.0
+2021,Men,Basketball,University of Chicago,462220.0
+2021,Men,Football,University of Chicago,676204.0
+2021,Men,Soccer,University of Chicago,274883.0
+2021,Men,Swimming and Diving,University of Chicago,164948.0
+2021,Men,Tennis,University of Chicago,182102.0
+2021,Women,Basketball,University of Chicago,346716.0
+2021,Women,Soccer,University of Chicago,312443.0
+2021,Women,Softball,University of Chicago,284584.0
+2021,Women,Swimming and Diving,University of Chicago,164121.0
+2021,Women,Tennis,University of Chicago,141505.0
+2021,Women,Volleyball,University of Chicago,227234.0
+2022,Men,Baseball,University of Chicago,323618.0
+2022,Men,Basketball,University of Chicago,608480.0
+2022,Men,Football,University of Chicago,814979.0
+2022,Men,Soccer,University of Chicago,444574.0
+2022,Men,Swimming and Diving,University of Chicago,265849.0
+2022,Men,Tennis,University of Chicago,249883.0
+2022,Women,Basketball,University of Chicago,345501.0
+2022,Women,Soccer,University of Chicago,380094.0
+2022,Women,Softball,University of Chicago,256158.0
+2022,Women,Swimming and Diving,University of Chicago,274868.0
+2022,Women,Tennis,University of Chicago,253650.0
+2022,Women,Volleyball,University of Chicago,361793.0
+2003,Men,Baseball,Illinois Col,62630.0
+2003,Men,Basketball,Illinois Col,78877.0
+2003,Men,Football,Illinois Col,181529.0
+2003,Men,Golf,Illinois Col,9049.0
+2003,Men,Soccer,Illinois Col,16755.0
+2003,Men,Tennis,Illinois Col,9304.0
+2003,Women,Basketball,Illinois Col,62440.0
+2003,Women,Golf,Illinois Col,21223.0
+2003,Women,Soccer,Illinois Col,21534.0
+2003,Women,Softball,Illinois Col,25947.0
+2003,Women,Tennis,Illinois Col,10003.0
+2003,Women,Volleyball,Illinois Col,33595.0
+2004,Men,Baseball,Illinois Col,75434.0
+2004,Men,Basketball,Illinois Col,98540.0
+2004,Men,Football,Illinois Col,238201.0
+2004,Men,Golf,Illinois Col,10282.0
+2004,Men,Soccer,Illinois Col,20516.0
+2004,Men,Tennis,Illinois Col,7398.0
+2004,Women,Basketball,Illinois Col,71510.0
+2004,Women,Golf,Illinois Col,29812.0
+2004,Women,Soccer,Illinois Col,14453.0
+2004,Women,Softball,Illinois Col,42101.0
+2004,Women,Tennis,Illinois Col,9666.0
+2004,Women,Volleyball,Illinois Col,37614.0
+2005,Men,Baseball,Illinois Col,66924.0
+2005,Men,Basketball,Illinois Col,90151.0
+2005,Men,Football,Illinois Col,221449.0
+2005,Men,Golf,Illinois Col,9789.0
+2005,Men,Soccer,Illinois Col,16356.0
+2005,Men,Tennis,Illinois Col,8960.0
+2005,Women,Basketball,Illinois Col,70979.0
+2005,Women,Golf,Illinois Col,31781.0
+2005,Women,Soccer,Illinois Col,19950.0
+2005,Women,Softball,Illinois Col,49726.0
+2005,Women,Tennis,Illinois Col,8272.0
+2005,Women,Volleyball,Illinois Col,39801.0
+2006,Men,Baseball,Illinois Col,77145.0
+2006,Men,Basketball,Illinois Col,86477.0
+2006,Men,Football,Illinois Col,210121.0
+2006,Men,Golf,Illinois Col,14270.0
+2006,Men,Soccer,Illinois Col,22338.0
+2006,Men,Tennis,Illinois Col,15100.0
+2006,Women,Basketball,Illinois Col,66049.0
+2006,Women,Golf,Illinois Col,32383.0
+2006,Women,Soccer,Illinois Col,18404.0
+2006,Women,Softball,Illinois Col,40441.0
+2006,Women,Tennis,Illinois Col,9120.0
+2006,Women,Volleyball,Illinois Col,38040.0
+2007,Men,Baseball,Illinois Col,82568.0
+2007,Men,Basketball,Illinois Col,90348.0
+2007,Men,Football,Illinois Col,225146.0
+2007,Men,Golf,Illinois Col,13308.0
+2007,Men,Soccer,Illinois Col,23789.0
+2007,Men,Tennis,Illinois Col,5921.0
+2007,Women,Basketball,Illinois Col,82906.0
+2007,Women,Golf,Illinois Col,29952.0
+2007,Women,Soccer,Illinois Col,14083.0
+2007,Women,Softball,Illinois Col,47872.0
+2007,Women,Tennis,Illinois Col,10029.0
+2007,Women,Volleyball,Illinois Col,37877.0
+2008,Men,Baseball,Illinois Col,83183.0
+2008,Men,Basketball,Illinois Col,89537.0
+2008,Men,Football,Illinois Col,225021.0
+2008,Men,Golf,Illinois Col,34409.0
+2008,Men,Soccer,Illinois Col,32648.0
+2008,Men,Tennis,Illinois Col,9419.0
+2008,Women,Basketball,Illinois Col,85043.0
+2008,Women,Golf,Illinois Col,38970.0
+2008,Women,Soccer,Illinois Col,33201.0
+2008,Women,Softball,Illinois Col,40631.0
+2008,Women,Tennis,Illinois Col,10170.0
+2008,Women,Volleyball,Illinois Col,39120.0
+2009,Men,Baseball,Illinois Col,100018.0
+2009,Men,Basketball,Illinois Col,98037.0
+2009,Men,Football,Illinois Col,264668.0
+2009,Men,Golf,Illinois Col,37923.0
+2009,Men,Soccer,Illinois Col,29692.0
+2009,Men,Tennis,Illinois Col,10820.0
+2009,Women,Basketball,Illinois Col,80759.0
+2009,Women,Golf,Illinois Col,25799.0
+2009,Women,Soccer,Illinois Col,30996.0
+2009,Women,Softball,Illinois Col,59273.0
+2009,Women,Tennis,Illinois Col,12686.0
+2009,Women,Volleyball,Illinois Col,51827.0
+2010,Men,Baseball,Illinois Col,91571.0
+2010,Men,Basketball,Illinois Col,107714.0
+2010,Men,Football,Illinois Col,293785.0
+2010,Men,Golf,Illinois Col,49533.0
+2010,Men,Soccer,Illinois Col,44268.0
+2010,Men,Tennis,Illinois Col,8281.0
+2010,Women,Basketball,Illinois Col,82524.0
+2010,Women,Golf,Illinois Col,36693.0
+2010,Women,Soccer,Illinois Col,44581.0
+2010,Women,Softball,Illinois Col,60826.0
+2010,Women,Tennis,Illinois Col,10688.0
+2010,Women,Volleyball,Illinois Col,57205.0
+2011,Men,Baseball,Illinois Col,122523.0
+2011,Men,Basketball,Illinois Col,88225.0
+2011,Men,Football,Illinois Col,288201.0
+2011,Men,Golf,Illinois Col,34163.0
+2011,Men,Soccer,Illinois Col,55055.0
+2011,Men,Tennis,Illinois Col,22222.0
+2011,Women,Basketball,Illinois Col,80496.0
+2011,Women,Golf,Illinois Col,44212.0
+2011,Women,Soccer,Illinois Col,60427.0
+2011,Women,Softball,Illinois Col,66342.0
+2011,Women,Volleyball,Illinois Col,40666.0
+2012,Men,Baseball,Illinois Col,126131.0
+2012,Men,Basketball,Illinois Col,125952.0
+2012,Men,Football,Illinois Col,298744.0
+2012,Men,Golf,Illinois Col,32998.0
+2012,Men,Soccer,Illinois Col,60419.0
+2012,Men,Tennis,Illinois Col,16301.0
+2012,Women,Basketball,Illinois Col,87489.0
+2012,Women,Golf,Illinois Col,36980.0
+2012,Women,Soccer,Illinois Col,62667.0
+2012,Women,Softball,Illinois Col,56730.0
+2012,Women,Tennis,Illinois Col,29944.0
+2012,Women,Volleyball,Illinois Col,47678.0
+2013,Men,Baseball,Illinois Col,142962.0
+2013,Men,Basketball,Illinois Col,148800.0
+2013,Men,Football,Illinois Col,354518.0
+2013,Men,Golf,Illinois Col,29304.0
+2013,Men,Soccer,Illinois Col,59136.0
+2013,Men,Tennis,Illinois Col,21524.0
+2013,Women,Basketball,Illinois Col,83331.0
+2013,Women,Golf,Illinois Col,42720.0
+2013,Women,Soccer,Illinois Col,58348.0
+2013,Women,Softball,Illinois Col,65329.0
+2013,Women,Tennis,Illinois Col,33514.0
+2013,Women,Volleyball,Illinois Col,48153.0
+2014,Men,Baseball,Illinois Col,175427.0
+2014,Men,Basketball,Illinois Col,163545.0
+2014,Men,Football,Illinois Col,362695.0
+2014,Men,Golf,Illinois Col,24584.0
+2014,Men,Soccer,Illinois Col,71501.0
+2014,Men,Tennis,Illinois Col,36224.0
+2014,Women,Basketball,Illinois Col,107733.0
+2014,Women,Golf,Illinois Col,29017.0
+2014,Women,Soccer,Illinois Col,90287.0
+2014,Women,Softball,Illinois Col,77285.0
+2014,Women,Tennis,Illinois Col,24633.0
+2014,Women,Volleyball,Illinois Col,67920.0
+2015,Men,Baseball,Illinois Col,164796.0
+2015,Men,Basketball,Illinois Col,146718.0
+2015,Men,Football,Illinois Col,380039.0
+2015,Men,Golf,Illinois Col,32381.0
+2015,Men,Soccer,Illinois Col,107468.0
+2015,Men,Tennis,Illinois Col,25705.0
+2015,Women,Basketball,Illinois Col,115867.0
+2015,Women,Golf,Illinois Col,31029.0
+2015,Women,Soccer,Illinois Col,119785.0
+2015,Women,Softball,Illinois Col,91686.0
+2015,Women,Tennis,Illinois Col,26553.0
+2015,Women,Volleyball,Illinois Col,124482.0
+2016,Men,Baseball,Illinois Col,166698.0
+2016,Men,Basketball,Illinois Col,139542.0
+2016,Men,Football,Illinois Col,398359.0
+2016,Men,Golf,Illinois Col,31575.0
+2016,Men,Soccer,Illinois Col,108473.0
+2016,Men,Tennis,Illinois Col,25481.0
+2016,Women,Basketball,Illinois Col,138332.0
+2016,Women,Golf,Illinois Col,30463.0
+2016,Women,Soccer,Illinois Col,109284.0
+2016,Women,Softball,Illinois Col,96093.0
+2016,Women,Tennis,Illinois Col,25015.0
+2016,Women,Volleyball,Illinois Col,123774.0
+2017,Men,Baseball,Illinois Col,183174.0
+2017,Men,Basketball,Illinois Col,105240.0
+2017,Men,Football,Illinois Col,375873.0
+2017,Men,Golf,Illinois Col,40417.0
+2017,Men,Soccer,Illinois Col,114228.0
+2017,Men,Tennis,Illinois Col,31077.0
+2017,Women,Basketball,Illinois Col,134645.0
+2017,Women,Golf,Illinois Col,40445.0
+2017,Women,Soccer,Illinois Col,112996.0
+2017,Women,Softball,Illinois Col,111079.0
+2017,Women,Tennis,Illinois Col,26056.0
+2017,Women,Volleyball,Illinois Col,144185.0
+2018,Men,Baseball,Illinois Col,149558.0
+2018,Men,Basketball,Illinois Col,154353.0
+2018,Men,Football,Illinois Col,381111.0
+2018,Men,Golf,Illinois Col,37655.0
+2018,Men,Soccer,Illinois Col,108698.0
+2018,Men,Tennis,Illinois Col,26056.0
+2018,Women,Basketball,Illinois Col,150674.0
+2018,Women,Golf,Illinois Col,39565.0
+2018,Women,Soccer,Illinois Col,112328.0
+2018,Women,Softball,Illinois Col,117413.0
+2018,Women,Tennis,Illinois Col,28139.0
+2018,Women,Volleyball,Illinois Col,127417.0
+2019,Men,Baseball,Illinois Col,130195.0
+2019,Men,Basketball,Illinois Col,154688.0
+2019,Men,Football,Illinois Col,343448.0
+2019,Men,Golf,Illinois Col,38356.0
+2019,Men,Soccer,Illinois Col,103032.0
+2019,Men,Tennis,Illinois Col,23822.0
+2019,Women,Basketball,Illinois Col,149457.0
+2019,Women,Golf,Illinois Col,46678.0
+2019,Women,Soccer,Illinois Col,83316.0
+2019,Women,Softball,Illinois Col,86354.0
+2019,Women,Tennis,Illinois Col,25967.0
+2019,Women,Volleyball,Illinois Col,113139.0
+2020,Men,Baseball,Illinois Col,129794.0
+2020,Men,Basketball,Illinois Col,101496.0
+2020,Men,Football,Illinois Col,252474.0
+2020,Men,Golf,Illinois Col,36521.0
+2020,Men,Soccer,Illinois Col,113145.0
+2020,Men,Tennis,Illinois Col,12318.0
+2020,Women,Basketball,Illinois Col,113548.0
+2020,Women,Golf,Illinois Col,33396.0
+2020,Women,Soccer,Illinois Col,101822.0
+2020,Women,Softball,Illinois Col,95326.0
+2020,Women,Tennis,Illinois Col,13855.0
+2020,Women,Volleyball,Illinois Col,96944.0
+2021,Men,Baseball,Illinois Col,215268.0
+2021,Men,Basketball,Illinois Col,182194.0
+2021,Men,Football,Illinois Col,438125.0
+2021,Men,Golf,Illinois Col,55768.0
+2021,Men,Soccer,Illinois Col,145106.0
+2021,Men,Tennis,Illinois Col,33478.0
+2021,Women,Basketball,Illinois Col,178399.0
+2021,Women,Golf,Illinois Col,50997.0
+2021,Women,Soccer,Illinois Col,147169.0
+2021,Women,Softball,Illinois Col,153051.0
+2021,Women,Tennis,Illinois Col,32136.0
+2021,Women,Volleyball,Illinois Col,159179.0
+2022,Men,Baseball,Illinois Col,214566.0
+2022,Men,Basketball,Illinois Col,197437.0
+2022,Men,Football,Illinois Col,535309.0
+2022,Men,Golf,Illinois Col,34615.0
+2022,Men,Soccer,Illinois Col,165788.0
+2022,Men,Tennis,Illinois Col,37496.0
+2022,Women,Basketball,Illinois Col,200856.0
+2022,Women,Golf,Illinois Col,31506.0
+2022,Women,Soccer,Illinois Col,176367.0
+2022,Women,Softball,Illinois Col,176354.0
+2022,Women,Tennis,Illinois Col,30101.0
+2022,Women,Volleyball,Illinois Col,155213.0
+2003,Men,Baseball,Grinnell,52839.0
+2003,Men,Basketball,Grinnell,56971.0
+2003,Men,Cross Country,Grinnell,27762.0
+2003,Men,Football,Grinnell,116388.0
+2003,Men,Golf,Grinnell,37954.0
+2003,Men,Soccer,Grinnell,38038.0
+2003,Men,Swimming and Diving,Grinnell,48755.0
+2003,Men,Tennis,Grinnell,32454.0
+2003,Men,Track and Fields,Grinnell,73778.0
+2003,Women,Basketball,Grinnell,54590.0
+2003,Women,Cross Country,Grinnell,22490.0
+2003,Women,Golf,Grinnell,31197.0
+2003,Women,Soccer,Grinnell,39651.0
+2003,Women,Softball,Grinnell,49678.0
+2003,Women,Swimming and Diving,Grinnell,47338.0
+2003,Women,Tennis,Grinnell,17436.0
+2003,Women,Track and Fields,Grinnell,47122.0
+2003,Women,Volleyball,Grinnell,41775.0
+2004,Men,Baseball,Grinnell,55167.0
+2004,Men,Basketball,Grinnell,54290.0
+2004,Men,Cross Country,Grinnell,38502.0
+2004,Men,Football,Grinnell,118807.0
+2004,Men,Golf,Grinnell,41413.0
+2004,Men,Soccer,Grinnell,32805.0
+2004,Men,Swimming and Diving,Grinnell,51173.0
+2004,Men,Tennis,Grinnell,33511.0
+2004,Men,Track and Fields,Grinnell,62374.0
+2004,Women,Basketball,Grinnell,43691.0
+2004,Women,Cross Country,Grinnell,34126.0
+2004,Women,Golf,Grinnell,31783.0
+2004,Women,Soccer,Grinnell,35506.0
+2004,Women,Softball,Grinnell,57472.0
+2004,Women,Swimming and Diving,Grinnell,52469.0
+2004,Women,Tennis,Grinnell,29115.0
+2004,Women,Track and Fields,Grinnell,55077.0
+2004,Women,Volleyball,Grinnell,60755.0
+2005,Men,Baseball,Grinnell,59021.0
+2005,Men,Basketball,Grinnell,56541.0
+2005,Men,Cross Country,Grinnell,42456.0
+2005,Men,Football,Grinnell,128112.0
+2005,Men,Golf,Grinnell,47759.0
+2005,Men,Soccer,Grinnell,35952.0
+2005,Men,Swimming and Diving,Grinnell,53950.0
+2005,Men,Tennis,Grinnell,35816.0
+2005,Men,Track and Fields,Grinnell,62898.0
+2005,Women,Basketball,Grinnell,47993.0
+2005,Women,Cross Country,Grinnell,36551.0
+2005,Women,Golf,Grinnell,33984.0
+2005,Women,Soccer,Grinnell,47598.0
+2005,Women,Softball,Grinnell,61237.0
+2005,Women,Swimming and Diving,Grinnell,55559.0
+2005,Women,Tennis,Grinnell,27196.0
+2005,Women,Track and Fields,Grinnell,60302.0
+2005,Women,Volleyball,Grinnell,39428.0
+2006,Men,Baseball,Grinnell,70001.0
+2006,Men,Basketball,Grinnell,67173.0
+2006,Men,Cross Country,Grinnell,43578.0
+2006,Men,Football,Grinnell,139432.0
+2006,Men,Golf,Grinnell,31829.0
+2006,Men,Soccer,Grinnell,38605.0
+2006,Men,Swimming and Diving,Grinnell,56008.0
+2006,Men,Tennis,Grinnell,38307.0
+2006,Men,Track and Fields,Grinnell,55255.0
+2006,Women,Basketball,Grinnell,51461.0
+2006,Women,Cross Country,Grinnell,39414.0
+2006,Women,Golf,Grinnell,36888.0
+2006,Women,Soccer,Grinnell,47384.0
+2006,Women,Softball,Grinnell,62883.0
+2006,Women,Swimming and Diving,Grinnell,56888.0
+2006,Women,Tennis,Grinnell,26457.0
+2006,Women,Track and Fields,Grinnell,48524.0
+2006,Women,Volleyball,Grinnell,43920.0
+2007,Men,Baseball,Grinnell,87815.0
+2007,Men,Basketball,Grinnell,86295.0
+2007,Men,Cross Country,Grinnell,74229.0
+2007,Men,Football,Grinnell,224058.0
+2007,Men,Golf,Grinnell,43972.0
+2007,Men,Soccer,Grinnell,76005.0
+2007,Men,Swimming and Diving,Grinnell,91522.0
+2007,Men,Tennis,Grinnell,50494.0
+2007,Men,Track and Fields,Grinnell,133534.0
+2007,Women,Basketball,Grinnell,57885.0
+2007,Women,Cross Country,Grinnell,79423.0
+2007,Women,Golf,Grinnell,43695.0
+2007,Women,Soccer,Grinnell,71336.0
+2007,Women,Softball,Grinnell,63757.0
+2007,Women,Swimming and Diving,Grinnell,92805.0
+2007,Women,Tennis,Grinnell,46876.0
+2007,Women,Track and Fields,Grinnell,120562.0
+2007,Women,Volleyball,Grinnell,57692.0
+2008,Men,Baseball,Grinnell,114952.0
+2008,Men,Basketball,Grinnell,83251.0
+2008,Men,Cross Country,Grinnell,66583.0
+2008,Men,Football,Grinnell,188566.0
+2008,Men,Golf,Grinnell,50725.0
+2008,Men,Soccer,Grinnell,68783.0
+2008,Men,Swimming and Diving,Grinnell,74816.0
+2008,Men,Tennis,Grinnell,57926.0
+2008,Men,Track and Fields,Grinnell,84643.0
+2008,Women,Basketball,Grinnell,57725.0
+2008,Women,Cross Country,Grinnell,56314.0
+2008,Women,Golf,Grinnell,50800.0
+2008,Women,Soccer,Grinnell,68738.0
+2008,Women,Softball,Grinnell,52421.0
+2008,Women,Swimming and Diving,Grinnell,74530.0
+2008,Women,Tennis,Grinnell,54870.0
+2008,Women,Track and Fields,Grinnell,74450.0
+2008,Women,Volleyball,Grinnell,63974.0
+2009,Men,Baseball,Grinnell,101648.0
+2009,Men,Basketball,Grinnell,91166.0
+2009,Men,Cross Country,Grinnell,61486.0
+2009,Men,Football,Grinnell,164049.0
+2009,Men,Golf,Grinnell,49792.0
+2009,Men,Soccer,Grinnell,69209.0
+2009,Men,Swimming and Diving,Grinnell,84727.0
+2009,Men,Tennis,Grinnell,55466.0
+2009,Men,Track and Fields,Grinnell,90873.0
+2009,Women,Basketball,Grinnell,67155.0
+2009,Women,Cross Country,Grinnell,53634.0
+2009,Women,Golf,Grinnell,55758.0
+2009,Women,Soccer,Grinnell,74503.0
+2009,Women,Softball,Grinnell,55561.0
+2009,Women,Swimming and Diving,Grinnell,85504.0
+2009,Women,Tennis,Grinnell,53745.0
+2009,Women,Track and Fields,Grinnell,57355.0
+2009,Women,Volleyball,Grinnell,54222.0
+2010,Men,Baseball,Grinnell,100104.0
+2010,Men,Basketball,Grinnell,91893.0
+2010,Men,Cross Country,Grinnell,62809.0
+2010,Men,Football,Grinnell,179693.0
+2010,Men,Golf,Grinnell,45158.0
+2010,Men,Soccer,Grinnell,63638.0
+2010,Men,Swimming and Diving,Grinnell,84408.0
+2010,Men,Tennis,Grinnell,62241.0
+2010,Men,Track and Fields,Grinnell,110112.0
+2010,Women,Basketball,Grinnell,61937.0
+2010,Women,Cross Country,Grinnell,52842.0
+2010,Women,Golf,Grinnell,58224.0
+2010,Women,Soccer,Grinnell,56160.0
+2010,Women,Softball,Grinnell,53742.0
+2010,Women,Swimming and Diving,Grinnell,85608.0
+2010,Women,Tennis,Grinnell,58573.0
+2010,Women,Track and Fields,Grinnell,99288.0
+2010,Women,Volleyball,Grinnell,75237.0
+2011,Men,Baseball,Grinnell,117511.0
+2011,Men,Basketball,Grinnell,100155.0
+2011,Men,Cross Country,Grinnell,65604.0
+2011,Men,Football,Grinnell,185006.0
+2011,Men,Golf,Grinnell,52248.0
+2011,Men,Soccer,Grinnell,73076.0
+2011,Men,Swimming and Diving,Grinnell,103991.0
+2011,Men,Tennis,Grinnell,66576.0
+2011,Men,Track and Fields,Grinnell,114082.0
+2011,Women,Basketball,Grinnell,74299.0
+2011,Women,Cross Country,Grinnell,61853.0
+2011,Women,Golf,Grinnell,60932.0
+2011,Women,Soccer,Grinnell,73346.0
+2011,Women,Softball,Grinnell,50252.0
+2011,Women,Swimming and Diving,Grinnell,104260.0
+2011,Women,Tennis,Grinnell,65410.0
+2011,Women,Track and Fields,Grinnell,114674.0
+2011,Women,Volleyball,Grinnell,60136.0
+2012,Men,Baseball,Grinnell,113224.0
+2012,Men,Basketball,Grinnell,100408.0
+2012,Men,Cross Country,Grinnell,63435.0
+2012,Men,Football,Grinnell,195034.0
+2012,Men,Golf,Grinnell,51912.0
+2012,Men,Soccer,Grinnell,68071.0
+2012,Men,Swimming and Diving,Grinnell,107755.0
+2012,Men,Tennis,Grinnell,63911.0
+2012,Men,Track and Fields,Grinnell,120173.0
+2012,Women,Basketball,Grinnell,75949.0
+2012,Women,Cross Country,Grinnell,65838.0
+2012,Women,Golf,Grinnell,59431.0
+2012,Women,Soccer,Grinnell,80367.0
+2012,Women,Softball,Grinnell,53006.0
+2012,Women,Swimming and Diving,Grinnell,107667.0
+2012,Women,Tennis,Grinnell,62385.0
+2012,Women,Track and Fields,Grinnell,117168.0
+2012,Women,Volleyball,Grinnell,55575.0
+2013,Men,Baseball,Grinnell,118281.0
+2013,Men,Basketball,Grinnell,105060.0
+2013,Men,Cross Country,Grinnell,65963.0
+2013,Men,Football,Grinnell,191553.0
+2013,Men,Golf,Grinnell,56307.0
+2013,Men,Soccer,Grinnell,70627.0
+2013,Men,Swimming and Diving,Grinnell,96097.0
+2013,Men,Tennis,Grinnell,67375.0
+2013,Men,Track and Fields,Grinnell,107902.0
+2013,Women,Basketball,Grinnell,86529.0
+2013,Women,Cross Country,Grinnell,68455.0
+2013,Women,Golf,Grinnell,60346.0
+2013,Women,Soccer,Grinnell,54540.0
+2013,Women,Softball,Grinnell,67022.0
+2013,Women,Swimming and Diving,Grinnell,98709.0
+2013,Women,Tennis,Grinnell,67323.0
+2013,Women,Track and Fields,Grinnell,107540.0
+2013,Women,Volleyball,Grinnell,66191.0
+2014,Men,Baseball,Grinnell,117523.0
+2014,Men,Basketball,Grinnell,105712.0
+2014,Men,Cross Country,Grinnell,67909.0
+2014,Men,Football,Grinnell,215679.0
+2014,Men,Golf,Grinnell,60143.0
+2014,Men,Soccer,Grinnell,73531.0
+2014,Men,Swimming and Diving,Grinnell,99985.0
+2014,Men,Tennis,Grinnell,80877.0
+2014,Men,Track and Fields,Grinnell,110919.0
+2014,Women,Basketball,Grinnell,107577.0
+2014,Women,Cross Country,Grinnell,66163.0
+2014,Women,Golf,Grinnell,71430.0
+2014,Women,Soccer,Grinnell,65368.0
+2014,Women,Softball,Grinnell,67602.0
+2014,Women,Swimming and Diving,Grinnell,101173.0
+2014,Women,Tennis,Grinnell,73327.0
+2014,Women,Track and Fields,Grinnell,105168.0
+2014,Women,Volleyball,Grinnell,96157.0
+2015,Men,Baseball,Grinnell,161582.0
+2015,Men,Basketball,Grinnell,118157.0
+2015,Men,Cross Country,Grinnell,85251.0
+2015,Men,Football,Grinnell,226499.0
+2015,Men,Golf,Grinnell,58804.0
+2015,Men,Soccer,Grinnell,80359.0
+2015,Men,Swimming and Diving,Grinnell,120105.0
+2015,Men,Tennis,Grinnell,78698.0
+2015,Men,Track and Fields,Grinnell,129523.0
+2015,Women,Basketball,Grinnell,118945.0
+2015,Women,Cross Country,Grinnell,71169.0
+2015,Women,Golf,Grinnell,84120.0
+2015,Women,Soccer,Grinnell,71278.0
+2015,Women,Softball,Grinnell,73730.0
+2015,Women,Swimming and Diving,Grinnell,122712.0
+2015,Women,Tennis,Grinnell,76152.0
+2015,Women,Track and Fields,Grinnell,116387.0
+2015,Women,Volleyball,Grinnell,75219.0
+2016,Men,Baseball,Grinnell,234970.0
+2016,Men,Basketball,Grinnell,157008.0
+2016,Men,Cross Country,Grinnell,107835.0
+2016,Men,Football,Grinnell,269786.0
+2016,Men,Golf,Grinnell,84938.0
+2016,Men,Soccer,Grinnell,102228.0
+2016,Men,Swimming and Diving,Grinnell,150814.0
+2016,Men,Tennis,Grinnell,68291.0
+2016,Men,Track and Fields,Grinnell,162553.0
+2016,Women,Basketball,Grinnell,130850.0
+2016,Women,Cross Country,Grinnell,93916.0
+2016,Women,Golf,Grinnell,97277.0
+2016,Women,Soccer,Grinnell,80122.0
+2016,Women,Softball,Grinnell,116610.0
+2016,Women,Swimming and Diving,Grinnell,149415.0
+2016,Women,Tennis,Grinnell,67586.0
+2016,Women,Track and Fields,Grinnell,153969.0
+2016,Women,Volleyball,Grinnell,80685.0
+2017,Men,Baseball,Grinnell,205592.0
+2017,Men,Basketball,Grinnell,164664.0
+2017,Men,Cross Country,Grinnell,111272.0
+2017,Men,Football,Grinnell,295901.0
+2017,Men,Golf,Grinnell,83343.0
+2017,Men,Soccer,Grinnell,106485.0
+2017,Men,Swimming and Diving,Grinnell,152772.0
+2017,Men,Tennis,Grinnell,72099.0
+2017,Men,Track and Fields,Grinnell,177691.0
+2017,Women,Basketball,Grinnell,151432.0
+2017,Women,Cross Country,Grinnell,97571.0
+2017,Women,Golf,Grinnell,98572.0
+2017,Women,Soccer,Grinnell,101678.0
+2017,Women,Softball,Grinnell,146350.0
+2017,Women,Swimming and Diving,Grinnell,153640.0
+2017,Women,Tennis,Grinnell,68515.0
+2017,Women,Track and Fields,Grinnell,167671.0
+2017,Women,Volleyball,Grinnell,85771.0
+2018,Men,Baseball,Grinnell,203034.0
+2018,Men,Basketball,Grinnell,125755.0
+2018,Men,Cross Country,Grinnell,115004.0
+2018,Men,Football,Grinnell,332888.0
+2018,Men,Golf,Grinnell,82075.0
+2018,Men,Soccer,Grinnell,105196.0
+2018,Men,Swimming and Diving,Grinnell,161114.0
+2018,Men,Tennis,Grinnell,77004.0
+2018,Men,Track and Fields,Grinnell,192474.0
+2018,Women,Basketball,Grinnell,138202.0
+2018,Women,Cross Country,Grinnell,96923.0
+2018,Women,Golf,Grinnell,66355.0
+2018,Women,Soccer,Grinnell,87011.0
+2018,Women,Softball,Grinnell,147873.0
+2018,Women,Swimming and Diving,Grinnell,164872.0
+2018,Women,Tennis,Grinnell,74514.0
+2018,Women,Track and Fields,Grinnell,184078.0
+2018,Women,Volleyball,Grinnell,122868.0
+2019,Men,Baseball,Grinnell,155223.0
+2019,Men,Basketball,Grinnell,117672.0
+2019,Men,Cross Country,Grinnell,112939.0
+2019,Men,Football,Grinnell,372562.0
+2019,Men,Golf,Grinnell,58620.0
+2019,Men,Soccer,Grinnell,118306.0
+2019,Men,Swimming and Diving,Grinnell,163634.0
+2019,Men,Tennis,Grinnell,60712.0
+2019,Men,Track and Fields,Grinnell,152292.0
+2019,Women,Basketball,Grinnell,151888.0
+2019,Women,Cross Country,Grinnell,100639.0
+2019,Women,Golf,Grinnell,66249.0
+2019,Women,Soccer,Grinnell,90249.0
+2019,Women,Softball,Grinnell,111295.0
+2019,Women,Swimming and Diving,Grinnell,161267.0
+2019,Women,Tennis,Grinnell,61487.0
+2019,Women,Track and Fields,Grinnell,157734.0
+2019,Women,Volleyball,Grinnell,131001.0
+2020,Men,Baseball,Grinnell,145590.0
+2020,Men,Golf,Grinnell,64300.0
+2020,Men,Tennis,Grinnell,33026.0
+2020,Men,Track and Fields,Grinnell,49822.0
+2020,Women,Golf,Grinnell,55752.0
+2020,Women,Softball,Grinnell,95227.0
+2020,Women,Tennis,Grinnell,31305.0
+2020,Women,Track and Fields,Grinnell,61426.0
+2021,Men,Baseball,Grinnell,257680.0
+2021,Men,Basketball,Grinnell,130999.0
+2021,Men,Cross Country,Grinnell,37920.0
+2021,Men,Football,Grinnell,468784.0
+2021,Men,Golf,Grinnell,81045.0
+2021,Men,Soccer,Grinnell,133338.0
+2021,Men,Swimming and Diving,Grinnell,153318.0
+2021,Men,Tennis,Grinnell,84396.0
+2021,Men,Track and Fields,Grinnell,152688.0
+2021,Women,Basketball,Grinnell,150627.0
+2021,Women,Cross Country,Grinnell,38520.0
+2021,Women,Golf,Grinnell,74673.0
+2021,Women,Soccer,Grinnell,84580.0
+2021,Women,Softball,Grinnell,155180.0
+2021,Women,Swimming and Diving,Grinnell,158099.0
+2021,Women,Tennis,Grinnell,90754.0
+2021,Women,Track and Fields,Grinnell,160292.0
+2021,Women,Volleyball,Grinnell,142055.0
+2022,Men,Baseball,Grinnell,325050.0
+2022,Men,Basketball,Grinnell,140454.0
+2022,Men,Cross Country,Grinnell,48740.0
+2022,Men,Football,Grinnell,500148.0
+2022,Men,Golf,Grinnell,128794.0
+2022,Men,Soccer,Grinnell,134072.0
+2022,Men,Swimming and Diving,Grinnell,169843.0
+2022,Men,Tennis,Grinnell,86944.0
+2022,Men,Track and Fields,Grinnell,169686.0
+2022,Women,Basketball,Grinnell,194253.0
+2022,Women,Cross Country,Grinnell,51805.0
+2022,Women,Golf,Grinnell,117587.0
+2022,Women,Soccer,Grinnell,113952.0
+2022,Women,Softball,Grinnell,195682.0
+2022,Women,Swimming and Diving,Grinnell,170753.0
+2022,Women,Tennis,Grinnell,88699.0
+2022,Women,Track and Fields,Grinnell,166937.0
+2022,Women,Volleyball,Grinnell,184544.0
+2003,Men,Baseball,Cornell College,58701.0
+2003,Men,Basketball,Cornell College,70259.0
+2003,Men,Cross Country,Cornell College,67597.0
+2003,Men,Football,Cornell College,200198.0
+2003,Men,Golf,Cornell College,9794.0
+2003,Men,Soccer,Cornell College,17576.0
+2003,Men,Tennis,Cornell College,8845.0
+2003,Women,Basketball,Cornell College,54944.0
+2003,Women,Cross Country,Cornell College,66751.0
+2003,Women,Golf,Cornell College,9948.0
+2003,Women,Soccer,Cornell College,18778.0
+2003,Women,Softball,Cornell College,39657.0
+2003,Women,Tennis,Cornell College,20007.0
+2003,Women,Volleyball,Cornell College,44027.0
+2004,Men,Baseball,Cornell College,40506.0
+2004,Men,Basketball,Cornell College,99375.0
+2004,Men,Football,Cornell College,186912.0
+2004,Men,Golf,Cornell College,12854.0
+2004,Men,Soccer,Cornell College,18442.0
+2004,Men,Tennis,Cornell College,9252.0
+2004,Women,Basketball,Cornell College,64261.0
+2004,Women,Golf,Cornell College,7920.0
+2004,Women,Soccer,Cornell College,18654.0
+2004,Women,Softball,Cornell College,40832.0
+2004,Women,Tennis,Cornell College,15410.0
+2004,Women,Volleyball,Cornell College,54084.0
+2005,Men,Baseball,Cornell College,71708.0
+2005,Men,Basketball,Cornell College,108588.0
+2005,Men,Football,Cornell College,227203.0
+2005,Men,Golf,Cornell College,11144.0
+2005,Men,Soccer,Cornell College,18586.0
+2005,Men,Tennis,Cornell College,6916.0
+2005,Women,Basketball,Cornell College,97759.0
+2005,Women,Golf,Cornell College,13402.0
+2005,Women,Soccer,Cornell College,17571.0
+2005,Women,Softball,Cornell College,28020.0
+2005,Women,Tennis,Cornell College,20952.0
+2005,Women,Volleyball,Cornell College,64907.0
+2006,Men,Baseball,Cornell College,72367.0
+2006,Men,Basketball,Cornell College,92981.0
+2006,Men,Football,Cornell College,227665.0
+2006,Men,Golf,Cornell College,10284.0
+2006,Men,Soccer,Cornell College,13279.0
+2006,Men,Tennis,Cornell College,5272.0
+2006,Women,Basketball,Cornell College,138246.0
+2006,Women,Golf,Cornell College,8156.0
+2006,Women,Soccer,Cornell College,16330.0
+2006,Women,Softball,Cornell College,61997.0
+2006,Women,Tennis,Cornell College,19259.0
+2006,Women,Volleyball,Cornell College,67929.0
+2007,Men,Baseball,Cornell College,91959.0
+2007,Men,Basketball,Cornell College,147264.0
+2007,Men,Cross Country,Cornell College,23378.0
+2007,Men,Football,Cornell College,284079.0
+2007,Men,Golf,Cornell College,8438.0
+2007,Men,Soccer,Cornell College,12654.0
+2007,Men,Tennis,Cornell College,28074.0
+2007,Men,Track and Fields,Cornell College,42216.0
+2007,Women,Basketball,Cornell College,138087.0
+2007,Women,Cross Country,Cornell College,23378.0
+2007,Women,Golf,Cornell College,8129.0
+2007,Women,Soccer,Cornell College,17787.0
+2007,Women,Softball,Cornell College,70543.0
+2007,Women,Tennis,Cornell College,32588.0
+2007,Women,Track and Fields,Cornell College,41722.0
+2007,Women,Volleyball,Cornell College,66579.0
+2008,Men,Baseball,Cornell College,83142.0
+2008,Men,Basketball,Cornell College,131731.0
+2008,Men,Cross Country,Cornell College,27410.0
+2008,Men,Football,Cornell College,280676.0
+2008,Men,Golf,Cornell College,12096.0
+2008,Men,Soccer,Cornell College,33888.0
+2008,Men,Tennis,Cornell College,35825.0
+2008,Men,Track and Fields,Cornell College,57502.0
+2008,Women,Basketball,Cornell College,139560.0
+2008,Women,Cross Country,Cornell College,25176.0
+2008,Women,Golf,Cornell College,9771.0
+2008,Women,Soccer,Cornell College,42568.0
+2008,Women,Softball,Cornell College,93164.0
+2008,Women,Tennis,Cornell College,34711.0
+2008,Women,Track and Fields,Cornell College,57586.0
+2008,Women,Volleyball,Cornell College,90843.0
+2009,Men,Baseball,Cornell College,86380.0
+2009,Men,Basketball,Cornell College,131880.0
+2009,Men,Cross Country,Cornell College,22357.0
+2009,Men,Football,Cornell College,297638.0
+2009,Men,Golf,Cornell College,11348.0
+2009,Men,Soccer,Cornell College,30244.0
+2009,Men,Tennis,Cornell College,39076.0
+2009,Men,Track and Fields,Cornell College,51538.0
+2009,Women,Basketball,Cornell College,135560.0
+2009,Women,Cross Country,Cornell College,20287.0
+2009,Women,Golf,Cornell College,6401.0
+2009,Women,Soccer,Cornell College,32149.0
+2009,Women,Softball,Cornell College,75481.0
+2009,Women,Tennis,Cornell College,27886.0
+2009,Women,Track and Fields,Cornell College,47382.0
+2009,Women,Volleyball,Cornell College,69890.0
+2010,Men,Baseball,Cornell College,80380.0
+2010,Men,Basketball,Cornell College,118544.0
+2010,Men,Cross Country,Cornell College,31335.0
+2010,Men,Football,Cornell College,324748.0
+2010,Men,Golf,Cornell College,15190.0
+2010,Men,Soccer,Cornell College,57059.0
+2010,Men,Tennis,Cornell College,32944.0
+2010,Men,Track and Fields,Cornell College,56386.0
+2010,Women,Basketball,Cornell College,125930.0
+2010,Women,Cross Country,Cornell College,31743.0
+2010,Women,Golf,Cornell College,8196.0
+2010,Women,Soccer,Cornell College,31870.0
+2010,Women,Softball,Cornell College,94964.0
+2010,Women,Tennis,Cornell College,30985.0
+2010,Women,Track and Fields,Cornell College,51798.0
+2010,Women,Volleyball,Cornell College,88584.0
+2011,Men,Baseball,Cornell College,80013.0
+2011,Men,Basketball,Cornell College,110579.0
+2011,Men,Football,Cornell College,284608.0
+2011,Men,Golf,Cornell College,9039.0
+2011,Men,Soccer,Cornell College,55137.0
+2011,Men,Tennis,Cornell College,27839.0
+2011,Women,Basketball,Cornell College,115529.0
+2011,Women,Golf,Cornell College,9316.0
+2011,Women,Soccer,Cornell College,53312.0
+2011,Women,Softball,Cornell College,76307.0
+2011,Women,Tennis,Cornell College,6373.0
+2011,Women,Volleyball,Cornell College,75664.0
+2012,Men,Baseball,Cornell College,110305.0
+2012,Men,Basketball,Cornell College,131901.0
+2012,Men,Football,Cornell College,304914.0
+2012,Men,Soccer,Cornell College,60723.0
+2012,Men,Tennis,Cornell College,37606.0
+2012,Women,Basketball,Cornell College,135397.0
+2012,Women,Soccer,Cornell College,61406.0
+2012,Women,Softball,Cornell College,91815.0
+2012,Women,Tennis,Cornell College,36186.0
+2012,Women,Volleyball,Cornell College,91164.0
+2013,Men,Baseball,Cornell College,100591.0
+2013,Men,Basketball,Cornell College,126653.0
+2013,Men,Cross Country,Cornell College,45493.0
+2013,Men,Football,Cornell College,321935.0
+2013,Men,Soccer,Cornell College,68875.0
+2013,Men,Tennis,Cornell College,31965.0
+2013,Men,Track and Fields,Cornell College,61274.0
+2013,Women,Basketball,Cornell College,147214.0
+2013,Women,Cross Country,Cornell College,42141.0
+2013,Women,Soccer,Cornell College,69519.0
+2013,Women,Softball,Cornell College,100818.0
+2013,Women,Tennis,Cornell College,34110.0
+2013,Women,Track and Fields,Cornell College,61274.0
+2013,Women,Volleyball,Cornell College,113410.0
+2014,Men,Baseball,Cornell College,158479.0
+2014,Men,Basketball,Cornell College,178915.0
+2014,Men,Football,Cornell College,345308.0
+2014,Men,Soccer,Cornell College,61108.0
+2014,Men,Tennis,Cornell College,53672.0
+2014,Women,Basketball,Cornell College,234625.0
+2014,Women,Soccer,Cornell College,68079.0
+2014,Women,Softball,Cornell College,130904.0
+2014,Women,Tennis,Cornell College,37356.0
+2014,Women,Volleyball,Cornell College,122245.0
+2015,Men,Baseball,Cornell College,173276.0
+2015,Men,Basketball,Cornell College,176090.0
+2015,Men,Football,Cornell College,338664.0
+2015,Men,Soccer,Cornell College,83409.0
+2015,Men,Tennis,Cornell College,70628.0
+2015,Women,Basketball,Cornell College,224963.0
+2015,Women,Soccer,Cornell College,83492.0
+2015,Women,Softball,Cornell College,116453.0
+2015,Women,Tennis,Cornell College,17152.0
+2015,Women,Volleyball,Cornell College,135572.0
+2016,Men,Baseball,Cornell College,203445.0
+2016,Men,Basketball,Cornell College,160232.0
+2016,Men,Cross Country,Cornell College,45467.0
+2016,Men,Football,Cornell College,380269.0
+2016,Men,Soccer,Cornell College,125610.0
+2016,Men,Tennis,Cornell College,43977.0
+2016,Men,Track and Fields,Cornell College,66018.0
+2016,Women,Basketball,Cornell College,250471.0
+2016,Women,Cross Country,Cornell College,45467.0
+2016,Women,Soccer,Cornell College,70548.0
+2016,Women,Softball,Cornell College,130908.0
+2016,Women,Tennis,Cornell College,43999.0
+2016,Women,Track and Fields,Cornell College,66018.0
+2016,Women,Volleyball,Cornell College,122012.0
+2017,Men,Baseball,Cornell College,198862.0
+2017,Men,Basketball,Cornell College,136701.0
+2017,Men,Football,Cornell College,361076.0
+2017,Men,Soccer,Cornell College,83563.0
+2017,Men,Tennis,Cornell College,36994.0
+2017,Women,Basketball,Cornell College,249973.0
+2017,Women,Soccer,Cornell College,67929.0
+2017,Women,Softball,Cornell College,117823.0
+2017,Women,Tennis,Cornell College,38430.0
+2017,Women,Volleyball,Cornell College,149022.0
+2018,Men,Baseball,Cornell College,251406.0
+2018,Men,Basketball,Cornell College,144366.0
+2018,Men,Football,Cornell College,350718.0
+2018,Men,Soccer,Cornell College,99066.0
+2018,Men,Tennis,Cornell College,48843.0
+2018,Women,Basketball,Cornell College,259879.0
+2018,Women,Soccer,Cornell College,67005.0
+2018,Women,Softball,Cornell College,121036.0
+2018,Women,Tennis,Cornell College,41244.0
+2018,Women,Volleyball,Cornell College,148877.0
+2019,Men,Baseball,Cornell College,284029.0
+2019,Men,Basketball,Cornell College,146920.0
+2019,Men,Football,Cornell College,444412.0
+2019,Men,Soccer,Cornell College,96740.0
+2019,Men,Tennis,Cornell College,41238.0
+2019,Women,Basketball,Cornell College,270829.0
+2019,Women,Soccer,Cornell College,76708.0
+2019,Women,Softball,Cornell College,115436.0
+2019,Women,Tennis,Cornell College,35762.0
+2019,Women,Volleyball,Cornell College,144432.0
+2020,Men,Baseball,Cornell College,103945.0
+2020,Men,Basketball,Cornell College,111270.0
+2020,Men,Football,Cornell College,442339.0
+2020,Men,Soccer,Cornell College,59860.0
+2020,Men,Tennis,Cornell College,23361.0
+2020,Women,Basketball,Cornell College,123217.0
+2020,Women,Soccer,Cornell College,46600.0
+2020,Women,Softball,Cornell College,70357.0
+2020,Women,Tennis,Cornell College,27643.0
+2020,Women,Volleyball,Cornell College,99797.0
+2021,Men,Baseball,Cornell College,233165.0
+2021,Men,Basketball,Cornell College,157896.0
+2021,Men,Football,Cornell College,488348.0
+2021,Men,Soccer,Cornell College,98417.0
+2021,Men,Tennis,Cornell College,48737.0
+2021,Women,Basketball,Cornell College,219188.0
+2021,Women,Soccer,Cornell College,63302.0
+2021,Women,Softball,Cornell College,152187.0
+2021,Women,Tennis,Cornell College,14861.0
+2021,Women,Volleyball,Cornell College,169521.0
+2022,Men,Baseball,Cornell College,305212.0
+2022,Men,Basketball,Cornell College,152134.0
+2022,Men,Cross Country,Cornell College,46580.0
+2022,Men,Football,Cornell College,504059.0
+2022,Men,Soccer,Cornell College,98513.0
+2022,Men,Tennis,Cornell College,72325.0
+2022,Men,Track and Fields,Cornell College,98972.0
+2022,Women,Basketball,Cornell College,258320.0
+2022,Women,Cross Country,Cornell College,46580.0
+2022,Women,Soccer,Cornell College,72407.0
+2022,Women,Softball,Cornell College,170391.0
+2022,Women,Tennis,Cornell College,22455.0
+2022,Women,Track and Fields,Cornell College,98972.0
+2022,Women,Volleyball,Cornell College,297900.0
