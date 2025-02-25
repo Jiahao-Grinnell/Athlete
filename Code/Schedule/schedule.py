@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 # -----------------------------------------------------------------------------
 # 1) SETUP: URL, HEADERS, FOLDER
 # -----------------------------------------------------------------------------
-BASE_URL = "https://pioneers.grinnell.edu"
-sport="womens-volleyball"
+BASE_URL = "https://riponredhawks.com"
+sport="baseball"
 START_URL = f"{BASE_URL}/sports/{sport}/schedule"  # The main schedule page
 ROOT_FOLDER = "all_seasons_data"
 
