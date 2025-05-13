@@ -1,0 +1,4109 @@
+Year,School,Sport,Gender,Rank
+2003,Beloit,Football,Men,4.0
+2003,Beloit,Soccer,Men,9.0
+2003,Beloit,Cross Country,Men,7.0
+2003,Beloit,Basketball,Men,1.0
+2003,Beloit,Swimming,Men,5.0
+2003,Beloit,Indoor Track & Field,Men,5.0
+2003,Beloit,Tennis,Men,6.0
+2003,Beloit,Baseball,Men,3.5
+2003,Beloit,Outdoor Track & Field,Men,2.0
+2003,Beloit,Total,Men,44.5
+2003,Carroll,Football,Men,4.0
+2003,Carroll,Soccer,Men,3.0
+2003,Carroll,Cross Country,Men,4.0
+2003,Carroll,Basketball,Men,9.0
+2003,Carroll,Swimming,Men,6.0
+2003,Carroll,Indoor Track & Field,Men,2.0
+2003,Carroll,Tennis,Men,2.0
+2003,Carroll,Baseball,Men,2.0
+2003,Carroll,Outdoor Track & Field,Men,4.0
+2003,Carroll,Total,Men,42.0
+2003,Grinnell,Football,Men,1.0
+2003,Grinnell,Soccer,Men,6.0
+2003,Grinnell,Cross Country,Men,10.0
+2003,Grinnell,Basketball,Men,8.0
+2003,Grinnell,Swimming,Men,10.0
+2003,Grinnell,Indoor Track & Field,Men,8.0
+2003,Grinnell,Tennis,Men,10.0
+2003,Grinnell,Baseball,Men,5.5
+2003,Grinnell,Outdoor Track & Field,Men,8.0
+2003,Grinnell,Total,Men,71.5
+2003,Illinois C.,Football,Men,4.0
+2003,Illinois C.,Soccer,Men,1.5
+2003,Illinois C.,Cross Country,Men,1.0
+2003,Illinois C.,Basketball,Men,4.0
+2003,Illinois C.,Swimming,Men,
+2003,Illinois C.,Indoor Track & Field,Men,6.0
+2003,Illinois C.,Tennis,Men,1.0
+2003,Illinois C.,Baseball,Men,7.5
+2003,Illinois C.,Outdoor Track & Field,Men,6.0
+2003,Illinois C.,Total,Men,34.0
+2003,Knox,Football,Men,4.0
+2003,Knox,Soccer,Men,1.5
+2003,Knox,Cross Country,Men,8.0
+2003,Knox,Basketball,Men,2.5
+2003,Knox,Swimming,Men,4.0
+2003,Knox,Indoor Track & Field,Men,3.0
+2003,Knox,Tennis,Men,4.0
+2003,Knox,Baseball,Men,3.5
+2003,Knox,Outdoor Track & Field,Men,3.0
+2003,Knox,Total,Men,42.5
+2003,Lake Forest,Football,Men,8.0
+2003,Lake Forest,Soccer,Men,8.0
+2003,Lake Forest,Cross Country,Men,5.0
+2003,Lake Forest,Basketball,Men,7.0
+2003,Lake Forest,Swimming,Men,8.0
+2003,Lake Forest,Indoor Track & Field,Men,
+2003,Lake Forest,Tennis,Men,7.0
+2003,Lake Forest,Baseball,Men,
+2003,Lake Forest,Outdoor Track & Field,Men,
+2003,Lake Forest,Total,Men,43.0
+2003,Lawerence,Football,Men,4.0
+2003,Lawerence,Soccer,Men,7.0
+2003,Lawerence,Cross Country,Men,2.0
+2003,Lawerence,Basketball,Men,10.0
+2003,Lawerence,Swimming,Men,9.0
+2003,Lawerence,Indoor Track & Field,Men,4.0
+2003,Lawerence,Tennis,Men,5.0
+2003,Lawerence,Baseball,Men,5.5
+2003,Lawerence,Outdoor Track & Field,Men,5.0
+2003,Lawerence,Total,Men,59.5
+2003,Monmouth,Football,Men,9.0
+2003,Monmouth,Soccer,Men,4.5
+2003,Monmouth,Cross Country,Men,3.0
+2003,Monmouth,Basketball,Men,2.5
+2003,Monmouth,Swimming,Men,
+2003,Monmouth,Indoor Track & Field,Men,1.0
+2003,Monmouth,Tennis,Men,3.0
+2003,Monmouth,Baseball,Men,9.0
+2003,Monmouth,Outdoor Track & Field,Men,10.0
+2003,Monmouth,Total,Men,61.0
+2003,Ripon,Football,Men,7.0
+2003,Ripon,Soccer,Men,4.5
+2003,Ripon,Cross Country,Men,6.0
+2003,Ripon,Basketball,Men,5.0
+2003,Ripon,Swimming,Men,7.0
+2003,Ripon,Indoor Track & Field,Men,7.0
+2003,Ripon,Tennis,Men,9.0
+2003,Ripon,Baseball,Men,10.0
+2003,Ripon,Outdoor Track & Field,Men,7.0
+2003,Ripon,Total,Men,66.5
+2003,St. Norbert,Football,Men,10.0
+2003,St. Norbert,Soccer,Men,10.
+2003,St. Norbert,Cross Country,Men,9.0
+2003,St. Norbert,Basketball,Men,6.0
+2003,St. Norbert,Swimming,Men,
+2003,St. Norbert,Indoor Track & Field,Men,9.0
+2003,St. Norbert,Tennis,Men,8.0
+2003,St. Norbert,Baseball,Men,7.5
+2003,St. Norbert,Outdoor Track & Field,Men,9.0
+2003,St. Norbert,Total,Men,75.5
+2003,Beloit,Volleyball,Women,7.0
+2003,Beloit,Soccer,Women,4.0
+2003,Beloit,Cross Country,Women,7.0
+2003,Beloit,Tennis,Women,5.0
+2003,Beloit,Basketball,Women,4.0
+2003,Beloit,Swimming,Women,6.0
+2003,Beloit,Indoor Track & Field,Women,8.0
+2003,Beloit,Softball,Women,3.5
+2003,Beloit,Outdoor Track & Field,Women,9.0
+2003,Beloit,Total,Women,57.5
+2003,Carroll,Volleyball,Women,9.0
+2003,Carroll,Soccer,Women,7.0
+2003,Carroll,Cross Country,Women,6.0
+2003,Carroll,Tennis,Women,7.0
+2003,Carroll,Basketball,Women,5.5
+2003,Carroll,Swimming,Women,5.0
+2003,Carroll,Indoor Track & Field,Women,9.0
+2003,Carroll,Softball,Women,1.5
+2003,Carroll,Outdoor Track & Field,Women,10.0
+2003,Carroll,Total,Women,66.0
+2003,Grinnell,Volleyball,Women,3.5
+2003,Grinnell,Soccer,Women,10.0
+2003,Grinnell,Cross Country,Women,8.0
+2003,Grinnell,Tennis,Women,9.0
+2003,Grinnell,Basketball,Women,7.5
+2003,Grinnell,Swimming,Women,10.0
+2003,Grinnell,Indoor Track & Field,Women,6.5
+2003,Grinnell,Softball,Women,1.5
+2003,Grinnell,Outdoor Track & Field,Women,3.0
+2003,Grinnell,Total,Women,62.0
+2003,Illinois C.,Volleyball,Women,6.0
+2003,Illinois C.,Soccer,Women,2.0
+2003,Illinois C.,Cross Country,Women,1.0
+2003,Illinois C.,Tennis,Women,2.0
+2003,Illinois C.,Basketball,Women,3.0
+2003,Illinois C.,Swimming,Women,
+2003,Illinois C.,Indoor Track & Field,Women,4.0
+2003,Illinois C.,Softball,Women,5.5
+2003,Illinois C.,Outdoor Track & Field,Women,2.0
+2003,Illinois C.,Total,Women,35.5
+2003,Knox,Volleyball,Women,3.5
+2003,Knox,Soccer,Women,1.0
+2003,Knox,Cross Country,Women,3.0
+2003,Knox,Tennis,Women,4.0
+2003,Knox,Basketball,Women,1.0
+2003,Knox,Swimming,Women,4.0
+2003,Knox,Indoor Track & Field,Women,5.0
+2003,Knox,Softball,Women,3.5
+2003,Knox,Outdoor Track & Field,Women,4.0
+2003,Knox,Total,Women,38.0
+2003,Lake Forest,Volleyball,Women,10.0
+2003,Lake Forest,Soccer,Women,9.0
+2003,Lake Forest,Cross Country,Women,2.0
+2003,Lake Forest,Tennis,Women,10.0
+2003,Lake Forest,Basketball,Women,7.5
+2003,Lake Forest,Swimming,Women,9.0
+2003,Lake Forest,Indoor Track & Field,Women,
+2003,Lake Forest,Softball,Women,10.0
+2003,Lake Forest,Outdoor Track & Field,Women,
+2003,Lake Forest,Total,Women,57.5
+2003,Lawerence,Volleyball,Women,1.5
+2003,Lawerence,Soccer,Women,5.0
+2003,Lawerence,Cross Country,Women,9.0
+2003,Lawerence,Tennis,Women,3.0
+2003,Lawerence,Basketball,Women,5.5
+2003,Lawerence,Swimming,Women,7.0
+2003,Lawerence,Indoor Track & Field,Women,3.0
+2003,Lawerence,Softball,Women,8.0
+2003,Lawerence,Outdoor Track & Field,Women,5.0
+2003,Lawerence,Total,Women,47.0
+2003,Monmouth,Volleyball,Women,5.0
+2003,Monmouth,Soccer,Women,6.0
+2003,Monmouth,Cross Country,Women,4.0
+2003,Monmouth,Tennis,Women,1.0
+2003,Monmouth,Basketball,Women,2.0
+2003,Monmouth,Swimming,Women,
+2003,Monmouth,Indoor Track & Field,Women,10.0
+2003,Monmouth,Softball,Women,7.0
+2003,Monmouth,Outdoor Track & Field,Women,8.0
+2003,Monmouth,Total,Women,50.0
+2003,Ripon,Volleyball,Women,1.5
+2003,Ripon,Soccer,Women,3.0
+2003,Ripon,Cross Country,Women,5.0
+2003,Ripon,Tennis,Women,8.0
+2003,Ripon,Basketball,Women,10.0
+2003,Ripon,Swimming,Women,3.0
+2003,Ripon,Indoor Track & Field,Women,2.0
+2003,Ripon,Softball,Women,9.0
+2003,Ripon,Outdoor Track & Field,Women,6.0
+2003,Ripon,Total,Women,55.5
+2003,St. Norbert,Volleyball,Women,8.0
+2003,St. Norbert,Soccer,Women,8.0
+2003,St. Norbert,Cross Country,Women,10.0
+2003,St. Norbert,Tennis,Women,6.0
+2003,St. Norbert,Basketball,Women,9.0
+2003,St. Norbert,Swimming,Women,8.0
+2003,St. Norbert,Indoor Track & Field,Women,6.5
+2003,St. Norbert,Softball,Women,5.5
+2003,St. Norbert,Outdoor Track & Field,Women,7.0
+2003,St. Norbert,Total,Women,73.0
+2004,Beloit,Football,Men,3.0
+2004,Beloit,Soccer,Men,7.0
+2004,Beloit,Cross Country,Men,6.5
+2004,Beloit,Basketball,Men,2.5
+2004,Beloit,Swimming,Men,6.0
+2004,Beloit,Indoor Track & Field,Men,4.0
+2004,Beloit,Tennis,Men,3.0
+2004,Beloit,Baseball,Men,5.0
+2004,Beloit,Outdoor Track & Field,Men,5.0
+2004,Beloit,Total,Men,45.5
+2004,Carroll,Football,Men,4.0
+2004,Carroll,Soccer,Men,9.0
+2004,Carroll,Cross Country,Men,2.0
+2004,Carroll,Basketball,Men,7.5
+2004,Carroll,Swimming,Men,5.0
+2004,Carroll,Indoor Track & Field,Men,2.5
+2004,Carroll,Tennis,Men,2.0
+2004,Carroll,Baseball,Men,2.5
+2004,Carroll,Outdoor Track & Field,Men,2.0
+2004,Carroll,Total,Men,43.5
+2004,Ginnell,Football,Men,6.5
+2004,Ginnell,Soccer,Men,4.0
+2004,Ginnell,Cross Country,Men,10.0
+2004,Ginnell,Basketball,Men,2.5
+2004,Ginnell,Swimming,Men,10.0
+2004,Ginnell,Indoor Track & Field,Men,5.0
+2004,Ginnell,Tennis,Men,10.0
+2004,Ginnell,Baseball,Men,5.0
+2004,Ginnell,Outdoor Track & Field,Men,8.0
+2004,Ginnell,Total,Men,69.0
+2004,Illinois C.,Football,Men,6.5
+2004,Illinois C.,Soccer,Men,3.0
+2004,Illinois C.,Cross Country,Men,1.0
+2004,Illinois C.,Basketball,Men,2.5
+2004,Illinois C.,Swimming,Men,
+2004,Illinois C.,Indoor Track & Field,Men,7.5
+2004,Illinois C.,Tennis,Men,1.0
+2004,Illinois C.,Baseball,Men,7.5
+2004,Illinois C.,Outdoor Track & Field,Men,4.0
+2004,Illinois C.,Total,Men,35.5
+2004,Know,Football,Men,1.5
+2004,Know,Soccer,Men,2.0
+2004,Know,Cross Country,Men,3.0
+2004,Know,Basketball,Men,5.0
+2004,Know,Swimming,Men,4.0
+2004,Know,Indoor Track & Field,Men,2.5
+2004,Know,Tennis,Men,7.0
+2004,Know,Baseball,Men,2.5
+2004,Know,Outdoor Track & Field,Men,3.0
+2004,Know,Total,Men,40.0
+2004,Lake Forest,Football,Men,8.0
+2004,Lake Forest,Soccer,Men,7.0
+2004,Lake Forest,Cross Country,Men,4.0
+2004,Lake Forest,Basketball,Men,7.5
+2004,Lake Forest,Swimming,Men,8.0
+2004,Lake Forest,Indoor Track & Field,Men,
+2004,Lake Forest,Tennis,Men,4.0
+2004,Lake Forest,Baseball,Men,
+2004,Lake Forest,Outdoor Track & Field,Men,
+2004,Lake Forest,Total,Men,38.5
+2004,Lawerence,Football,Men,1.5
+2004,Lawerence,Soccer,Men,7.0
+2004,Lawerence,Cross Country,Men,5.0
+2004,Lawerence,Basketball,Men,1.0
+2004,Lawerence,Swimming,Men,9.0
+2004,Lawerence,Indoor Track & Field,Men,5.0
+2004,Lawerence,Tennis,Men,5.0
+2004,Lawerence,Baseball,Men,5.0
+2004,Lawerence,Outdoor Track & Field,Men,7.0
+2004,Lawerence,Total,Men,64.5
+2004,Monmouth,Football,Men,9.0
+2004,Monmouth,Soccer,Men,1.0
+2004,Monmouth,Cross Country,Men,9.0
+2004,Monmouth,Basketball,Men,6.0
+2004,Monmouth,Swimming,Men,7.0
+2004,Monmouth,Indoor Track & Field,Men,10.0
+2004,Monmouth,Tennis,Men,6..0
+2004,Monmouth,Baseball,Men,7.5
+2004,Monmouth,Outdoor Track & Field,Men,10.0
+2004,Monmouth,Total,Men,73.5
+2004,Ripon,Football,Men,5.0
+2004,Ripon,Soccer,Men,5.0
+2004,Ripon,Cross Country,Men,6.5
+2004,Ripon,Basketball,Men,9.0
+2004,Ripon,Swimming,Men,3.0
+2004,Ripon,Indoor Track & Field,Men,6.0
+2004,Ripon,Tennis,Men,9.0
+2004,Ripon,Baseball,Men,10.0
+2004,Ripon,Outdoor Track & Field,Men,6.0
+2004,Ripon,Total,Men,61.5
+2004,St. Norbert,Football,Men,10.0
+2004,St. Norbert,Soccer,Men,10.0
+2004,St. Norbert,Cross Country,Men,8.0
+2004,St. Norbert,Basketball,Men,2.5
+2004,St. Norbert,Swimming,Men,
+2004,St. Norbert,Indoor Track & Field,Men,9.0
+2004,St. Norbert,Tennis,Men,8.0
+2004,St. Norbert,Baseball,Men,9.0
+2004,St. Norbert,Outdoor Track & Field,Men,9.0
+2004,St. Norbert,Total,Men,71.5
+2004,Beloit,Volleyball,Women,6.0
+2004,Beloit,Soccer,Women,3.0
+2004,Beloit,Cross Country,Women,7.0
+2004,Beloit,Tennis,Women,8.0
+2004,Beloit,Basketball,Women,4.0
+2004,Beloit,Swimming,Women,5.0
+2004,Beloit,Indoor Track & Field,Women,4.0
+2004,Beloit,Softball,Women,9.0
+2004,Beloit,Outdoor Track & Field,Women,6.0
+2004,Beloit,Total,Women,55.0
+2004,Carroll,Volleyball,Women,1.5
+2004,Carroll,Soccer,Women,9.0
+2004,Carroll,Cross Country,Women,5.0
+2004,Carroll,Tennis,Women,7.0
+2004,Carroll,Basketball,Women,5.0
+2004,Carroll,Swimming,Women,8.0
+2004,Carroll,Indoor Track & Field,Women,9.0
+2004,Carroll,Softball,Women,3.5
+2004,Carroll,Outdoor Track & Field,Women,9.0
+2004,Carroll,Total,Women,61.5
+2004,Grinnell,Volleyball,Women,3.5
+2004,Grinnell,Soccer,Women,8.0
+2004,Grinnell,Cross Country,Women,10.0
+2004,Grinnell,Tennis,Women,10.0
+2004,Grinnell,Basketball,Women,2.0
+2004,Grinnell,Swimming,Women,10.0
+2004,Grinnell,Indoor Track & Field,Women,6.0
+2004,Grinnell,Softball,Women,5.5
+2004,Grinnell,Outdoor Track & Field,Women,7.0
+2004,Grinnell,Total,Women,69.0
+2004,Illinois C.,Volleyball,Women,5.0
+2004,Illinois C.,Soccer,Women,4.0
+2004,Illinois C.,Cross Country,Women,1.0
+2004,Illinois C.,Tennis,Women,1.0
+2004,Illinois C.,Basketball,Women,6.0
+2004,Illinois C.,Swimming,Women,
+2004,Illinois C.,Indoor Track & Field,Women,5.0
+2004,Illinois C.,Softball,Women,8.0
+2004,Illinois C.,Outdoor Track & Field,Women,4.0
+2004,Illinois C.,Total,Women,44.0
+2004,Knox,Volleyball,Women,1.5
+2004,Knox,Soccer,Women,1.0
+2004,Knox,Cross Country,Women,2.0
+2004,Knox,Tennis,Women,2.0
+2004,Knox,Basketball,Women,1.0
+2004,Knox,Swimming,Women,2.0
+2004,Knox,Indoor Track & Field,Women,3.0
+2004,Knox,Softball,Women,1.5
+2004,Knox,Outdoor Track & Field,Women,3.0
+2004,Knox,Total,Women,28.0
+2004,Lake Forest,Volleyball,Women,9.0
+2004,Lake Forest,Soccer,Women,10.0
+2004,Lake Forest,Cross Country,Women,4.0
+2004,Lake Forest,Tennis,Women,4.0
+2004,Lake Forest,Basketball,Women,7.5
+2004,Lake Forest,Swimming,Women,9.0
+2004,Lake Forest,Indoor Track & Field,Women,
+2004,Lake Forest,Softball,Women,10.0
+2004,Lake Forest,Outdoor Track & Field,Women,
+2004,Lake Forest,Total,Women,58.5
+2004,Lawerence,Volleyball,Women,3.5
+2004,Lawerence,Soccer,Women,6.0
+2004,Lawerence,Cross Country,Women,9.0
+2004,Lawerence,Tennis,Women,9.0
+2004,Lawerence,Basketball,Women,7.5
+2004,Lawerence,Swimming,Women,7.0
+2004,Lawerence,Indoor Track & Field,Women,2.0
+2004,Lawerence,Softball,Women,7.0
+2004,Lawerence,Outdoor Track & Field,Women,2.0
+2004,Lawerence,Total,Women,46.0
+2004,Monmouth,Volleyball,Women,8.0
+2004,Monmouth,Soccer,Women,5.0
+2004,Monmouth,Cross Country,Women,3.0
+2004,Monmouth,Tennis,Women,3.0
+2004,Monmouth,Basketball,Women,3.0
+2004,Monmouth,Swimming,Women,3.0
+2004,Monmouth,Indoor Track & Field,Women,10.0
+2004,Monmouth,Softball,Women,3.5
+2004,Monmouth,Outdoor Track & Field,Women,10.0
+2004,Monmouth,Total,Women,53.0
+2004,Ripon,Volleyball,Women,7.0
+2004,Ripon,Soccer,Women,2.0
+2004,Ripon,Cross Country,Women,8.0
+2004,Ripon,Tennis,Women,5.0
+2004,Ripon,Basketball,Women,10.0
+2004,Ripon,Swimming,Women,4.0
+2004,Ripon,Indoor Track & Field,Women,8.0
+2004,Ripon,Softball,Women,5.5
+2004,Ripon,Outdoor Track & Field,Women,8.0
+2004,Ripon,Total,Women,63.5
+2004,St. Norbert,Volleyball,Women,10.0
+2004,St. Norbert,Soccer,Women,7.0
+2004,St. Norbert,Cross Country,Women,6.0
+2004,St. Norbert,Tennis,Women,6.0
+2004,St. Norbert,Basketball,Women,9.0
+2004,St. Norbert,Swimming,Women,6.0
+2004,St. Norbert,Indoor Track & Field,Women,7.0
+2004,St. Norbert,Softball,Women,1.5
+2004,St. Norbert,Outdoor Track & Field,Women,5.0
+2004,St. Norbert,Total,Women,65.5
+2005,Beloit College,Football,Men,3
+2005,Beloit College,Soccer,Men,7
+2005,Beloit College,Cross Country,Men,6.5
+2005,Beloit College,Basketball,Men,2.5
+2005,Beloit College,Swimming,Men,6
+2005,Beloit College,Indoor Track & Field,Men,4
+2005,Beloit College,Tennis,Men,3
+2005,Beloit College,Baseball,Men,5
+2005,Beloit College,Outdoor Track & Field,Men,5
+2005,Beloit College,Total,Men,45.5
+2005,Carroll University,Football,Men,4
+2005,Carroll University,Soccer,Men,9
+2005,Carroll University,Cross Country,Men,2
+2005,Carroll University,Basketball,Men,7.5
+2005,Carroll University,Swimming,Men,5
+2005,Carroll University,Indoor Track & Field,Men,2
+2005,Carroll University,Tennis,Men,2
+2005,Carroll University,Baseball,Men,2.5
+2005,Carroll University,Outdoor Track & Field,Men,2
+2005,Carroll University,Total,Men,43.5
+2005,Grinnell College,Football,Men,6.5
+2005,Grinnell College,Soccer,Men,4
+2005,Grinnell College,Cross Country,Men,10
+2005,Grinnell College,Basketball,Men,2.5
+2005,Grinnell College,Swimming,Men,10
+2005,Grinnell College,Indoor Track & Field,Men,8
+2005,Grinnell College,Tennis,Men,10
+2005,Grinnell College,Baseball,Men,5
+2005,Grinnell College,Outdoor Track & Field,Men,8
+2005,Grinnell College,Total,Men,69
+2005,Illinois College,Football,Men,6.5
+2005,Illinois College,Soccer,Men,3
+2005,Illinois College,Cross Country,Men,1
+2005,Illinois College,Basketball,Men,2.5
+2005,Illinois College,Swimming,Men,---
+2005,Illinois College,Indoor Track & Field,Men,7
+2005,Illinois College,Tennis,Men,1
+2005,Illinois College,Baseball,Men,7.5
+2005,Illinois College,Outdoor Track & Field,Men,4
+2005,Illinois College,Total,Men,35.5
+2005,Knox College,Football,Men,1.5
+2005,Knox College,Soccer,Men,2
+2005,Knox College,Cross Country,Men,3
+2005,Knox College,Basketball,Men,5
+2005,Knox College,Swimming,Men,4
+2005,Knox College,Indoor Track & Field,Men,3
+2005,Knox College,Tennis,Men,7
+2005,Knox College,Baseball,Men,2.5
+2005,Knox College,Outdoor Track & Field,Men,3
+2005,Knox College,Total,Men,40
+2005,Lake Forest College,Football,Men,8
+2005,Lake Forest College,Soccer,Men,7
+2005,Lake Forest College,Cross Country,Men,4
+2005,Lake Forest College,Basketball,Men,7.5
+2005,Lake Forest College,Swimming,Men,8
+2005,Lake Forest College,Indoor Track & Field,Men,---
+2005,Lake Forest College,Tennis,Men,4
+2005,Lake Forest College,Baseball,Men,---
+2005,Lake Forest College,Outdoor Track & Field,Men,---
+2005,Lake Forest College,Total,Men,38.5
+2005,Lawrence University,Football,Men,1.5
+2005,Lawrence University,Soccer,Men,7
+2005,Lawrence University,Cross Country,Men,5
+2005,Lawrence University,Basketball,Men,10
+2005,Lawrence University,Swimming,Men,9
+2005,Lawrence University,Indoor Track & Field,Men,5
+2005,Lawrence University,Tennis,Men,5
+2005,Lawrence University,Baseball,Men,5
+2005,Lawrence University,Outdoor Track & Field,Men,7
+2005,Lawrence University,Total,Men,64.5
+2005,Monmouth College,Football,Men,9
+2005,Monmouth College,Soccer,Men,1
+2005,Monmouth College,Cross Country,Men,9
+2005,Monmouth College,Basketball,Men,6
+2005,Monmouth College,Swimming,Men,7
+2005,Monmouth College,Indoor Track & Field,Men,10
+2005,Monmouth College,Tennis,Men,6
+2005,Monmouth College,Baseball,Men,7.5
+2005,Monmouth College,Outdoor Track & Field,Men,10
+2005,Monmouth College,Total,Men,73.5
+2005,Ripon College,Football,Men,5
+2005,Ripon College,Soccer,Men,5
+2005,Ripon College,Cross Country,Men,6.5
+2005,Ripon College,Basketball,Men,9
+2005,Ripon College,Swimming,Men,3
+2005,Ripon College,Indoor Track & Field,Men,6
+2005,Ripon College,Tennis,Men,9
+2005,Ripon College,Baseball,Men,10
+2005,Ripon College,Outdoor Track & Field,Men,6
+2005,Ripon College,Total,Men,61.5
+2005,St. Norbert College,Football,Men,10
+2005,St. Norbert College,Soccer,Men,10
+2005,St. Norbert College,Cross Country,Men,8
+2005,St. Norbert College,Basketball,Men,2.5
+2005,St. Norbert College,Swimming,Men,---
+2005,St. Norbert College,Indoor Track & Field,Men,9
+2005,St. Norbert College,Tennis,Men,8
+2005,St. Norbert College,Baseball,Men,9
+2005,St. Norbert College,Outdoor Track & Field,Men,9
+2005,St. Norbert College,Total,Men,71.5
+2005,Beloit College,Volleyball,Women,6
+2005,Beloit College,Soccer,Women,3
+2005,Beloit College,Cross Country,Women,7
+2005,Beloit College,Tennis,Women,8
+2005,Beloit College,Basketball,Women,4
+2005,Beloit College,Swimming,Women,5
+2005,Beloit College,Indoor Track & Field,Women,4
+2005,Beloit College,Outdoor Track & Field,Women,6
+2005,Beloit College,Total,Women,55
+2005,Carroll University,Volleyball,Women,1.5
+2005,Carroll University,Soccer,Women,9
+2005,Carroll University,Cross Country,Women,5
+2005,Carroll University,Tennis,Women,7
+2005,Carroll University,Basketball,Women,5
+2005,Carroll University,Swimming,Women,8
+2005,Carroll University,Indoor Track & Field,Women,9
+2005,Carroll University,Outdoor Track & Field,Women,9
+2005,Carroll University,Total,Women,61.5
+2005,Grinnell College,Volleyball,Women,3.5
+2005,Grinnell College,Soccer,Women,8
+2005,Grinnell College,Cross Country,Women,10
+2005,Grinnell College,Tennis,Women,10
+2005,Grinnell College,Basketball,Women,2
+2005,Grinnell College,Swimming,Women,10
+2005,Grinnell College,Indoor Track & Field,Women,6
+2005,Grinnell College,Outdoor Track & Field,Women,7
+2005,Grinnell College,Total,Women,69
+2005,Illinois College,Volleyball,Women,5
+2005,Illinois College,Soccer,Women,4
+2005,Illinois College,Cross Country,Women,1
+2005,Illinois College,Tennis,Women,1
+2005,Illinois College,Basketball,Women,6
+2005,Illinois College,Swimming,Women,---
+2005,Illinois College,Indoor Track & Field,Women,5
+2005,Illinois College,Outdoor Track & Field,Women,4
+2005,Illinois College,Total,Women,44
+2005,Knox College,Volleyball,Women,1.5
+2005,Knox College,Soccer,Women,1
+2005,Knox College,Cross Country,Women,2
+2005,Knox College,Tennis,Women,4
+2005,Knox College,Basketball,Women,1
+2005,Knox College,Swimming,Women,2
+2005,Knox College,Indoor Track & Field,Women,3
+2005,Knox College,Outdoor Track & Field,Women,3
+2005,Knox College,Total,Women,28
+2005,Lake Forest College,Volleyball,Women,9
+2005,Lake Forest College,Soccer,Women,10
+2005,Lake Forest College,Cross Country,Women,4
+2005,Lake Forest College,Tennis,Women,9
+2005,Lake Forest College,Basketball,Women,7.5
+2005,Lake Forest College,Swimming,Women,9
+2005,Lake Forest College,Indoor Track & Field,Women,---
+2005,Lake Forest College,Outdoor Track & Field,Women,---
+2005,Lake Forest College,Total,Women,58.5
+2005,Lawrence University,Volleyball,Women,3.5
+2005,Lawrence University,Soccer,Women,6
+2005,Lawrence University,Cross Country,Women,9
+2005,Lawrence University,Tennis,Women,2
+2005,Lawrence University,Basketball,Women,7.5
+2005,Lawrence University,Swimming,Women,7
+2005,Lawrence University,Indoor Track & Field,Women,2
+2005,Lawrence University,Outdoor Track & Field,Women,2
+2005,Lawrence University,Total,Women,46
+2005,Monmouth College,Volleyball,Women,8
+2005,Monmouth College,Soccer,Women,5
+2005,Monmouth College,Cross Country,Women,3
+2005,Monmouth College,Tennis,Women,3
+2005,Monmouth College,Basketball,Women,3
+2005,Monmouth College,Swimming,Women,3
+2005,Monmouth College,Indoor Track & Field,Women,10
+2005,Monmouth College,Outdoor Track & Field,Women,10
+2005,Monmouth College,Total,Women,53
+2005,Ripon College,Volleyball,Women,7
+2005,Ripon College,Soccer,Women,2
+2005,Ripon College,Cross Country,Women,8
+2005,Ripon College,Tennis,Women,5
+2005,Ripon College,Basketball,Women,10
+2005,Ripon College,Swimming,Women,4
+2005,Ripon College,Indoor Track & Field,Women,8
+2005,Ripon College,Outdoor Track & Field,Women,8
+2005,Ripon College,Total,Women,63.5
+2005,St. Norbert College,Volleyball,Women,10
+2005,St. Norbert College,Soccer,Women,7
+2005,St. Norbert College,Cross Country,Women,6
+2005,St. Norbert College,Tennis,Women,6
+2005,St. Norbert College,Basketball,Women,9
+2005,St. Norbert College,Swimming,Women,6
+2005,St. Norbert College,Indoor Track & Field,Women,7
+2005,St. Norbert College,Outdoor Track & Field,Women,5
+2005,St. Norbert College,Total,Women,65.5
+2006,Beloit College,Football,Men,1
+2006,Beloit College,Soccer,Men,10
+2006,Beloit College,Cross Country,Men,7
+2006,Beloit College,Basketball,Men,3
+2006,Beloit College,Swimming,Men,5
+2006,Beloit College,Indoor Track & Field,Men,4
+2006,Beloit College,Tennis,Men,2
+2006,Beloit College,Outdoor Track & Field,Men,4
+2006,Beloit College,Baseball,Men,5.5
+2006,Beloit College,Total,Men,43.5
+2006,Carroll University,Football,Men,4.5
+2006,Carroll University,Soccer,Men,6.5
+2006,Carroll University,Cross Country,Men,0
+2006,Carroll University,Basketball,Men,9
+2006,Carroll University,Swimming,Men,6
+2006,Carroll University,Indoor Track & Field,Men,7
+2006,Carroll University,Tennis,Men,3
+2006,Carroll University,Outdoor Track & Field,Men,6
+2006,Carroll University,Baseball,Men,2
+2006,Carroll University,Total,Men,52
+2006,Grinnell College,Football,Men,3
+2006,Grinnell College,Soccer,Men,8
+2006,Grinnell College,Cross Country,Men,9.5
+2006,Grinnell College,Basketball,Men,10
+2006,Grinnell College,Swimming,Men,10
+2006,Grinnell College,Indoor Track & Field,Men,6
+2006,Grinnell College,Tennis,Men,10
+2006,Grinnell College,Outdoor Track & Field,Men,7
+2006,Grinnell College,Baseball,Men,3.5
+2006,Grinnell College,Total,Men,74
+2006,Illinois College,Football,Men,7
+2006,Illinois College,Soccer,Men,4
+2006,Illinois College,Cross Country,Men,4
+2006,Illinois College,Basketball,Men,1.5
+2006,Illinois College,Swimming,Men,---
+2006,Illinois College,Indoor Track & Field,Men,9
+2006,Illinois College,Tennis,Men,1
+2006,Illinois College,Outdoor Track & Field,Men,9
+2006,Illinois College,Baseball,Men,7
+2006,Illinois College,Total,Men,45.5
+2006,Knox College,Football,Men,2
+2006,Knox College,Soccer,Men,1
+2006,Knox College,Cross Country,Men,2
+2006,Knox College,Basketball,Men,1.5
+2006,Knox College,Swimming,Men,3
+2006,Knox College,Indoor Track & Field,Men,2
+2006,Knox College,Tennis,Men,5
+2006,Knox College,Outdoor Track & Field,Men,2
+2006,Knox College,Baseball,Men,5.5
+2006,Knox College,Total,Men,33
+2006,Lake Forest College,Football,Men,6
+2006,Lake Forest College,Soccer,Men,5
+2006,Lake Forest College,Cross Country,Men,3
+2006,Lake Forest College,Basketball,Men,7
+2006,Lake Forest College,Swimming,Men,8
+2006,Lake Forest College,Indoor Track & Field,Men,---
+2006,Lake Forest College,Tennis,Men,6
+2006,Lake Forest College,Outdoor Track & Field,Men,---
+2006,Lake Forest College,Baseball,Men,---
+2006,Lake Forest College,Total,Men,35
+2006,Lawrence University,Football,Men,4.5
+2006,Lawrence University,Soccer,Men,6.5
+2006,Lawrence University,Cross Country,Men,5
+2006,Lawrence University,Basketball,Men,6
+2006,Lawrence University,Swimming,Men,7
+2006,Lawrence University,Indoor Track & Field,Men,3
+2006,Lawrence University,Tennis,Men,4
+2006,Lawrence University,Outdoor Track & Field,Men,3
+2006,Lawrence University,Baseball,Men,3.5
+2006,Lawrence University,Total,Men,47.5
+2006,Monmouth College,Football,Men,8.5
+2006,Monmouth College,Soccer,Men,3
+2006,Monmouth College,Cross Country,Men,9.5
+2006,Monmouth College,Basketball,Men,4
+2006,Monmouth College,Swimming,Men,9
+2006,Monmouth College,Indoor Track & Field,Men,10
+2006,Monmouth College,Tennis,Men,7
+2006,Monmouth College,Outdoor Track & Field,Men,10
+2006,Monmouth College,Baseball,Men,8
+2006,Monmouth College,Total,Men,79
+2006,Ripon College,Football,Men,8.5
+2006,Ripon College,Soccer,Men,2
+2006,Ripon College,Cross Country,Men,6
+2006,Ripon College,Basketball,Men,8
+2006,Ripon College,Swimming,Men,4
+2006,Ripon College,Indoor Track & Field,Men,5
+2006,Ripon College,Tennis,Men,9
+2006,Ripon College,Outdoor Track & Field,Men,5
+2006,Ripon College,Baseball,Men,10
+2006,Ripon College,Total,Men,61.5
+2006,St. Norbert College,Football,Men,10
+2006,St. Norbert College,Soccer,Men,9
+2006,St. Norbert College,Cross Country,Men,8
+2006,St. Norbert College,Basketball,Men,5
+2006,St. Norbert College,Swimming,Men,---
+2006,St. Norbert College,Indoor Track & Field,Men,8
+2006,St. Norbert College,Tennis,Men,8
+2006,St. Norbert College,Outdoor Track & Field,Men,8
+2006,St. Norbert College,Baseball,Men,9
+2006,St. Norbert College,Total,Men,71
+2006,Beloit College,Volleyball,Women,10
+2006,Beloit College,Soccer,Women,5
+2006,Beloit College,Cross Country,Women,8
+2006,Beloit College,Tennis,Women,7
+2006,Beloit College,Basketball,Women,6
+2006,Beloit College,Swimming,Women,5
+2006,Beloit College,Indoor Track & Field,Women,7
+2006,Beloit College,Outdoor Track & Field,Women,8
+2006,Beloit College,Total,Women,59.5
+2006,Carroll University,Volleyball,Women,7.5
+2006,Carroll University,Soccer,Women,9
+2006,Carroll University,Cross Country,Women,4
+2006,Carroll University,Tennis,Women,5
+2006,Carroll University,Basketball,Women,9
+2006,Carroll University,Swimming,Women,8
+2006,Carroll University,Indoor Track & Field,Women,9
+2006,Carroll University,Outdoor Track & Field,Women,9
+2006,Carroll University,Total,Women,66
+2006,Grinnell College,Volleyball,Women,1
+2006,Grinnell College,Soccer,Women,10
+2006,Grinnell College,Cross Country,Women,10
+2006,Grinnell College,Tennis,Women,10
+2006,Grinnell College,Basketball,Women,3
+2006,Grinnell College,Swimming,Women,10
+2006,Grinnell College,Indoor Track & Field,Women,5
+2006,Grinnell College,Outdoor Track & Field,Women,5
+2006,Grinnell College,Total,Women,66.5
+2006,Illinois College,Volleyball,Women,7.5
+2006,Illinois College,Soccer,Women,3
+2006,Illinois College,Cross Country,Women,2
+2006,Illinois College,Tennis,Women,0
+2006,Illinois College,Basketball,Women,3
+2006,Illinois College,Swimming,Women,---
+2006,Illinois College,Indoor Track & Field,Women,6
+2006,Illinois College,Outdoor Track & Field,Women,4
+2006,Illinois College,Total,Women,42.5
+2006,Knox College,Volleyball,Women,2
+2006,Knox College,Soccer,Women,1
+2006,Knox College,Cross Country,Women,1
+2006,Knox College,Tennis,Women,3
+2006,Knox College,Basketball,Women,1
+2006,Knox College,Swimming,Women,2
+2006,Knox College,Indoor Track & Field,Women,2
+2006,Knox College,Outdoor Track & Field,Women,2
+2006,Knox College,Total,Women,20.5
+2006,Lake Forest College,Volleyball,Women,7.5
+2006,Lake Forest College,Soccer,Women,7
+2006,Lake Forest College,Cross Country,Women,7
+2006,Lake Forest College,Tennis,Women,8
+2006,Lake Forest College,Basketball,Women,10
+2006,Lake Forest College,Swimming,Women,6
+2006,Lake Forest College,Indoor Track & Field,Women,---
+2006,Lake Forest College,Outdoor Track & Field,Women,---
+2006,Lake Forest College,Total,Women,54.5
+2006,Lawrence University,Volleyball,Women,3
+2006,Lawrence University,Soccer,Women,3
+2006,Lawrence University,Cross Country,Women,3
+2006,Lawrence University,Tennis,Women,6
+2006,Lawrence University,Basketball,Women,7.5
+2006,Lawrence University,Swimming,Women,9
+2006,Lawrence University,Indoor Track & Field,Women,3
+2006,Lawrence University,Outdoor Track & Field,Women,3
+2006,Lawrence University,Total,Women,43
+2006,Monmouth College,Volleyball,Women,5
+2006,Monmouth College,Soccer,Women,6
+2006,Monmouth College,Cross Country,Women,6
+2006,Monmouth College,Tennis,Women,4
+2006,Monmouth College,Basketball,Women,5
+2006,Monmouth College,Swimming,Women,7
+2006,Monmouth College,Indoor Track & Field,Women,10
+2006,Monmouth College,Outdoor Track & Field,Women,10
+2006,Monmouth College,Total,Women,65.5
+2006,Ripon College,Volleyball,Women,4
+2006,Ripon College,Soccer,Women,3
+2006,Ripon College,Cross Country,Women,9
+2006,Ripon College,Tennis,Women,2
+2006,Ripon College,Basketball,Women,3
+2006,Ripon College,Swimming,Women,4
+2006,Ripon College,Indoor Track & Field,Women,4
+2006,Ripon College,Outdoor Track & Field,Women,7
+2006,Ripon College,Total,Women,50
+2006,St. Norbert College,Volleyball,Women,7.5
+2006,St. Norbert College,Soccer,Women,8
+2006,St. Norbert College,Cross Country,Women,5
+2006,St. Norbert College,Tennis,Women,9
+2006,St. Norbert College,Basketball,Women,7.5
+2006,St. Norbert College,Swimming,Women,3
+2006,St. Norbert College,Indoor Track & Field,Women,8
+2006,St. Norbert College,Outdoor Track & Field,Women,6
+2006,St. Norbert College,Total,Women,72
+2007,Beloit College,Football,Men,1.5
+2007,Beloit College,Soccer,Men,6.5
+2007,Beloit College,Cross Country,Men,4.5
+2007,Beloit College,Basketball,Men,1
+2007,Beloit College,Swimming,Men,4
+2007,Beloit College,Indoor Track & Field,Men,4
+2007,Beloit College,Tennis,Men,2
+2007,Beloit College,Outdoor Track & Field,Men,4
+2007,Beloit College,Baseball,Men,2
+2007,Beloit College,Total,Men,31.5
+2007,Carroll University,Football,Men,6.5
+2007,Carroll University,Soccer,Men,9
+2007,Carroll University,Cross Country,Men,6
+2007,Carroll University,Basketball,Men,7.5
+2007,Carroll University,Swimming,Men,6
+2007,Carroll University,Indoor Track & Field,Men,7.5
+2007,Carroll University,Tennis,Men,4
+2007,Carroll University,Outdoor Track & Field,Men,7
+2007,Carroll University,Baseball,Men,5
+2007,Carroll University,Total,Men,64.5
+2007,Grinnell College,Football,Men,1.5
+2007,Grinnell College,Soccer,Men,8
+2007,Grinnell College,Cross Country,Men,10
+2007,Grinnell College,Basketball,Men,9
+2007,Grinnell College,Swimming,Men,10
+2007,Grinnell College,Indoor Track & Field,Men,5
+2007,Grinnell College,Tennis,Men,10
+2007,Grinnell College,Outdoor Track & Field,Men,6
+2007,Grinnell College,Baseball,Men,5
+2007,Grinnell College,Total,Men,72.5
+2007,Illinois College,Football,Men,4.5
+2007,Illinois College,Soccer,Men,1.5
+2007,Illinois College,Cross Country,Men,1.5
+2007,Illinois College,Basketball,Men,2
+2007,Illinois College,Swimming,Men,2
+2007,Illinois College,Indoor Track & Field,Men,9
+2007,Illinois College,Tennis,Men,1
+2007,Illinois College,Outdoor Track & Field,Men,9
+2007,Illinois College,Baseball,Men,5
+2007,Illinois College,Total,Men,38.5
+2007,Knox College,Football,Men,3
+2007,Knox College,Soccer,Men,3
+2007,Knox College,Cross Country,Men,3
+2007,Knox College,Basketball,Men,5
+2007,Knox College,Swimming,Men,3
+2007,Knox College,Indoor Track & Field,Men,3
+2007,Knox College,Tennis,Men,3
+2007,Knox College,Outdoor Track & Field,Men,3
+2007,Knox College,Baseball,Men,10
+2007,Knox College,Total,Men,46
+2007,Lake Forest College,Football,Men,6.5
+2007,Lake Forest College,Soccer,Men,4
+2007,Lake Forest College,Cross Country,Men,4.5
+2007,Lake Forest College,Basketball,Men,5
+2007,Lake Forest College,Swimming,Men,8
+2007,Lake Forest College,Indoor Track & Field,Men,---
+2007,Lake Forest College,Tennis,Men,9
+2007,Lake Forest College,Outdoor Track & Field,Men,---
+2007,Lake Forest College,Baseball,Men,---
+2007,Lake Forest College,Total,Men,37
+2007,Lawrence University,Football,Men,4.5
+2007,Lawrence University,Soccer,Men,6.5
+2007,Lawrence University,Cross Country,Men,1.5
+2007,Lawrence University,Basketball,Men,10
+2007,Lawrence University,Swimming,Men,7
+2007,Lawrence University,Indoor Track & Field,Men,2
+2007,Lawrence University,Tennis,Men,7
+2007,Lawrence University,Outdoor Track & Field,Men,2
+2007,Lawrence University,Baseball,Men,3
+2007,Lawrence University,Total,Men,49.5
+2007,Monmouth College,Football,Men,8.5
+2007,Monmouth College,Soccer,Men,1.5
+2007,Monmouth College,Cross Country,Men,8
+2007,Monmouth College,Basketball,Men,5
+2007,Monmouth College,Swimming,Men,9
+2007,Monmouth College,Indoor Track & Field,Men,10
+2007,Monmouth College,Tennis,Men,6
+2007,Monmouth College,Outdoor Track & Field,Men,10
+2007,Monmouth College,Baseball,Men,7
+2007,Monmouth College,Total,Men,74
+2007,Ripon College,Football,Men,8.5
+2007,Ripon College,Soccer,Men,5
+2007,Ripon College,Cross Country,Men,7
+2007,Ripon College,Basketball,Men,3
+2007,Ripon College,Swimming,Men,5
+2007,Ripon College,Indoor Track & Field,Men,6
+2007,Ripon College,Tennis,Men,5
+2007,Ripon College,Outdoor Track & Field,Men,5
+2007,Ripon College,Baseball,Men,9
+2007,Ripon College,Total,Men,59.5
+2007,St. Norbert College,Football,Men,10
+2007,St. Norbert College,Soccer,Men,10
+2007,St. Norbert College,Cross Country,Men,9
+2007,St. Norbert College,Basketball,Men,7.5
+2007,St. Norbert College,Swimming,Men,---
+2007,St. Norbert College,Indoor Track & Field,Men,7.5
+2007,St. Norbert College,Tennis,Men,8
+2007,St. Norbert College,Outdoor Track & Field,Men,8
+2007,St. Norbert College,Baseball,Men,8
+2007,St. Norbert College,Total,Men,72
+2007,Beloit College,Volleyball,Women,7
+2007,Beloit College,Soccer,Women,5
+2007,Beloit College,Cross Country,Women,7
+2007,Beloit College,Tennis,Women,6
+2007,Beloit College,Basketball,Women,7.5
+2007,Beloit College,Swimming,Women,7
+2007,Beloit College,Indoor Track & Field,Women,6
+2007,Beloit College,Outdoor Track & Field,Women,7
+2007,Beloit College,Total,Women,54
+2007,Carroll University,Volleyball,Women,9.5
+2007,Carroll University,Soccer,Women,10
+2007,Carroll University,Cross Country,Women,9
+2007,Carroll University,Tennis,Women,8
+2007,Carroll University,Basketball,Women,7.5
+2007,Carroll University,Swimming,Women,3
+2007,Carroll University,Indoor Track & Field,Women,9
+2007,Carroll University,Outdoor Track & Field,Women,9
+2007,Carroll University,Total,Women,74.5
+2007,Grinnell College,Volleyball,Women,4
+2007,Grinnell College,Soccer,Women,7
+2007,Grinnell College,Cross Country,Women,10
+2007,Grinnell College,Tennis,Women,10
+2007,Grinnell College,Basketball,Women,4.5
+2007,Grinnell College,Swimming,Women,10
+2007,Grinnell College,Indoor Track & Field,Women,7
+2007,Grinnell College,Outdoor Track & Field,Women,6
+2007,Grinnell College,Total,Women,68
+2007,Illinois College,Volleyball,Women,2
+2007,Illinois College,Soccer,Women,2
+2007,Illinois College,Cross Country,Women,1
+2007,Illinois College,Tennis,Women,1
+2007,Illinois College,Basketball,Women,4.5
+2007,Illinois College,Swimming,Women,1
+2007,Illinois College,Indoor Track & Field,Women,5
+2007,Illinois College,Outdoor Track & Field,Women,4
+2007,Illinois College,Total,Women,36
+2007,Knox College,Volleyball,Women,1
+2007,Knox College,Soccer,Women,1
+2007,Knox College,Cross Country,Women,2
+2007,Knox College,Tennis,Women,2
+2007,Knox College,Basketball,Women,1.5
+2007,Knox College,Swimming,Women,2
+2007,Knox College,Indoor Track & Field,Women,2
+2007,Knox College,Outdoor Track & Field,Women,2
+2007,Knox College,Total,Women,24
+2007,Lake Forest College,Volleyball,Women,5
+2007,Lake Forest College,Soccer,Women,8
+2007,Lake Forest College,Cross Country,Women,3
+2007,Lake Forest College,Tennis,Women,7
+2007,Lake Forest College,Basketball,Women,9
+2007,Lake Forest College,Swimming,Women,5
+2007,Lake Forest College,Indoor Track & Field,Women,---
+2007,Lake Forest College,Outdoor Track & Field,Women,---
+2007,Lake Forest College,Total,Women,46
+2007,Lawrence University,Volleyball,Women,3
+2007,Lawrence University,Soccer,Women,4
+2007,Lawrence University,Cross Country,Women,5
+2007,Lawrence University,Tennis,Women,5
+2007,Lawrence University,Basketball,Women,1.5
+2007,Lawrence University,Swimming,Women,9
+2007,Lawrence University,Indoor Track & Field,Women,4
+2007,Lawrence University,Outdoor Track & Field,Women,3
+2007,Lawrence University,Total,Women,38
+2007,Monmouth College,Volleyball,Women,7
+2007,Monmouth College,Soccer,Women,6
+2007,Monmouth College,Cross Country,Women,6
+2007,Monmouth College,Tennis,Women,4
+2007,Monmouth College,Basketball,Women,6
+2007,Monmouth College,Swimming,Women,6
+2007,Monmouth College,Indoor Track & Field,Women,10
+2007,Monmouth College,Outdoor Track & Field,Women,10
+2007,Monmouth College,Total,Women,69
+2007,Ripon College,Volleyball,Women,7
+2007,Ripon College,Soccer,Women,3
+2007,Ripon College,Cross Country,Women,4
+2007,Ripon College,Tennis,Women,3
+2007,Ripon College,Basketball,Women,3
+2007,Ripon College,Swimming,Women,8
+2007,Ripon College,Indoor Track & Field,Women,3
+2007,Ripon College,Outdoor Track & Field,Women,5
+2007,Ripon College,Total,Women,51
+2007,St. Norbert College,Volleyball,Women,9.5
+2007,St. Norbert College,Soccer,Women,9
+2007,St. Norbert College,Cross Country,Women,8
+2007,St. Norbert College,Tennis,Women,9
+2007,St. Norbert College,Basketball,Women,10
+2007,St. Norbert College,Swimming,Women,4
+2007,St. Norbert College,Indoor Track & Field,Women,8
+2007,St. Norbert College,Outdoor Track & Field,Women,8
+2007,St. Norbert College,Total,Women,81.5
+2008,Beloit College,Football,Men,5.5
+2008,Beloit College,Soccer,Men,6
+2008,Beloit College,Cross Country,Men,6
+2008,Beloit College,Basketball,Men,1.5
+2008,Beloit College,Swimming,Men,3
+2008,Beloit College,Indoor Track & Field,Men,4
+2008,Beloit College,Tennis,Men,1
+2008,Beloit College,Outdoor Track & Field,Men,4
+2008,Beloit College,Baseball,Men,10
+2008,Beloit College,Total,Men,43
+2008,Carroll University,Football,Men,7
+2008,Carroll University,Soccer,Men,10
+2008,Carroll University,Cross Country,Men,5
+2008,Carroll University,Basketball,Men,7.5
+2008,Carroll University,Swimming,Men,5
+2008,Carroll University,Indoor Track & Field,Men,8
+2008,Carroll University,Tennis,Men,5
+2008,Carroll University,Outdoor Track & Field,Men,7.5
+2008,Carroll University,Baseball,Men,2
+2008,Carroll University,Total,Men,65
+2008,Grinnell College,Football,Men,2.5
+2008,Grinnell College,Soccer,Men,8
+2008,Grinnell College,Cross Country,Men,10
+2008,Grinnell College,Basketball,Men,9.5
+2008,Grinnell College,Swimming,Men,10
+2008,Grinnell College,Indoor Track & Field,Men,6
+2008,Grinnell College,Tennis,Men,10
+2008,Grinnell College,Outdoor Track & Field,Men,7.5
+2008,Grinnell College,Baseball,Men,7
+2008,Grinnell College,Total,Men,77
+2008,Illinois College,Football,Men,5.5
+2008,Illinois College,Soccer,Men,4
+2008,Illinois College,Cross Country,Men,3
+2008,Illinois College,Basketball,Men,6
+2008,Illinois College,Swimming,Men,2
+2008,Illinois College,Indoor Track & Field,Men,9
+2008,Illinois College,Tennis,Men,2
+2008,Illinois College,Outdoor Track & Field,Men,9
+2008,Illinois College,Baseball,Men,3.5
+2008,Illinois College,Total,Men,58
+2008,Knox College,Football,Men,2.5
+2008,Knox College,Soccer,Men,1
+2008,Knox College,Cross Country,Men,1
+2008,Knox College,Basketball,Men,1.5
+2008,Knox College,Swimming,Men,4
+2008,Knox College,Indoor Track & Field,Men,3
+2008,Knox College,Tennis,Men,3
+2008,Knox College,Outdoor Track & Field,Men,3
+2008,Knox College,Baseball,Men,5.5
+2008,Knox College,Total,Men,31
+2008,Lake Forest College,Football,Men,4
+2008,Lake Forest College,Soccer,Men,5
+2008,Lake Forest College,Cross Country,Men,2
+2008,Lake Forest College,Basketball,Men,5
+2008,Lake Forest College,Swimming,Men,6
+2008,Lake Forest College,Indoor Track & Field,Men,---
+2008,Lake Forest College,Tennis,Men,6
+2008,Lake Forest College,Outdoor Track & Field,Men,---
+2008,Lake Forest College,Baseball,Men,---
+2008,Lake Forest College,Total,Men,27
+2008,Lawrence University,Football,Men,1
+2008,Lawrence University,Soccer,Men,7
+2008,Lawrence University,Cross Country,Men,4
+2008,Lawrence University,Basketball,Men,9.5
+2008,Lawrence University,Swimming,Men,8
+2008,Lawrence University,Indoor Track & Field,Men,2
+2008,Lawrence University,Tennis,Men,8
+2008,Lawrence University,Outdoor Track & Field,Men,2
+2008,Lawrence University,Baseball,Men,3.5
+2008,Lawrence University,Total,Men,48
+2008,Monmouth College,Football,Men,10
+2008,Monmouth College,Soccer,Men,3
+2008,Monmouth College,Cross Country,Men,8
+2008,Monmouth College,Basketball,Men,3
+2008,Monmouth College,Swimming,Men,9
+2008,Monmouth College,Indoor Track & Field,Men,10
+2008,Monmouth College,Tennis,Men,9
+2008,Monmouth College,Outdoor Track & Field,Men,10
+2008,Monmouth College,Baseball,Men,8
+2008,Monmouth College,Total,Men,80
+2008,Ripon College,Football,Men,9
+2008,Ripon College,Soccer,Men,2
+2008,Ripon College,Cross Country,Men,7
+2008,Ripon College,Basketball,Men,5
+2008,Ripon College,Swimming,Men,7
+2008,Ripon College,Indoor Track & Field,Men,5
+2008,Ripon College,Tennis,Men,4
+2008,Ripon College,Outdoor Track & Field,Men,5
+2008,Ripon College,Baseball,Men,5.5
+2008,Ripon College,Total,Men,54.5
+2008,St. Norbert College,Football,Men,8
+2008,St. Norbert College,Soccer,Men,9
+2008,St. Norbert College,Cross Country,Men,9
+2008,St. Norbert College,Basketball,Men,7.5
+2008,St. Norbert College,Swimming,Men,---
+2008,St. Norbert College,Indoor Track & Field,Men,7
+2008,St. Norbert College,Tennis,Men,7
+2008,St. Norbert College,Outdoor Track & Field,Men,6
+2008,St. Norbert College,Baseball,Men,9
+2008,St. Norbert College,Total,Men,71.5
+2008,Beloit College,Volleyball,Women,9
+2008,Beloit College,Soccer,Women,3.5
+2008,Beloit College,Cross Country,Women,5
+2008,Beloit College,Basketball,Women,7.5
+2008,Beloit College,Swimming,Women,4
+2008,Beloit College,Indoor Track & Field,Women,4.5
+2008,Beloit College,Tennis,Women,6
+2008,Beloit College,Outdoor Track & Field,Women,4
+2008,Beloit College,Total,Women,45
+2008,Carroll University,Volleyball,Women,4
+2008,Carroll University,Soccer,Women,9
+2008,Carroll University,Cross Country,Women,9
+2008,Carroll University,Basketball,Women,4
+2008,Carroll University,Swimming,Women,7
+2008,Carroll University,Indoor Track & Field,Women,9
+2008,Carroll University,Tennis,Women,5
+2008,Carroll University,Outdoor Track & Field,Women,9
+2008,Carroll University,Total,Women,67.5
+2008,Grinnell College,Volleyball,Women,2.5
+2008,Grinnell College,Soccer,Women,7.5
+2008,Grinnell College,Cross Country,Women,7.5
+2008,Grinnell College,Basketball,Women,2.5
+2008,Grinnell College,Swimming,Women,10
+2008,Grinnell College,Indoor Track & Field,Women,3
+2008,Grinnell College,Tennis,Women,10
+2008,Grinnell College,Outdoor Track & Field,Women,6
+2008,Grinnell College,Total,Women,61.5
+2008,Illinois College,Volleyball,Women,6.5
+2008,Illinois College,Soccer,Women,1
+2008,Illinois College,Cross Country,Women,1
+2008,Illinois College,Basketball,Women,7.5
+2008,Illinois College,Swimming,Women,1
+2008,Illinois College,Indoor Track & Field,Women,4.5
+2008,Illinois College,Tennis,Women,1
+2008,Illinois College,Outdoor Track & Field,Women,5
+2008,Illinois College,Total,Women,43
+2008,Knox College,Volleyball,Women,2.5
+2008,Knox College,Soccer,Women,2
+2008,Knox College,Cross Country,Women,2
+2008,Knox College,Basketball,Women,2.5
+2008,Knox College,Swimming,Women,3
+2008,Knox College,Indoor Track & Field,Women,2
+2008,Knox College,Tennis,Women,2.5
+2008,Knox College,Outdoor Track & Field,Women,3
+2008,Knox College,Total,Women,26
+2008,Lake Forest College,Volleyball,Women,5
+2008,Lake Forest College,Soccer,Women,7.5
+2008,Lake Forest College,Cross Country,Women,3
+2008,Lake Forest College,Basketball,Women,5.5
+2008,Lake Forest College,Swimming,Women,8
+2008,Lake Forest College,Indoor Track & Field,Women,---
+2008,Lake Forest College,Tennis,Women,4
+2008,Lake Forest College,Outdoor Track & Field,Women,---
+2008,Lake Forest College,Total,Women,41
+2008,Lawrence University,Volleyball,Women,1
+2008,Lawrence University,Soccer,Women,6
+2008,Lawrence University,Cross Country,Women,4
+2008,Lawrence University,Basketball,Women,1
+2008,Lawrence University,Swimming,Women,9
+2008,Lawrence University,Indoor Track & Field,Women,6
+2008,Lawrence University,Tennis,Women,9
+2008,Lawrence University,Outdoor Track & Field,Women,2
+2008,Lawrence University,Total,Women,43.5
+2008,Monmouth College,Volleyball,Women,6.5
+2008,Monmouth College,Soccer,Women,5
+2008,Monmouth College,Cross Country,Women,10
+2008,Monmouth College,Basketball,Women,5.5
+2008,Monmouth College,Swimming,Women,6
+2008,Monmouth College,Indoor Track & Field,Women,10
+2008,Monmouth College,Tennis,Women,8
+2008,Monmouth College,Outdoor Track & Field,Women,10
+2008,Monmouth College,Total,Women,74
+2008,Ripon College,Volleyball,Women,8
+2008,Ripon College,Soccer,Women,3.5
+2008,Ripon College,Cross Country,Women,6
+2008,Ripon College,Basketball,Women,10
+2008,Ripon College,Swimming,Women,5
+2008,Ripon College,Indoor Track & Field,Women,7
+2008,Ripon College,Tennis,Women,2.5
+2008,Ripon College,Outdoor Track & Field,Women,7
+2008,Ripon College,Total,Women,65
+2008,St. Norbert College,Volleyball,Women,10
+2008,St. Norbert College,Soccer,Women,10
+2008,St. Norbert College,Cross Country,Women,7.5
+2008,St. Norbert College,Basketball,Women,9
+2008,St. Norbert College,Swimming,Women,2
+2008,St. Norbert College,Indoor Track & Field,Women,8
+2008,St. Norbert College,Tennis,Women,7
+2008,St. Norbert College,Outdoor Track & Field,Women,8
+2008,St. Norbert College,Total,Women,75.5
+2009,Beloit College,Football,Men,6
+2009,Beloit College,Soccer,Men,7
+2009,Beloit College,Cross Country,Men,6
+2009,Beloit College,Basketball,Men,3.5
+2009,Beloit College,Swimming,Men,5
+2009,Beloit College,Indoor Track & Field,Men,2
+2009,Beloit College,Tennis,Men,1
+2009,Beloit College,Outdoor Track & Field,Men,4
+2009,Beloit College,Baseball,Men,5.5
+2009,Beloit College,Total,Men,42
+2009,Carroll University,Football,Men,6
+2009,Carroll University,Soccer,Men,10
+2009,Carroll University,Cross Country,Men,4
+2009,Carroll University,Basketball,Men,7.5
+2009,Carroll University,Swimming,Men,6
+2009,Carroll University,Indoor Track & Field,Men,8
+2009,Carroll University,Tennis,Men,6
+2009,Carroll University,Outdoor Track & Field,Men,9
+2009,Carroll University,Baseball,Men,3.5
+2009,Carroll University,Total,Men,69
+2009,Grinnell College,Football,Men,3.5
+2009,Grinnell College,Soccer,Men,9
+2009,Grinnell College,Cross Country,Men,10
+2009,Grinnell College,Basketball,Men,3.5
+2009,Grinnell College,Swimming,Men,10
+2009,Grinnell College,Indoor Track & Field,Men,5
+2009,Grinnell College,Tennis,Men,10
+2009,Grinnell College,Outdoor Track & Field,Men,8
+2009,Grinnell College,Baseball,Men,9
+2009,Grinnell College,Total,Men,74
+2009,Illinois College,Football,Men,6
+2009,Illinois College,Soccer,Men,6
+2009,Illinois College,Cross Country,Men,2
+2009,Illinois College,Basketball,Men,5.5
+2009,Illinois College,Swimming,Men,2
+2009,Illinois College,Indoor Track & Field,Men,6
+2009,Illinois College,Tennis,Men,2
+2009,Illinois College,Outdoor Track & Field,Men,5
+2009,Illinois College,Baseball,Men,7
+2009,Illinois College,Total,Men,48.5
+2009,Knox College,Football,Men,1.5
+2009,Knox College,Soccer,Men,1
+2009,Knox College,Cross Country,Men,3
+2009,Knox College,Basketball,Men,1
+2009,Knox College,Swimming,Men,3
+2009,Knox College,Indoor Track & Field,Men,4
+2009,Knox College,Tennis,Men,4
+2009,Knox College,Outdoor Track & Field,Men,3
+2009,Knox College,Baseball,Men,3.5
+2009,Knox College,Total,Men,32
+2009,Lake Forest College,Football,Men,3.5
+2009,Lake Forest College,Soccer,Men,4
+2009,Lake Forest College,Cross Country,Men,1
+2009,Lake Forest College,Basketball,Men,9
+2009,Lake Forest College,Swimming,Men,9
+2009,Lake Forest College,Indoor Track & Field,Men,---
+2009,Lake Forest College,Tennis,Men,9
+2009,Lake Forest College,Outdoor Track & Field,Men,---
+2009,Lake Forest College,Baseball,Men,---
+2009,Lake Forest College,Total,Men,35.5
+2009,Lawrence University,Football,Men,1.5
+2009,Lawrence University,Soccer,Men,3
+2009,Lawrence University,Cross Country,Men,5
+2009,Lawrence University,Basketball,Men,5.5
+2009,Lawrence University,Swimming,Men,7
+2009,Lawrence University,Indoor Track & Field,Men,3
+2009,Lawrence University,Tennis,Men,8
+2009,Lawrence University,Outdoor Track & Field,Men,2
+2009,Lawrence University,Baseball,Men,2
+2009,Lawrence University,Total,Men,40
+2009,Monmouth College,Football,Men,10
+2009,Monmouth College,Soccer,Men,2
+2009,Monmouth College,Cross Country,Men,8
+2009,Monmouth College,Basketball,Men,2
+2009,Monmouth College,Swimming,Men,8
+2009,Monmouth College,Indoor Track & Field,Men,10
+2009,Monmouth College,Tennis,Men,5
+2009,Monmouth College,Outdoor Track & Field,Men,10
+2009,Monmouth College,Baseball,Men,5.5
+2009,Monmouth College,Total,Men,70.5
+2009,Ripon College,Football,Men,8
+2009,Ripon College,Soccer,Men,5
+2009,Ripon College,Cross Country,Men,9
+2009,Ripon College,Basketball,Men,7.5
+2009,Ripon College,Swimming,Men,4
+2009,Ripon College,Indoor Track & Field,Men,7
+2009,Ripon College,Tennis,Men,3
+2009,Ripon College,Outdoor Track & Field,Men,6
+2009,Ripon College,Baseball,Men,10
+2009,Ripon College,Total,Men,64.5
+2009,St. Norbert College,Football,Men,9
+2009,St. Norbert College,Soccer,Men,8
+2009,St. Norbert College,Cross Country,Men,7
+2009,St. Norbert College,Basketball,Men,10
+2009,St. Norbert College,Swimming,Men,---
+2009,St. Norbert College,Indoor Track & Field,Men,9
+2009,St. Norbert College,Tennis,Men,7
+2009,St. Norbert College,Outdoor Track & Field,Men,7
+2009,St. Norbert College,Baseball,Men,8
+2009,St. Norbert College,Total,Men,69
+2009,Beloit College,Volleyball,Women,9
+2009,Beloit College,Soccer,Women,4
+2009,Beloit College,Cross Country,Women,6
+2009,Beloit College,Basketball,Women,4.5
+2009,Beloit College,Swimming,Women,5
+2009,Beloit College,Indoor Track & Field,Women,7
+2009,Beloit College,Tennis,Women,9
+2009,Beloit College,Outdoor Track & Field,Women,4
+2009,Beloit College,Total,Women,50
+2009,Carroll University,Volleyball,Women,3
+2009,Carroll University,Soccer,Women,10
+2009,Carroll University,Cross Country,Women,9
+2009,Carroll University,Basketball,Women,4.5
+2009,Carroll University,Swimming,Women,8
+2009,Carroll University,Indoor Track & Field,Women,9
+2009,Carroll University,Tennis,Women,6
+2009,Carroll University,Outdoor Track & Field,Women,9
+2009,Carroll University,Total,Women,72
+2009,Grinnell College,Volleyball,Women,7
+2009,Grinnell College,Soccer,Women,5.5
+2009,Grinnell College,Cross Country,Women,10
+2009,Grinnell College,Basketball,Women,2
+2009,Grinnell College,Swimming,Women,10
+2009,Grinnell College,Indoor Track & Field,Women,2
+2009,Grinnell College,Tennis,Women,8
+2009,Grinnell College,Outdoor Track & Field,Women,3
+2009,Grinnell College,Total,Women,60
+2009,Illinois College,Volleyball,Women,3
+2009,Illinois College,Soccer,Women,1
+2009,Illinois College,Cross Country,Women,2
+2009,Illinois College,Basketball,Women,6.5
+2009,Illinois College,Swimming,Women,2
+2009,Illinois College,Indoor Track & Field,Women,4
+2009,Illinois College,Tennis,Women,2
+2009,Illinois College,Outdoor Track & Field,Women,7
+2009,Illinois College,Total,Women,39
+2009,Knox College,Volleyball,Women,1
+2009,Knox College,Soccer,Women,2
+2009,Knox College,Cross Country,Women,1
+2009,Knox College,Basketball,Women,4
+2009,Knox College,Swimming,Women,7
+2009,Knox College,Indoor Track & Field,Women,5
+2009,Knox College,Tennis,Women,4
+2009,Knox College,Outdoor Track & Field,Women,5
+2009,Knox College,Total,Women,33.5
+2009,Lake Forest College,Volleyball,Women,7
+2009,Lake Forest College,Soccer,Women,8.5
+2009,Lake Forest College,Cross Country,Women,3
+2009,Lake Forest College,Basketball,Women,8
+2009,Lake Forest College,Swimming,Women,9
+2009,Lake Forest College,Indoor Track & Field,Women,---
+2009,Lake Forest College,Tennis,Women,7
+2009,Lake Forest College,Outdoor Track & Field,Women,---
+2009,Lake Forest College,Total,Women,51.5
+2009,Lawrence University,Volleyball,Women,3
+2009,Lawrence University,Soccer,Women,7
+2009,Lawrence University,Cross Country,Women,4
+2009,Lawrence University,Basketball,Women,1
+2009,Lawrence University,Swimming,Women,4
+2009,Lawrence University,Indoor Track & Field,Women,3
+2009,Lawrence University,Tennis,Women,5
+2009,Lawrence University,Outdoor Track & Field,Women,2
+2009,Lawrence University,Total,Women,34.5
+2009,Monmouth College,Volleyball,Women,5
+2009,Monmouth College,Soccer,Women,5.5
+2009,Monmouth College,Cross Country,Women,8
+2009,Monmouth College,Basketball,Women,6.5
+2009,Monmouth College,Swimming,Women,6
+2009,Monmouth College,Indoor Track & Field,Women,10
+2009,Monmouth College,Tennis,Women,2
+2009,Monmouth College,Outdoor Track & Field,Women,10
+2009,Monmouth College,Total,Women,66
+2009,Ripon College,Volleyball,Women,7
+2009,Ripon College,Soccer,Women,3
+2009,Ripon College,Cross Country,Women,5
+2009,Ripon College,Basketball,Women,9
+2009,Ripon College,Swimming,Women,3
+2009,Ripon College,Indoor Track & Field,Women,6
+2009,Ripon College,Tennis,Women,2
+2009,Ripon College,Outdoor Track & Field,Women,6
+2009,Ripon College,Total,Women,56
+2009,St. Norbert College,Volleyball,Women,10
+2009,St. Norbert College,Soccer,Women,8.5
+2009,St. Norbert College,Cross Country,Women,7
+2009,St. Norbert College,Basketball,Women,10
+2009,St. Norbert College,Swimming,Women,---
+2009,St. Norbert College,Indoor Track & Field,Women,8
+2009,St. Norbert College,Tennis,Women,10
+2009,St. Norbert College,Outdoor Track & Field,Women,8
+2009,St. Norbert College,Total,Women,78.5
+2010,Beloit,Football,Men,5
+2010,Beloit,Soccer,Men,3.5
+2010,Beloit,Cross Country,Men,3
+2010,Beloit,Basketball,Men,3
+2010,Beloit,Swimming,Men,5
+2010,Beloit,Indoor Track & Field,Men,3
+2010,Beloit,Tennis,Men,--
+2010,Beloit,Outdoor Track & Field,Men,4
+2010,Beloit,Baseball,Men,9
+2010,Beloit,Total,Men,37.5
+2010,Carroll,Football,Men,8
+2010,Carroll,Soccer,Men,9.5
+2010,Carroll,Cross Country,Men,5
+2010,Carroll,Basketball,Men,5
+2010,Carroll,Swimming,Men,6
+2010,Carroll,Indoor Track & Field,Men,7
+2010,Carroll,Tennis,Men,7.5
+2010,Carroll,Outdoor Track & Field,Men,5
+2010,Carroll,Baseball,Men,3.5
+2010,Carroll,Total,Men,66.5
+2010,Grinnell,Football,Men,5
+2010,Grinnell,Soccer,Men,8
+2010,Grinnell,Cross Country,Men,10
+2010,Grinnell,Basketball,Men,8
+2010,Grinnell,Swimming,Men,10
+2010,Grinnell,Indoor Track & Field,Men,5
+2010,Grinnell,Tennis,Men,10
+2010,Grinnell,Outdoor Track & Field,Men,8
+2010,Grinnell,Baseball,Men,8
+2010,Grinnell,Total,Men,78
+2010,Illinois College,Football,Men,5
+2010,Illinois College,Soccer,Men,2
+2010,Illinois College,Cross Country,Men,2
+2010,Illinois College,Basketball,Men,8
+2010,Illinois College,Swimming,Men,2.5
+2010,Illinois College,Indoor Track & Field,Men,6
+2010,Illinois College,Tennis,Men,3
+2010,Illinois College,Outdoor Track & Field,Men,6
+2010,Illinois College,Baseball,Men,5.5
+2010,Illinois College,Total,Men,44
+2010,Knox,Football,Men,1
+2010,Knox,Soccer,Men,1
+2010,Knox,Cross Country,Men,4
+2010,Knox,Basketball,Men,1.5
+2010,Knox,Swimming,Men,2.5
+2010,Knox,Indoor Track & Field,Men,2
+2010,Knox,Tennis,Men,4
+2010,Knox,Outdoor Track & Field,Men,3
+2010,Knox,Baseball,Men,3.5
+2010,Knox,Total,Men,30.5
+2010,Lake Forest,Football,Men,2.5
+2010,Lake Forest,Soccer,Men,6
+2010,Lake Forest,Cross Country,Men,1
+2010,Lake Forest,Basketball,Men,5
+2010,Lake Forest,Swimming,Men,9
+2010,Lake Forest,Indoor Track & Field,Men,--
+2010,Lake Forest,Tennis,Men,6
+2010,Lake Forest,Outdoor Track & Field,Men,--
+2010,Lake Forest,Baseball,Men,--
+2010,Lake Forest,Total,Men,29.5
+2010,Lawrence,Football,Men,2.5
+2010,Lawrence,Soccer,Men,7
+2010,Lawrence,Cross Country,Men,9
+2010,Lawrence,Basketball,Men,5
+2010,Lawrence,Swimming,Men,8
+2010,Lawrence,Indoor Track & Field,Men,4
+2010,Lawrence,Tennis,Men,5
+2010,Lawrence,Outdoor Track & Field,Men,2
+2010,Lawrence,Baseball,Men,2
+2010,Lawrence,Total,Men,47.5
+2010,Monmouth,Football,Men,8
+2010,Monmouth,Soccer,Men,3.5
+2010,Monmouth,Cross Country,Men,7
+2010,Monmouth,Basketball,Men,1.5
+2010,Monmouth,Swimming,Men,7
+2010,Monmouth,Indoor Track & Field,Men,10
+2010,Monmouth,Tennis,Men,9
+2010,Monmouth,Outdoor Track & Field,Men,10
+2010,Monmouth,Baseball,Men,7
+2010,Monmouth,Total,Men,72
+2010,Ripon,Football,Men,8
+2010,Ripon,Soccer,Men,9.5
+2010,Ripon,Cross Country,Men,8
+2010,Ripon,Basketball,Men,8
+2010,Ripon,Swimming,Men,4
+2010,Ripon,Indoor Track & Field,Men,8
+2010,Ripon,Tennis,Men,2
+2010,Ripon,Outdoor Track & Field,Men,9
+2010,Ripon,Baseball,Men,10
+2010,Ripon,Total,Men,71.5
+2010,St. Norbert,Football,Men,10
+2010,St. Norbert,Soccer,Men,5
+2010,St. Norbert,Cross Country,Men,6
+2010,St. Norbert,Basketball,Men,10
+2010,St. Norbert,Swimming,Men,--
+2010,St. Norbert,Indoor Track & Field,Men,9
+2010,St. Norbert,Tennis,Men,7.5
+2010,St. Norbert,Outdoor Track & Field,Men,7
+2010,St. Norbert,Baseball,Men,5.5
+2010,St. Norbert,Total,Men,67
+2010,Beloit,Volleyball,Women,9.5
+2010,Beloit,Soccer,Women,2
+2010,Beloit,Cross Country,Women,2
+2010,Beloit,Tennis,Women,5
+2010,Beloit,Swimming,Women,6
+2010,Beloit,Indoor Track & Field,Women,4
+2010,Beloit,Outdoor Track & Field,Women,4
+2010,Beloit,Softball,Women,3.5
+2010,Beloit,Total,Women,39
+2010,Carroll,Volleyball,Women,6
+2010,Carroll,Soccer,Women,10
+2010,Carroll,Cross Country,Women,8
+2010,Carroll,Tennis,Women,6
+2010,Carroll,Swimming,Women,5
+2010,Carroll,Indoor Track & Field,Women,8
+2010,Carroll,Outdoor Track & Field,Women,7
+2010,Carroll,Softball,Women,1.5
+2010,Carroll,Total,Women,68.5
+2010,Grinnell,Volleyball,Women,4
+2010,Grinnell,Soccer,Women,5
+2010,Grinnell,Cross Country,Women,7
+2010,Grinnell,Tennis,Women,10
+2010,Grinnell,Swimming,Women,10
+2010,Grinnell,Indoor Track & Field,Women,6
+2010,Grinnell,Outdoor Track & Field,Women,8
+2010,Grinnell,Softball,Women,1.5
+2010,Grinnell,Total,Women,64
+2010,Illinois College,Volleyball,Women,2
+2010,Illinois College,Soccer,Women,1
+2010,Illinois College,Cross Country,Women,3
+2010,Illinois College,Tennis,Women,1
+2010,Illinois College,Swimming,Women,2
+2010,Illinois College,Indoor Track & Field,Women,7
+2010,Illinois College,Outdoor Track & Field,Women,6
+2010,Illinois College,Softball,Women,5.5
+2010,Illinois College,Total,Women,43.5
+2010,Knox,Volleyball,Women,1
+2010,Knox,Soccer,Women,3
+2010,Knox,Cross Country,Women,1
+2010,Knox,Tennis,Women,4
+2010,Knox,Swimming,Women,3
+2010,Knox,Indoor Track & Field,Women,3
+2010,Knox,Outdoor Track & Field,Women,2
+2010,Knox,Softball,Women,3.5
+2010,Knox,Total,Women,28.5
+2010,Lake Forest,Volleyball,Women,7.5
+2010,Lake Forest,Soccer,Women,9
+2010,Lake Forest,Cross Country,Women,5
+2010,Lake Forest,Tennis,Women,9
+2010,Lake Forest,Swimming,Women,9
+2010,Lake Forest,Indoor Track & Field,Women,--
+2010,Lake Forest,Outdoor Track & Field,Women,--
+2010,Lake Forest,Softball,Women,7
+2010,Lake Forest,Total,Women,53.5
+2010,Lawrence,Volleyball,Women,4
+2010,Lawrence,Soccer,Women,7.5
+2010,Lawrence,Cross Country,Women,4
+2010,Lawrence,Tennis,Women,7
+2010,Lawrence,Swimming,Women,8
+2010,Lawrence,Indoor Track & Field,Women,2
+2010,Lawrence,Outdoor Track & Field,Women,3
+2010,Lawrence,Softball,Women,5.5
+2010,Lawrence,Total,Women,42
+2010,Monmouth,Volleyball,Women,9.5
+2010,Monmouth,Soccer,Women,7.5
+2010,Monmouth,Cross Country,Women,9
+2010,Monmouth,Tennis,Women,2
+2010,Monmouth,Swimming,Women,7
+2010,Monmouth,Indoor Track & Field,Women,10
+2010,Monmouth,Outdoor Track & Field,Women,10
+2010,Monmouth,Softball,Women,8
+2010,Monmouth,Total,Women,76
+2010,Ripon,Volleyball,Women,4
+2010,Ripon,Soccer,Women,4
+2010,Ripon,Cross Country,Women,6
+2010,Ripon,Tennis,Women,3
+2010,Ripon,Swimming,Women,4
+2010,Ripon,Indoor Track & Field,Women,5
+2010,Ripon,Outdoor Track & Field,Women,5
+2010,Ripon,Softball,Women,10
+2010,Ripon,Total,Women,52.5
+2010,St. Norbert,Volleyball,Women,7.5
+2010,St. Norbert,Soccer,Women,6
+2010,St. Norbert,Cross Country,Women,10
+2010,St. Norbert,Tennis,Women,8
+2010,St. Norbert,Swimming,Women,--
+2010,St. Norbert,Indoor Track & Field,Women,9
+2010,St. Norbert,Outdoor Track & Field,Women,9
+2010,St. Norbert,Softball,Women,9
+2010,St. Norbert,Total,Women,73.5
+2011,Beloit,Football,Men,3
+2011,Beloit,Soccer,Men,8.5
+2011,Beloit,Cross Country,Men,2
+2011,Beloit,Basketball,Men,5
+2011,Beloit,Swimming,Men,5
+2011,Beloit,Indoor Track & Field,Men,2
+2011,Beloit,Tennis,Men,--
+2011,Beloit,Outdoor Track & Field,Men,2
+2011,Beloit,Baseball,Men,9
+2011,Beloit,Total,Men,38.5
+2011,Carroll,Football,Men,7
+2011,Carroll,Soccer,Men,10
+2011,Carroll,Cross Country,Men,7
+2011,Carroll,Basketball,Men,6.5
+2011,Carroll,Swimming,Men,8
+2011,Carroll,Indoor Track & Field,Men,9
+2011,Carroll,Tennis,Men,7
+2011,Carroll,Outdoor Track & Field,Men,8
+2011,Carroll,Baseball,Men,3.5
+2011,Carroll,Total,Men,76
+2011,Grinnell,Football,Men,5
+2011,Grinnell,Soccer,Men,4.5
+2011,Grinnell,Cross Country,Men,9
+2011,Grinnell,Basketball,Men,9
+2011,Grinnell,Swimming,Men,10
+2011,Grinnell,Indoor Track & Field,Men,5
+2011,Grinnell,Tennis,Men,10
+2011,Grinnell,Outdoor Track & Field,Men,6
+2011,Grinnell,Baseball,Men,8
+2011,Grinnell,Total,Men,72.5
+2011,Illinois College,Football,Men,9
+2011,Illinois College,Soccer,Men,4.5
+2011,Illinois College,Cross Country,Men,1
+2011,Illinois College,Basketball,Men,2
+2011,Illinois College,Swimming,Men,2
+2011,Illinois College,Indoor Track & Field,Men,7
+2011,Illinois College,Tennis,Men,2
+2011,Illinois College,Outdoor Track & Field,Men,4
+2011,Illinois College,Baseball,Men,5.5
+2011,Illinois College,Total,Men,42
+2011,Knox,Football,Men,1
+2011,Knox,Soccer,Men,1
+2011,Knox,Cross Country,Men,6
+2011,Knox,Basketball,Men,1
+2011,Knox,Swimming,Men,4
+2011,Knox,Indoor Track & Field,Men,3
+2011,Knox,Tennis,Men,4
+2011,Knox,Outdoor Track & Field,Men,3
+2011,Knox,Baseball,Men,7
+2011,Knox,Total,Men,37
+2011,Lake Forest,Football,Men,4
+2011,Lake Forest,Soccer,Men,6.5
+2011,Lake Forest,Cross Country,Men,3
+2011,Lake Forest,Basketball,Men,10
+2011,Lake Forest,Swimming,Men,9
+2011,Lake Forest,Indoor Track & Field,Men,--
+2011,Lake Forest,Tennis,Men,8
+2011,Lake Forest,Outdoor Track & Field,Men,--
+2011,Lake Forest,Baseball,Men,--
+2011,Lake Forest,Total,Men,40.5
+2011,Lawrence,Football,Men,2
+2011,Lawrence,Soccer,Men,8.5
+2011,Lawrence,Cross Country,Men,10
+2011,Lawrence,Basketball,Men,4
+2011,Lawrence,Swimming,Men,7
+2011,Lawrence,Indoor Track & Field,Men,4
+2011,Lawrence,Tennis,Men,6
+2011,Lawrence,Outdoor Track & Field,Men,5
+2011,Lawrence,Baseball,Men,2
+2011,Lawrence,Total,Men,52.5
+2011,Monmouth,Football,Men,10
+2011,Monmouth,Soccer,Men,6.5
+2011,Monmouth,Cross Country,Men,8
+2011,Monmouth,Basketball,Men,3
+2011,Monmouth,Swimming,Men,6
+2011,Monmouth,Indoor Track & Field,Men,10
+2011,Monmouth,Tennis,Men,9
+2011,Monmouth,Outdoor Track & Field,Men,10
+2011,Monmouth,Baseball,Men,3.5
+2011,Monmouth,Total,Men,74.5
+2011,Ripon,Football,Men,6
+2011,Ripon,Soccer,Men,2.5
+2011,Ripon,Cross Country,Men,4
+2011,Ripon,Basketball,Men,6.5
+2011,Ripon,Swimming,Men,3
+2011,Ripon,Indoor Track & Field,Men,6
+2011,Ripon,Tennis,Men,3
+2011,Ripon,Outdoor Track & Field,Men,7
+2011,Ripon,Baseball,Men,5.5
+2011,Ripon,Total,Men,46.5
+2011,St. Norbert,Football,Men,8
+2011,St. Norbert,Soccer,Men,2.5
+2011,St. Norbert,Cross Country,Men,5
+2011,St. Norbert,Basketball,Men,8
+2011,St. Norbert,Swimming,Men,--
+2011,St. Norbert,Indoor Track & Field,Men,8
+2011,St. Norbert,Tennis,Men,5
+2011,St. Norbert,Outdoor Track & Field,Men,9
+2011,St. Norbert,Baseball,Men,10
+2011,St. Norbert,Total,Men,64
+2011,Beloit,Volleyball,Women,2.5
+2011,Beloit,Soccer,Women,1
+2011,Beloit,Cross Country,Women,5
+2011,Beloit,Tennis,Women,4
+2011,Beloit,Swimming,Women,4
+2011,Beloit,Indoor Track & Field,Women,2
+2011,Beloit,Outdoor Track & Field,Women,3
+2011,Beloit,Softball,Women,3.5
+2011,Beloit,Total,Women,27
+2011,Carroll,Volleyball,Women,5.5
+2011,Carroll,Soccer,Women,9
+2011,Carroll,Cross Country,Women,7
+2011,Carroll,Tennis,Women,6
+2011,Carroll,Swimming,Women,6
+2011,Carroll,Indoor Track & Field,Women,9
+2011,Carroll,Outdoor Track & Field,Women,8
+2011,Carroll,Softball,Women,9
+2011,Carroll,Total,Women,76
+2011,Grinnell,Volleyball,Women,7.5
+2011,Grinnell,Soccer,Women,9
+2011,Grinnell,Cross Country,Women,10
+2011,Grinnell,Tennis,Women,10
+2011,Grinnell,Swimming,Women,9
+2011,Grinnell,Indoor Track & Field,Women,6
+2011,Grinnell,Outdoor Track & Field,Women,6
+2011,Grinnell,Softball,Women,1.5
+2011,Grinnell,Total,Women,74.5
+2011,Illinois C.,Volleyball,Women,4
+2011,Illinois C.,Soccer,Women,2
+2011,Illinois C.,Cross Country,Women,1.5
+2011,Illinois C.,Tennis,Women,--
+2011,Illinois C.,Swimming,Women,3
+2011,Illinois C.,Indoor Track & Field,Women,7
+2011,Illinois C.,Outdoor Track & Field,Women,7
+2011,Illinois C.,Softball,Women,5.5
+2011,Illinois C.,Total,Women,38
+2011,Knox,Volleyball,Women,1
+2011,Knox,Soccer,Women,3
+2011,Knox,Cross Country,Women,1.5
+2011,Knox,Tennis,Women,5
+2011,Knox,Swimming,Women,5
+2011,Knox,Indoor Track & Field,Women,3
+2011,Knox,Outdoor Track & Field,Women,2
+2011,Knox,Softball,Women,3.5
+2011,Knox,Total,Women,32
+2011,Lake Forest,Volleyball,Women,7.5
+2011,Lake Forest,Soccer,Women,4
+2011,Lake Forest,Cross Country,Women,3
+2011,Lake Forest,Tennis,Women,7.5
+2011,Lake Forest,Swimming,Women,10
+2011,Lake Forest,Indoor Track & Field,Women,--
+2011,Lake Forest,Outdoor Track & Field,Women,--
+2011,Lake Forest,Softball,Women,7
+2011,Lake Forest,Total,Women,45.5
+2011,Lawrence,Volleyball,Women,5.5
+2011,Lawrence,Soccer,Women,6.5
+2011,Lawrence,Cross Country,Women,6
+2011,Lawrence,Tennis,Women,7.5
+2011,Lawrence,Swimming,Women,7
+2011,Lawrence,Indoor Track & Field,Women,4
+2011,Lawrence,Outdoor Track & Field,Women,4
+2011,Lawrence,Softball,Women,1.5
+2011,Lawrence,Total,Women,43
+2011,Monmouth,Volleyball,Women,9
+2011,Monmouth,Soccer,Women,6.5
+2011,Monmouth,Cross Country,Women,9
+2011,Monmouth,Tennis,Women,2
+2011,Monmouth,Swimming,Women,8
+2011,Monmouth,Indoor Track & Field,Women,10
+2011,Monmouth,Outdoor Track & Field,Women,10
+2011,Monmouth,Softball,Women,8
+2011,Monmouth,Total,Women,78.5
+2011,Ripon,Volleyball,Women,2.5
+2011,Ripon,Soccer,Women,5
+2011,Ripon,Cross Country,Women,4
+2011,Ripon,Tennis,Women,3
+2011,Ripon,Swimming,Women,2
+2011,Ripon,Indoor Track & Field,Women,5
+2011,Ripon,Outdoor Track & Field,Women,5
+2011,Ripon,Softball,Women,5.5
+2011,Ripon,Total,Women,46.5
+2011,St. Norbert,Volleyball,Women,10
+2011,St. Norbert,Soccer,Women,9
+2011,St. Norbert,Cross Country,Women,8
+2011,St. Norbert,Tennis,Women,9
+2011,St. Norbert,Swimming,Women,--
+2011,St. Norbert,Indoor Track & Field,Women,8
+2011,St. Norbert,Outdoor Track & Field,Women,9
+2011,St. Norbert,Softball,Women,10
+2011,St. Norbert,Total,Women,79
+2012,Beloit,Football,Men,1
+2012,Beloit,Soccer,Men,9
+2012,Beloit,Cross Country,Men,3
+2012,Beloit,Basketball,Men,6
+2012,Beloit,Swimming,Men,6
+2012,Beloit,Indoor Track & Field,Men,2
+2012,Beloit,Tennis,Men,--
+2012,Beloit,Outdoor Track & Field,Men,2
+2012,Beloit,Baseball,Men,6.5
+2012,Beloit,Total,Men,35.5
+2012,Carroll,Football,Men,8.5
+2012,Carroll,Soccer,Men,10
+2012,Carroll,Cross Country,Men,7
+2012,Carroll,Basketball,Men,9
+2012,Carroll,Swimming,Men,7
+2012,Carroll,Indoor Track & Field,Men,8
+2012,Carroll,Tennis,Men,8
+2012,Carroll,Outdoor Track & Field,Men,8
+2012,Carroll,Baseball,Men,4.5
+2012,Carroll,Total,Men,79
+2012,Cornell,Football,Men,5
+2012,Cornell,Soccer,Men,1
+2012,Cornell,Cross Country,Men,5
+2012,Cornell,Basketball,Men,5
+2012,Cornell,Swimming,Men,--
+2012,Cornell,Indoor Track & Field,Men,5
+2012,Cornell,Tennis,Men,5
+2012,Cornell,Outdoor Track & Field,Men,4
+2012,Cornell,Baseball,Men,6.5
+2012,Cornell,Total,Men,36.5
+2012,Grinnell,Football,Men,3
+2012,Grinnell,Soccer,Men,8
+2012,Grinnell,Cross Country,Men,11
+2012,Grinnell,Basketball,Men,10
+2012,Grinnell,Swimming,Men,11
+2012,Grinnell,Indoor Track & Field,Men,6
+2012,Grinnell,Tennis,Men,11
+2012,Grinnell,Outdoor Track & Field,Men,9
+2012,Grinnell,Baseball,Men,8
+2012,Grinnell,Total,Men,84.5
+2012,Illinois Col.,Football,Men,8.5
+2012,Illinois Col.,Soccer,Men,2.5
+2012,Illinois Col.,Cross Country,Men,2
+2012,Illinois Col.,Basketball,Men,3.5
+2012,Illinois Col.,Swimming,Men,5
+2012,Illinois Col.,Indoor Track & Field,Men,7
+2012,Illinois Col.,Tennis,Men,1
+2012,Illinois Col.,Outdoor Track & Field,Men,6
+2012,Illinois Col.,Baseball,Men,4.5
+2012,Illinois Col.,Total,Men,46
+2012,Knox,Football,Men,3
+2012,Knox,Soccer,Men,2.5
+2012,Knox,Cross Country,Men,6
+2012,Knox,Basketball,Men,1
+2012,Knox,Swimming,Men,4
+2012,Knox,Indoor Track & Field,Men,3
+2012,Knox,Tennis,Men,4
+2012,Knox,Outdoor Track & Field,Men,3
+2012,Knox,Baseball,Men,9
+2012,Knox,Total,Men,40.5
+2012,Lake Forest,Football,Men,10.5
+2012,Lake Forest,Soccer,Men,11
+2012,Lake Forest,Cross Country,Men,4
+2012,Lake Forest,Basketball,Men,2
+2012,Lake Forest,Swimming,Men,10
+2012,Lake Forest,Indoor Track & Field,Men,--
+2012,Lake Forest,Tennis,Men,6
+2012,Lake Forest,Outdoor Track & Field,Men,--
+2012,Lake Forest,Baseball,Men,--
+2012,Lake Forest,Total,Men,43.5
+2012,Lawrence,Football,Men,3
+2012,Lawrence,Soccer,Men,6
+2012,Lawrence,Cross Country,Men,10
+2012,Lawrence,Basketball,Men,7.5
+2012,Lawrence,Swimming,Men,8
+2012,Lawrence,Indoor Track & Field,Men,4
+2012,Lawrence,Tennis,Men,10
+2012,Lawrence,Outdoor Track & Field,Men,5
+2012,Lawrence,Baseball,Men,2.5
+2012,Lawrence,Total,Men,63.5
+2012,Monmouth,Football,Men,6.5
+2012,Monmouth,Soccer,Men,4.5
+2012,Monmouth,Cross Country,Men,8
+2012,Monmouth,Basketball,Men,3.5
+2012,Monmouth,Swimming,Men,9
+2012,Monmouth,Indoor Track & Field,Men,11
+2012,Monmouth,Tennis,Men,9
+2012,Monmouth,Outdoor Track & Field,Men,11
+2012,Monmouth,Baseball,Men,2.5
+2012,Monmouth,Total,Men,75
+2012,Ripon,Football,Men,6.5
+2012,Ripon,Soccer,Men,4.5
+2012,Ripon,Cross Country,Men,1
+2012,Ripon,Basketball,Men,7.5
+2012,Ripon,Swimming,Men,3
+2012,Ripon,Indoor Track & Field,Men,9
+2012,Ripon,Tennis,Men,3
+2012,Ripon,Outdoor Track & Field,Men,7
+2012,Ripon,Baseball,Men,11
+2012,Ripon,Total,Men,56.5
+2012,St. Norbert,Football,Men,10.5
+2012,St. Norbert,Soccer,Men,7
+2012,St. Norbert,Cross Country,Men,9
+2012,St. Norbert,Basketball,Men,11
+2012,St. Norbert,Swimming,Men,--
+2012,St. Norbert,Indoor Track & Field,Men,10
+2012,St. Norbert,Tennis,Men,7
+2012,St. Norbert,Outdoor Track & Field,Men,10
+2012,St. Norbert,Baseball,Men,10
+2012,St. Norbert,Total,Men,85.5
+2012,Beloit,Volleyball,Women,2
+2012,Beloit,Soccer,Women,3.5
+2012,Beloit,Cross Country,Women,5
+2012,Beloit,Tennis,Women,6
+2012,Beloit,Swimming,Women,5
+2012,Beloit,Indoor Track & Field,Women,4
+2012,Beloit,Outdoor Track & Field,Women,3
+2012,Beloit,Softball,Women,2.5
+2012,Beloit,Total,Women,33
+2012,Carroll,Volleyball,Women,7
+2012,Carroll,Soccer,Women,7.5
+2012,Carroll,Cross Country,Women,6
+2012,Carroll,Tennis,Women,8.5
+2012,Carroll,Swimming,Women,8
+2012,Carroll,Indoor Track & Field,Women,8
+2012,Carroll,Outdoor Track & Field,Women,8
+2012,Carroll,Softball,Women,6.5
+2012,Carroll,Total,Women,79
+2012,Cornell,Volleyball,Women,11
+2012,Cornell,Soccer,Women,2
+2012,Cornell,Cross Country,Women,8
+2012,Cornell,Tennis,Women,7
+2012,Cornell,Swimming,Women,--
+2012,Cornell,Indoor Track & Field,Women,6
+2012,Cornell,Outdoor Track & Field,Women,4
+2012,Cornell,Softball,Women,11
+2012,Cornell,Total,Women,60
+2012,Grinnell,Volleyball,Women,5.5
+2012,Grinnell,Soccer,Women,7.5
+2012,Grinnell,Cross Country,Women,9
+2012,Grinnell,Tennis,Women,11
+2012,Grinnell,Swimming,Women,11
+2012,Grinnell,Indoor Track & Field,Women,5
+2012,Grinnell,Outdoor Track & Field,Women,6
+2012,Grinnell,Softball,Women,1
+2012,Grinnell,Total,Women,71.5
+2012,Illinois Col.,Volleyball,Women,5.5
+2012,Illinois Col.,Soccer,Women,5
+2012,Illinois Col.,Cross Country,Women,2
+2012,Illinois Col.,Tennis,Women,2
+2012,Illinois Col.,Swimming,Women,6
+2012,Illinois Col.,Indoor Track & Field,Women,9
+2012,Illinois Col.,Outdoor Track & Field,Women,10
+2012,Illinois Col.,Softball,Women,6.5
+2012,Illinois Col.,Total,Women,57
+2012,Knox,Volleyball,Women,1
+2012,Knox,Soccer,Women,1
+2012,Knox,Cross Country,Women,3
+2012,Knox,Tennis,Women,4
+2012,Knox,Swimming,Women,3
+2012,Knox,Indoor Track & Field,Women,2
+2012,Knox,Outdoor Track & Field,Women,2
+2012,Knox,Softball,Women,2.5
+2012,Knox,Total,Women,28.5
+2012,Lake Forest,Volleyball,Women,8.5
+2012,Lake Forest,Soccer,Women,11
+2012,Lake Forest,Cross Country,Women,1
+2012,Lake Forest,Tennis,Women,10
+2012,Lake Forest,Swimming,Women,10
+2012,Lake Forest,Indoor Track & Field,Women,--
+2012,Lake Forest,Outdoor Track & Field,Women,--
+2012,Lake Forest,Softball,Women,8
+2012,Lake Forest,Total,Women,55.5
+2012,Lawrence,Volleyball,Women,3
+2012,Lawrence,Soccer,Women,3.5
+2012,Lawrence,Cross Country,Women,4
+2012,Lawrence,Tennis,Women,5
+2012,Lawrence,Swimming,Women,7
+2012,Lawrence,Indoor Track & Field,Women,3
+2012,Lawrence,Outdoor Track & Field,Women,5
+2012,Lawrence,Softball,Women,10
+2012,Lawrence,Total,Women,41.5
+2012,Monmouth,Volleyball,Women,8.5
+2012,Monmouth,Soccer,Women,9
+2012,Monmouth,Cross Country,Women,11
+2012,Monmouth,Tennis,Women,3
+2012,Monmouth,Swimming,Women,9
+2012,Monmouth,Indoor Track & Field,Women,11
+2012,Monmouth,Outdoor Track & Field,Women,11
+2012,Monmouth,Softball,Women,4.5
+2012,Monmouth,Total,Women,86
+2012,Ripon,Volleyball,Women,4
+2012,Ripon,Soccer,Women,6
+2012,Ripon,Cross Country,Women,7
+2012,Ripon,Tennis,Women,1
+2012,Ripon,Swimming,Women,4
+2012,Ripon,Indoor Track & Field,Women,7
+2012,Ripon,Outdoor Track & Field,Women,7
+2012,Ripon,Softball,Women,4.5
+2012,Ripon,Total,Women,51
+2012,St. Norbert,Volleyball,Women,10
+2012,St. Norbert,Soccer,Women,10
+2012,St. Norbert,Cross Country,Women,10
+2012,St. Norbert,Tennis,Women,8.5
+2012,St. Norbert,Swimming,Women,--
+2012,St. Norbert,Indoor Track & Field,Women,10
+2012,St. Norbert,Outdoor Track & Field,Women,9
+2012,St. Norbert,Softball,Women,9
+2012,St. Norbert,Total,Women,82
+2013,Beloit,Football,Men,2
+2013,Beloit,Soccer,Men,2
+2013,Beloit,Cross Country,Men,4
+2013,Beloit,Basketball,Men,4.5
+2013,Beloit,Swimming,Men,5
+2013,Beloit,Indoor Track & Field,Men,3
+2013,Beloit,Tennis,Men,--
+2013,Beloit,Outdoor Track & Field,Men,3
+2013,Beloit,Baseball,Men,4.5
+2013,Beloit,Total,Men,28
+2013,Carroll,Football,Men,5.5
+2013,Carroll,Soccer,Men,10.5
+2013,Carroll,Cross Country,Men,8
+2013,Carroll,Basketball,Men,8.5
+2013,Carroll,Swimming,Men,8
+2013,Carroll,Indoor Track & Field,Men,8
+2013,Carroll,Tennis,Men,9
+2013,Carroll,Outdoor Track & Field,Men,9
+2013,Carroll,Baseball,Men,6.5
+2013,Carroll,Total,Men,83
+2013,Cornell,Football,Men,9
+2013,Cornell,Soccer,Men,1
+2013,Cornell,Cross Country,Men,7
+2013,Cornell,Basketball,Men,3
+2013,Cornell,Swimming,Men,--
+2013,Cornell,Indoor Track & Field,Men,5
+2013,Cornell,Tennis,Men,5
+2013,Cornell,Outdoor Track & Field,Men,6
+2013,Cornell,Baseball,Men,8
+2013,Cornell,Total,Men,44
+2013,Grinnell,Football,Men,4
+2013,Grinnell,Soccer,Men,5.5
+2013,Grinnell,Cross Country,Men,11
+2013,Grinnell,Basketball,Men,10
+2013,Grinnell,Swimming,Men,10
+2013,Grinnell,Indoor Track & Field,Men,9
+2013,Grinnell,Tennis,Men,11
+2013,Grinnell,Outdoor Track & Field,Men,8
+2013,Grinnell,Baseball,Men,10
+2013,Grinnell,Total,Men,85.5
+2013,Illinois Col.,Football,Men,9
+2013,Illinois Col.,Soccer,Men,7
+2013,Illinois Col.,Cross Country,Men,3
+2013,Illinois Col.,Basketball,Men,6
+2013,Illinois Col.,Swimming,Men,4
+2013,Illinois Col.,Indoor Track & Field,Men,7
+2013,Illinois Col.,Tennis,Men,2
+2013,Illinois Col.,Outdoor Track & Field,Men,4
+2013,Illinois Col.,Baseball,Men,6.5
+2013,Illinois Col.,Total,Men,54.5
+2013,Knox,Football,Men,2
+2013,Knox,Soccer,Men,8
+2013,Knox,Cross Country,Men,6
+2013,Knox,Basketball,Men,1
+2013,Knox,Swimming,Men,3
+2013,Knox,Indoor Track & Field,Men,2
+2013,Knox,Tennis,Men,6
+2013,Knox,Outdoor Track & Field,Men,2
+2013,Knox,Baseball,Men,2.5
+2013,Knox,Total,Men,37.5
+2013,Lake Forest,Football,Men,9
+2013,Lake Forest,Soccer,Men,10.5
+2013,Lake Forest,Cross Country,Men,5
+2013,Lake Forest,Basketball,Men,4.5
+2013,Lake Forest,Swimming,Men,11
+2013,Lake Forest,Indoor Track & Field,Men,--
+2013,Lake Forest,Tennis,Men,7
+2013,Lake Forest,Outdoor Track & Field,Men,--
+2013,Lake Forest,Baseball,Men,--
+2013,Lake Forest,Total,Men,47
+2013,Lawrence,Football,Men,2
+2013,Lawrence,Soccer,Men,5.5
+2013,Lawrence,Cross Country,Men,10
+2013,Lawrence,Basketball,Men,7
+2013,Lawrence,Swimming,Men,6
+2013,Lawrence,Indoor Track & Field,Men,4
+2013,Lawrence,Tennis,Men,4
+2013,Lawrence,Outdoor Track & Field,Men,5
+2013,Lawrence,Baseball,Men,2.5
+2013,Lawrence,Total,Men,54
+2013,Monmouth,Football,Men,5.5
+2013,Monmouth,Soccer,Men,3.5
+2013,Monmouth,Cross Country,Men,1
+2013,Monmouth,Basketball,Men,2
+2013,Monmouth,Swimming,Men,9
+2013,Monmouth,Indoor Track & Field,Men,11
+2013,Monmouth,Tennis,Men,10
+2013,Monmouth,Outdoor Track & Field,Men,11
+2013,Monmouth,Baseball,Men,4.5
+2013,Monmouth,Total,Men,68.5
+2013,Ripon,Football,Men,7
+2013,Ripon,Soccer,Men,3.5
+2013,Ripon,Cross Country,Men,2
+2013,Ripon,Basketball,Men,8.5
+2013,Ripon,Swimming,Men,7
+2013,Ripon,Indoor Track & Field,Men,6
+2013,Ripon,Tennis,Men,3
+2013,Ripon,Outdoor Track & Field,Men,7
+2013,Ripon,Baseball,Men,9
+2013,Ripon,Total,Men,53
+2013,St. Norbert,Football,Men,11
+2013,St. Norbert,Soccer,Men,9
+2013,St. Norbert,Cross Country,Men,9
+2013,St. Norbert,Basketball,Men,11
+2013,St. Norbert,Swimming,Men,--
+2013,St. Norbert,Indoor Track & Field,Men,10
+2013,St. Norbert,Tennis,Men,8
+2013,St. Norbert,Outdoor Track & Field,Men,10
+2013,St. Norbert,Baseball,Men,11
+2013,St. Norbert,Total,Men,88
+2013,Beloit,Volleyball,Women,2
+2013,Beloit,Soccer,Women,2
+2013,Beloit,Cross Country,Women,6
+2013,Beloit,Tennis,Women,7
+2013,Beloit,Swimming,Women,6
+2013,Beloit,Indoor Track & Field,Women,5
+2013,Beloit,Outdoor Track & Field,Women,4
+2013,Beloit,Softball,Women,2.5
+2013,Beloit,Total,Women,39
+2013,Carroll,Volleyball,Women,9.5
+2013,Carroll,Soccer,Women,7.5
+2013,Carroll,Cross Country,Women,4
+2013,Carroll,Tennis,Women,8
+2013,Carroll,Swimming,Women,9
+2013,Carroll,Indoor Track & Field,Women,9
+2013,Carroll,Outdoor Track & Field,Women,8
+2013,Carroll,Softball,Women,6.5
+2013,Carroll,Total,Women,76.5
+2013,Cornell,Volleyball,Women,11
+2013,Cornell,Soccer,Women,5
+2013,Cornell,Cross Country,Women,10
+2013,Cornell,Tennis,Women,5
+2013,Cornell,Swimming,Women,--
+2013,Cornell,Indoor Track & Field,Women,7
+2013,Cornell,Outdoor Track & Field,Women,7
+2013,Cornell,Softball,Women,6.5
+2013,Cornell,Total,Women,62
+2013,Grinnell,Volleyball,Women,4
+2013,Grinnell,Soccer,Women,7.5
+2013,Grinnell,Cross Country,Women,11
+2013,Grinnell,Tennis,Women,11
+2013,Grinnell,Swimming,Women,11
+2013,Grinnell,Indoor Track & Field,Women,8
+2013,Grinnell,Outdoor Track & Field,Women,10
+2013,Grinnell,Softball,Women,1
+2013,Grinnell,Total,Women,76.5
+2013,Illinois Col.,Volleyball,Women,2
+2013,Illinois Col.,Soccer,Women,3.5
+2013,Illinois Col.,Cross Country,Women,3
+2013,Illinois Col.,Tennis,Women,2
+2013,Illinois Col.,Swimming,Women,3
+2013,Illinois Col.,Indoor Track & Field,Women,6
+2013,Illinois Col.,Outdoor Track & Field,Women,6
+2013,Illinois Col.,Softball,Women,2.5
+2013,Illinois Col.,Total,Women,44.5
+2013,Knox,Volleyball,Women,2
+2013,Knox,Soccer,Women,1
+2013,Knox,Cross Country,Women,1
+2013,Knox,Tennis,Women,4
+2013,Knox,Swimming,Women,4
+2013,Knox,Indoor Track & Field,Women,2
+2013,Knox,Outdoor Track & Field,Women,2
+2013,Knox,Softball,Women,4.5
+2013,Knox,Total,Women,29
+2013,Lake Forest,Volleyball,Women,7
+2013,Lake Forest,Soccer,Women,9
+2013,Lake Forest,Cross Country,Women,7
+2013,Lake Forest,Tennis,Women,10
+2013,Lake Forest,Swimming,Women,10
+2013,Lake Forest,Indoor Track & Field,Women,--
+2013,Lake Forest,Outdoor Track & Field,Women,--
+2013,Lake Forest,Softball,Women,11
+2013,Lake Forest,Total,Women,58.5
+2013,Lawrence,Volleyball,Women,5.5
+2013,Lawrence,Soccer,Women,3.5
+2013,Lawrence,Cross Country,Women,9
+2013,Lawrence,Tennis,Women,6
+2013,Lawrence,Swimming,Women,8
+2013,Lawrence,Indoor Track & Field,Women,3
+2013,Lawrence,Outdoor Track & Field,Women,3
+2013,Lawrence,Softball,Women,8
+2013,Lawrence,Total,Women,47
+2013,Monmouth,Volleyball,Women,5.5
+2013,Monmouth,Soccer,Women,10
+2013,Monmouth,Cross Country,Women,5
+2013,Monmouth,Tennis,Women,1
+2013,Monmouth,Swimming,Women,7
+2013,Monmouth,Indoor Track & Field,Women,11
+2013,Monmouth,Outdoor Track & Field,Women,11
+2013,Monmouth,Softball,Women,9
+2013,Monmouth,Total,Women,76.5
+2013,Ripon,Volleyball,Women,8
+2013,Ripon,Soccer,Women,6
+2013,Ripon,Cross Country,Women,2
+2013,Ripon,Tennis,Women,3
+2013,Ripon,Swimming,Women,5
+2013,Ripon,Indoor Track & Field,Women,4
+2013,Ripon,Outdoor Track & Field,Women,5
+2013,Ripon,Softball,Women,4.5
+2013,Ripon,Total,Women,49.5
+2013,St. Norbert,Volleyball,Women,9.5
+2013,St. Norbert,Soccer,Women,11
+2013,St. Norbert,Cross Country,Women,8
+2013,St. Norbert,Tennis,Women,9
+2013,St. Norbert,Swimming,Women,--
+2013,St. Norbert,Indoor Track & Field,Women,10
+2013,St. Norbert,Outdoor Track & Field,Women,9
+2013,St. Norbert,Softball,Women,10
+2013,St. Norbert,Total,Women,86
+2014,Beloit,Football,Men,2
+2014,Beloit,Soccer,Men,3
+2014,Beloit,Cross Country,Men,5
+2014,Beloit,Basketball,Men,4.5
+2014,Beloit,Swimming,Men,7
+2014,Beloit,Indoor Track & Field,Men,4
+2014,Beloit,Tennis,Men,-
+2014,Beloit,Outdoor Track & Field,Men,4
+2014,Beloit,Baseball,Men,6.5
+2014,Beloit,Total,Men,36
+2014,Carroll,Football,Men,9
+2014,Carroll,Soccer,Men,8
+2014,Carroll,Cross Country,Men,10
+2014,Carroll,Basketball,Men,3
+2014,Carroll,Swimming,Men,9
+2014,Carroll,Indoor Track & Field,Men,9
+2014,Carroll,Tennis,Men,8.5
+2014,Carroll,Outdoor Track & Field,Men,9
+2014,Carroll,Baseball,Men,4.5
+2014,Carroll,Total,Men,80
+2014,Cornell,Football,Men,7
+2014,Cornell,Soccer,Men,2
+2014,Cornell,Cross Country,Men,7
+2014,Cornell,Basketball,Men,4.5
+2014,Cornell,Swimming,Men,-
+2014,Cornell,Indoor Track & Field,Men,5
+2014,Cornell,Tennis,Men,6
+2014,Cornell,Outdoor Track & Field,Men,6
+2014,Cornell,Baseball,Men,10
+2014,Cornell,Total,Men,47.5
+2014,Grinnell,Football,Men,4
+2014,Grinnell,Soccer,Men,5.5
+2014,Grinnell,Cross Country,Men,11
+2014,Grinnell,Basketball,Men,8.5
+2014,Grinnell,Swimming,Men,10
+2014,Grinnell,Indoor Track & Field,Men,7
+2014,Grinnell,Tennis,Men,11
+2014,Grinnell,Outdoor Track & Field,Men,7
+2014,Grinnell,Baseball,Men,8
+2014,Grinnell,Total,Men,80
+2014,Illinois Col.,Football,Men,11
+2014,Illinois Col.,Soccer,Men,8
+2014,Illinois Col.,Cross Country,Men,2
+2014,Illinois Col.,Basketball,Men,1
+2014,Illinois Col.,Swimming,Men,5
+2014,Illinois Col.,Indoor Track & Field,Men,3
+2014,Illinois Col.,Tennis,Men,2
+2014,Illinois Col.,Outdoor Track & Field,Men,5
+2014,Illinois Col.,Baseball,Men,6.5
+2014,Illinois Col.,Total,Men,49.5
+2014,Knox,Football,Men,1
+2014,Knox,Soccer,Men,11
+2014,Knox,Cross Country,Men,3
+2014,Knox,Basketball,Men,2
+2014,Knox,Swimming,Men,3
+2014,Knox,Indoor Track & Field,Men,2
+2014,Knox,Tennis,Men,4
+2014,Knox,Outdoor Track & Field,Men,2
+2014,Knox,Baseball,Men,2.5
+2014,Knox,Total,Men,30.5
+2014,Lake Forest,Football,Men,6
+2014,Lake Forest,Soccer,Men,10
+2014,Lake Forest,Cross Country,Men,9
+2014,Lake Forest,Basketball,Men,7
+2014,Lake Forest,Swimming,Men,11
+2014,Lake Forest,Indoor Track & Field,Men,-
+2014,Lake Forest,Tennis,Men,10
+2014,Lake Forest,Outdoor Track & Field,Men,-
+2014,Lake Forest,Baseball,Men,-
+2014,Lake Forest,Total,Men,58
+2014,Lawrence,Football,Men,3
+2014,Lawrence,Soccer,Men,4
+2014,Lawrence,Cross Country,Men,8
+2014,Lawrence,Basketball,Men,6
+2014,Lawrence,Swimming,Men,4
+2014,Lawrence,Indoor Track & Field,Men,6
+2014,Lawrence,Tennis,Men,6
+2014,Lawrence,Outdoor Track & Field,Men,3
+2014,Lawrence,Baseball,Men,2.5
+2014,Lawrence,Total,Men,49.5
+2014,Monmouth,Football,Men,10
+2014,Monmouth,Soccer,Men,8
+2014,Monmouth,Cross Country,Men,-
+2014,Monmouth,Basketball,Men,10
+2014,Monmouth,Swimming,Men,8
+2014,Monmouth,Indoor Track & Field,Men,11
+2014,Monmouth,Tennis,Men,8.5
+2014,Monmouth,Outdoor Track & Field,Men,10
+2014,Monmouth,Baseball,Men,4.5
+2014,Monmouth,Total,Men,79
+2014,Ripon,Football,Men,5
+2014,Ripon,Soccer,Men,1
+2014,Ripon,Cross Country,Men,4
+2014,Ripon,Basketball,Men,8.5
+2014,Ripon,Swimming,Men,6
+2014,Ripon,Indoor Track & Field,Men,8
+2014,Ripon,Tennis,Men,3
+2014,Ripon,Outdoor Track & Field,Men,8
+2014,Ripon,Baseball,Men,11
+2014,Ripon,Total,Men,54.5
+2014,St. Norbert,Football,Men,8
+2014,St. Norbert,Soccer,Men,5.5
+2014,St. Norbert,Cross Country,Men,6
+2014,St. Norbert,Basketball,Men,11
+2014,St. Norbert,Swimming,Men,-
+2014,St. Norbert,Indoor Track & Field,Men,10
+2014,St. Norbert,Tennis,Men,6
+2014,St. Norbert,Outdoor Track & Field,Men,11
+2014,St. Norbert,Baseball,Men,9
+2014,St. Norbert,Total,Men,77.5
+2014,Beloit,Volleyball,Women,1
+2014,Beloit,Soccer,Women,2
+2014,Beloit,Cross Country,Women,6
+2014,Beloit,Tennis,Women,4
+2014,Beloit,Basketball,Women,3
+2014,Beloit,Swimming,Women,4
+2014,Beloit,Indoor Track & Field,Women,5
+2014,Beloit,Outdoor Track & Field,Women,5
+2014,Beloit,Softball,Women,4.5
+2014,Beloit,Total,Women,34.5
+2014,Carroll,Volleyball,Women,8.5
+2014,Carroll,Soccer,Women,9
+2014,Carroll,Cross Country,Women,4
+2014,Carroll,Tennis,Women,6
+2014,Carroll,Basketball,Women,10
+2014,Carroll,Swimming,Women,9
+2014,Carroll,Indoor Track & Field,Women,10
+2014,Carroll,Outdoor Track & Field,Women,10
+2014,Carroll,Softball,Women,9
+2014,Carroll,Total,Women,83.5
+2014,Cornell,Volleyball,Women,11
+2014,Cornell,Soccer,Women,5
+2014,Cornell,Cross Country,Women,8
+2014,Cornell,Tennis,Women,10
+2014,Cornell,Basketball,Women,9
+2014,Cornell,Swimming,Women,-
+2014,Cornell,Indoor Track & Field,Women,9
+2014,Cornell,Outdoor Track & Field,Women,9
+2014,Cornell,Softball,Women,8
+2014,Cornell,Total,Women,69
+2014,Grinnell,Volleyball,Women,2.5
+2014,Grinnell,Soccer,Women,8
+2014,Grinnell,Cross Country,Women,11
+2014,Grinnell,Tennis,Women,9
+2014,Grinnell,Basketball,Women,4
+2014,Grinnell,Swimming,Women,11
+2014,Grinnell,Indoor Track & Field,Women,6
+2014,Grinnell,Outdoor Track & Field,Women,7
+2014,Grinnell,Softball,Women,2.5
+2014,Grinnell,Total,Women,72
+2014,Illinois Col.,Volleyball,Women,5
+2014,Illinois Col.,Soccer,Women,7
+2014,Illinois Col.,Cross Country,Women,2
+2014,Illinois Col.,Tennis,Women,2
+2014,Illinois Col.,Basketball,Women,7.5
+2014,Illinois Col.,Swimming,Women,3
+2014,Illinois Col.,Indoor Track & Field,Women,4
+2014,Illinois Col.,Outdoor Track & Field,Women,4
+2014,Illinois Col.,Softball,Women,6.5
+2014,Illinois Col.,Total,Women,50
+2014,Knox,Volleyball,Women,4
+2014,Knox,Soccer,Women,1
+2014,Knox,Cross Country,Women,3
+2014,Knox,Tennis,Women,1
+2014,Knox,Basketball,Women,5.5
+2014,Knox,Swimming,Women,5
+2014,Knox,Indoor Track & Field,Women,2
+2014,Knox,Outdoor Track & Field,Women,2
+2014,Knox,Softball,Women,1
+2014,Knox,Total,Women,24.5
+2014,Lake Forest,Volleyball,Women,8.5
+2014,Lake Forest,Soccer,Women,11
+2014,Lake Forest,Cross Country,Women,7
+2014,Lake Forest,Tennis,Women,8
+2014,Lake Forest,Basketball,Women,7.5
+2014,Lake Forest,Swimming,Women,10
+2014,Lake Forest,Indoor Track & Field,Women,-
+2014,Lake Forest,Outdoor Track & Field,Women,-
+2014,Lake Forest,Softball,Women,11
+2014,Lake Forest,Total,Women,70
+2014,Lawrence,Volleyball,Women,6
+2014,Lawrence,Soccer,Women,4
+2014,Lawrence,Cross Country,Women,9
+2014,Lawrence,Tennis,Women,7
+2014,Lawrence,Basketball,Women,1
+2014,Lawrence,Swimming,Women,8
+2014,Lawrence,Indoor Track & Field,Women,3
+2014,Lawrence,Outdoor Track & Field,Women,3
+2014,Lawrence,Softball,Women,10
+2014,Lawrence,Total,Women,51
+2014,Monmouth,Volleyball,Women,2.5
+2014,Monmouth,Soccer,Women,3
+2014,Monmouth,Cross Country,Women,5
+2014,Monmouth,Tennis,Women,5
+2014,Monmouth,Basketball,Women,5.5
+2014,Monmouth,Swimming,Women,7
+2014,Monmouth,Indoor Track & Field,Women,8
+2014,Monmouth,Outdoor Track & Field,Women,8
+2014,Monmouth,Softball,Women,4.5
+2014,Monmouth,Total,Women,58.5
+2014,Ripon,Volleyball,Women,7
+2014,Ripon,Soccer,Women,10
+2014,Ripon,Cross Country,Women,1
+2014,Ripon,Tennis,Women,3
+2014,Ripon,Basketball,Women,2
+2014,Ripon,Swimming,Women,6
+2014,Ripon,Indoor Track & Field,Women,7
+2014,Ripon,Outdoor Track & Field,Women,6
+2014,Ripon,Softball,Women,2.5
+2014,Ripon,Total,Women,44.5
+2014,St. Norbert,Volleyball,Women,10
+2014,St. Norbert,Soccer,Women,6
+2014,St. Norbert,Cross Country,Women,10
+2014,St. Norbert,Tennis,Women,11
+2014,St. Norbert,Basketball,Women,11
+2014,St. Norbert,Swimming,Women,-
+2014,St. Norbert,Indoor Track & Field,Women,11
+2014,St. Norbert,Outdoor Track & Field,Women,11
+2014,St. Norbert,Softball,Women,6.5
+2014,St. Norbert,Total,Women,82.5
+2015,Beloit,Football,Men,4
+2015,Beloit,Soccer,Men,6
+2015,Beloit,Cross Country,Men,8
+2015,Beloit,Basketball,Men,6.5
+2015,Beloit,Swimming,Men,5
+2015,Beloit,Indoor Track & Field,Men,5
+2015,Beloit,Tennis,Men,-
+2015,Beloit,Outdoor Track & Field,Men,4
+2015,Beloit,Baseball,Men,11
+2015,Beloit,Total,Men,49.5
+2015,Carroll,Football,Men,9
+2015,Carroll,Soccer,Men,9.5
+2015,Carroll,Cross Country,Men,4
+2015,Carroll,Basketball,Men,10
+2015,Carroll,Swimming,Men,9
+2015,Carroll,Indoor Track & Field,Men,8.5
+2015,Carroll,Tennis,Men,6
+2015,Carroll,Outdoor Track & Field,Men,7
+2015,Carroll,Baseball,Men,4.5
+2015,Carroll,Total,Men,78.5
+2015,Cornell,Football,Men,6
+2015,Cornell,Soccer,Men,1
+2015,Cornell,Cross Country,Men,7
+2015,Cornell,Basketball,Men,3.5
+2015,Cornell,Swimming,Men,-
+2015,Cornell,Indoor Track & Field,Men,6
+2015,Cornell,Tennis,Men,6
+2015,Cornell,Outdoor Track & Field,Men,8
+2015,Cornell,Baseball,Men,8
+2015,Cornell,Total,Men,45.5
+2015,Grinnell,Football,Men,2
+2015,Grinnell,Soccer,Men,7.5
+2015,Grinnell,Cross Country,Men,11
+2015,Grinnell,Basketball,Men,3.5
+2015,Grinnell,Swimming,Men,11
+2015,Grinnell,Indoor Track & Field,Men,7
+2015,Grinnell,Tennis,Men,11
+2015,Grinnell,Outdoor Track & Field,Men,6
+2015,Grinnell,Baseball,Men,10
+2015,Grinnell,Total,Men,76
+2015,Illinois College,Football,Men,10
+2015,Illinois College,Soccer,Men,5
+2015,Illinois College,Cross Country,Men,1
+2015,Illinois College,Basketball,Men,2
+2015,Illinois College,Swimming,Men,8
+2015,Illinois College,Indoor Track & Field,Men,3
+2015,Illinois College,Tennis,Men,3
+2015,Illinois College,Outdoor Track & Field,Men,5
+2015,Illinois College,Baseball,Men,2.5
+2015,Illinois College,Total,Men,45.5
+2015,Knox,Football,Men,3
+2015,Knox,Soccer,Men,9.5
+2015,Knox,Cross Country,Men,3
+2015,Knox,Basketball,Men,1
+2015,Knox,Swimming,Men,3
+2015,Knox,Indoor Track & Field,Men,2
+2015,Knox,Tennis,Men,4
+2015,Knox,Outdoor Track & Field,Men,2
+2015,Knox,Baseball,Men,4.5
+2015,Knox,Total,Men,36
+2015,Lake Forest,Football,Men,7
+2015,Lake Forest,Soccer,Men,7.5
+2015,Lake Forest,Cross Country,Men,9
+2015,Lake Forest,Basketball,Men,8
+2015,Lake Forest,Swimming,Men,10
+2015,Lake Forest,Indoor Track & Field,Men,-
+2015,Lake Forest,Tennis,Men,10
+2015,Lake Forest,Outdoor Track & Field,Men,-
+2015,Lake Forest,Baseball,Men,-
+2015,Lake Forest,Total,Men,61
+2015,Lawrence,Football,Men,1
+2015,Lawrence,Soccer,Men,3
+2015,Lawrence,Cross Country,Men,10
+2015,Lawrence,Basketball,Men,5
+2015,Lawrence,Swimming,Men,4
+2015,Lawrence,Indoor Track & Field,Men,4
+2015,Lawrence,Tennis,Men,8.5
+2015,Lawrence,Outdoor Track & Field,Men,3
+2015,Lawrence,Baseball,Men,2.5
+2015,Lawrence,Total,Men,46
+2015,Monmouth,Football,Men,11
+2015,Monmouth,Soccer,Men,4
+2015,Monmouth,Cross Country,Men,5
+2015,Monmouth,Basketball,Men,6.5
+2015,Monmouth,Swimming,Men,6
+2015,Monmouth,Indoor Track & Field,Men,11
+2015,Monmouth,Tennis,Men,8.5
+2015,Monmouth,Outdoor Track & Field,Men,11
+2015,Monmouth,Baseball,Men,6.5
+2015,Monmouth,Total,Men,79
+2015,Ripon,Football,Men,8
+2015,Ripon,Soccer,Men,2
+2015,Ripon,Cross Country,Men,2
+2015,Ripon,Basketball,Men,9
+2015,Ripon,Swimming,Men,7
+2015,Ripon,Indoor Track & Field,Men,8.5
+2015,Ripon,Tennis,Men,2
+2015,Ripon,Outdoor Track & Field,Men,9
+2015,Ripon,Baseball,Men,6.5
+2015,Ripon,Total,Men,54
+2015,St. Norbert,Football,Men,12
+2015,St. Norbert,Soccer,Men,11
+2015,St. Norbert,Cross Country,Men,6
+2015,St. Norbert,Basketball,Men,11
+2015,St. Norbert,Swimming,Men,-
+2015,St. Norbert,Indoor Track & Field,Men,10
+2015,St. Norbert,Tennis,Men,6
+2015,St. Norbert,Outdoor Track & Field,Men,10
+2015,St. Norbert,Baseball,Men,9
+2015,St. Norbert,Total,Men,83
+2015,Beloit,Volleyball,Women,1
+2015,Beloit,Soccer,Women,5.5
+2015,Beloit,Cross Country,Women,5
+2015,Beloit,Tennis,Women,3.5
+2015,Beloit,Basketball,Women,3.5
+2015,Beloit,Swimming,Women,5
+2015,Beloit,Indoor Track & Field,Women,7
+2015,Beloit,Outdoor Track & Field,Women,5
+2015,Beloit,Softball,Women,4
+2015,Beloit,Total,Women,39.5
+2015,Carroll,Volleyball,Women,8
+2015,Carroll,Soccer,Women,9.5
+2015,Carroll,Cross Country,Women,6
+2015,Carroll,Tennis,Women,8
+2015,Carroll,Basketball,Women,5
+2015,Carroll,Swimming,Women,10
+2015,Carroll,Indoor Track & Field,Women,8
+2015,Carroll,Outdoor Track & Field,Women,8
+2015,Carroll,Softball,Women,9
+2015,Carroll,Total,Women,81.5
+2015,Cornell,Volleyball,Women,10.5
+2015,Cornell,Soccer,Women,1
+2015,Cornell,Cross Country,Women,11
+2015,Cornell,Tennis,Women,7
+2015,Cornell,Basketball,Women,10
+2015,Cornell,Swimming,Women,--
+2015,Cornell,Indoor Track & Field,Women,9
+2015,Cornell,Outdoor Track & Field,Women,9
+2015,Cornell,Softball,Women,7.5
+2015,Cornell,Total,Women,65
+2015,Grinnell,Volleyball,Women,2
+2015,Grinnell,Soccer,Women,2.5
+2015,Grinnell,Cross Country,Women,9
+2015,Grinnell,Tennis,Women,10
+2015,Grinnell,Basketball,Women,9
+2015,Grinnell,Swimming,Women,11
+2015,Grinnell,Indoor Track & Field,Women,4
+2015,Grinnell,Outdoor Track & Field,Women,7
+2015,Grinnell,Softball,Women,5
+2015,Grinnell,Total,Women,70.5
+2015,Illinois College,Volleyball,Women,3.5
+2015,Illinois College,Soccer,Women,4
+2015,Illinois College,Cross Country,Women,1
+2015,Illinois College,Tennis,Women,1.5
+2015,Illinois College,Basketball,Women,6.5
+2015,Illinois College,Swimming,Women,3
+2015,Illinois College,Indoor Track & Field,Women,6
+2015,Illinois College,Outdoor Track & Field,Women,4
+2015,Illinois College,Softball,Women,7.5
+2015,Illinois College,Total,Women,42
+2015,Knox,Volleyball,Women,5
+2015,Knox,Soccer,Women,8
+2015,Knox,Cross Country,Women,3
+2015,Knox,Tennis,Women,3.5
+2015,Knox,Basketball,Women,3.5
+2015,Knox,Swimming,Women,4
+2015,Knox,Indoor Track & Field,Women,2
+2015,Knox,Outdoor Track & Field,Women,3
+2015,Knox,Softball,Women,1
+2015,Knox,Total,Women,33
+2015,Lake Forest,Volleyball,Women,6
+2015,Lake Forest,Soccer,Women,11
+2015,Lake Forest,Cross Country,Women,7
+2015,Lake Forest,Tennis,Women,10
+2015,Lake Forest,Basketball,Women,6.5
+2015,Lake Forest,Swimming,Women,8
+2015,Lake Forest,Indoor Track & Field,Women,--
+2015,Lake Forest,Outdoor Track & Field,Women,-
+2015,Lake Forest,Softball,Women,11
+2015,Lake Forest,Total,Women,67.5
+2015,Lawrence,Volleyball,Women,7
+2015,Lawrence,Soccer,Women,5.5
+2015,Lawrence,Cross Country,Women,4
+2015,Lawrence,Tennis,Women,6
+2015,Lawrence,Basketball,Women,1
+2015,Lawrence,Swimming,Women,9
+2015,Lawrence,Indoor Track & Field,Women,3
+2015,Lawrence,Outdoor Track & Field,Women,2
+2015,Lawrence,Softball,Women,6
+2015,Lawrence,Total,Women,43.5
+2015,Monmouth,Volleyball,Women,3.5
+2015,Monmouth,Soccer,Women,7
+2015,Monmouth,Cross Country,Women,8
+2015,Monmouth,Tennis,Women,5
+2015,Monmouth,Basketball,Women,2
+2015,Monmouth,Swimming,Women,6
+2015,Monmouth,Indoor Track & Field,Women,10
+2015,Monmouth,Outdoor Track & Field,Women,10
+2015,Monmouth,Softball,Women,10
+2015,Monmouth,Total,Women,70.5
+2015,Ripon,Volleyball,Women,10.5
+2015,Ripon,Soccer,Women,2.5
+2015,Ripon,Cross Country,Women,2
+2015,Ripon,Tennis,Women,1.5
+2015,Ripon,Basketball,Women,8
+2015,Ripon,Swimming,Women,7
+2015,Ripon,Indoor Track & Field,Women,5
+2015,Ripon,Outdoor Track & Field,Women,6
+2015,Ripon,Softball,Women,2
+2015,Ripon,Total,Women,44.5
+2015,St. Norbert,Volleyball,Women,9
+2015,St. Norbert,Soccer,Women,9.5
+2015,St. Norbert,Cross Country,Women,10
+2015,St. Norbert,Tennis,Women,10
+2015,St. Norbert,Basketball,Women,11
+2015,St. Norbert,Swimming,Women,--
+2015,St. Norbert,Indoor Track & Field,Women,11
+2015,St. Norbert,Outdoor Track & Field,Women,11
+2015,St. Norbert,Softball,Women,3
+2015,St. Norbert,Total,Women,80.5
+2016,Beloit,Football,Men,3.5
+2016,Beloit,Soccer,Men,2.5
+2016,Beloit,Cross Country,Men,4
+2016,Beloit,Basketball,Men,4
+2016,Beloit,Swimming,Men,4
+2016,Beloit,Indoor Track & Field,Men,6
+2016,Beloit,Tennis,Men,-
+2016,Beloit,Outdoor Track & Field,Men,6
+2016,Beloit,Baseball,Men,9
+2016,Beloit,Total,Men,39
+2016,Cornell,Football,Men,6
+2016,Cornell,Soccer,Men,4
+2016,Cornell,Cross Country,Men,8
+2016,Cornell,Basketball,Men,8.5
+2016,Cornell,Swimming,Men,-
+2016,Cornell,Indoor Track & Field,Men,8
+2016,Cornell,Tennis,Men,7.5
+2016,Cornell,Outdoor Track & Field,Men,9
+2016,Cornell,Baseball,Men,8
+2016,Cornell,Total,Men,59
+2016,Grinnell,Football,Men,1
+2016,Grinnell,Soccer,Men,7
+2016,Grinnell,Cross Country,Men,10
+2016,Grinnell,Basketball,Men,6
+2016,Grinnell,Swimming,Men,10
+2016,Grinnell,Indoor Track & Field,Men,4
+2016,Grinnell,Tennis,Men,10
+2016,Grinnell,Outdoor Track & Field,Men,4
+2016,Grinnell,Baseball,Men,7
+2016,Grinnell,Total,Men,64
+2016,Illinois College,Football,Men,7
+2016,Illinois College,Soccer,Men,5
+2016,Illinois College,Cross Country,Men,-
+2016,Illinois College,Basketball,Men,3
+2016,Illinois College,Swimming,Men,6
+2016,Illinois College,Indoor Track & Field,Men,7
+2016,Illinois College,Tennis,Men,4
+2016,Illinois College,Outdoor Track & Field,Men,7
+2016,Illinois College,Baseball,Men,2
+2016,Illinois College,Total,Men,48
+2016,Knox,Football,Men,3.5
+2016,Knox,Soccer,Men,9
+2016,Knox,Cross Country,Men,3
+2016,Knox,Basketball,Men,2
+2016,Knox,Swimming,Men,3
+2016,Knox,Indoor Track & Field,Men,2
+2016,Knox,Tennis,Men,3
+2016,Knox,Outdoor Track & Field,Men,2
+2016,Knox,Baseball,Men,4.5
+2016,Knox,Total,Men,38
+2016,Lake Forest,Football,Men,8.5
+2016,Lake Forest,Soccer,Men,10
+2016,Lake Forest,Cross Country,Men,6
+2016,Lake Forest,Basketball,Men,8.5
+2016,Lake Forest,Swimming,Men,9
+2016,Lake Forest,Indoor Track & Field,Men,-
+2016,Lake Forest,Tennis,Men,9
+2016,Lake Forest,Outdoor Track & Field,Men,-
+2016,Lake Forest,Baseball,Men,-
+2016,Lake Forest,Total,Men,60
+2016,Lawrence,Football,Men,3.5
+2016,Lawrence,Soccer,Men,2.5
+2016,Lawrence,Cross Country,Men,7
+2016,Lawrence,Basketball,Men,7
+2016,Lawrence,Swimming,Men,7
+2016,Lawrence,Indoor Track & Field,Men,3
+2016,Lawrence,Tennis,Men,7.5
+2016,Lawrence,Outdoor Track & Field,Men,3
+2016,Lawrence,Baseball,Men,3.5
+2016,Lawrence,Total,Men,44
+2016,Monmouth,Football,Men,11
+2016,Monmouth,Soccer,Men,6
+2016,Monmouth,Cross Country,Men,9
+2016,Monmouth,Basketball,Men,5
+2016,Monmouth,Swimming,Men,8
+2016,Monmouth,Indoor Track & Field,Men,10
+2016,Monmouth,Tennis,Men,6
+2016,Monmouth,Outdoor Track & Field,Men,10
+2016,Monmouth,Baseball,Men,4.5
+2016,Monmouth,Total,Men,77.5
+2016,Ripon,Football,Men,3.5
+2016,Ripon,Soccer,Men,1
+2016,Ripon,Cross Country,Men,2
+2016,Ripon,Basketball,Men,9
+2016,Ripon,Swimming,Men,5
+2016,Ripon,Indoor Track & Field,Men,5
+2016,Ripon,Tennis,Men,2
+2016,Ripon,Outdoor Track & Field,Men,5
+2016,Ripon,Baseball,Men,5.5
+2016,Ripon,Total,Men,38
+2016,St. Norbert,Football,Men,10
+2016,St. Norbert,Soccer,Men,8
+2016,St. Norbert,Cross Country,Men,5
+2016,St. Norbert,Basketball,Men,10
+2016,St. Norbert,Swimming,Men,-
+2016,St. Norbert,Indoor Track & Field,Men,9
+2016,St. Norbert,Tennis,Men,5
+2016,St. Norbert,Outdoor Track & Field,Men,8
+2016,St. Norbert,Baseball,Men,10
+2016,St. Norbert,Total,Men,75
+2016,Beloit,Volleyball,Women,1
+2016,Beloit,Soccer,Women,3
+2016,Beloit,Cross Country,Women,5
+2016,Beloit,Tennis,Women,1
+2016,Beloit,Basketball,Women,2.5
+2016,Beloit,Swimming,Women,3
+2016,Beloit,Indoor Track & Field,Women,4
+2016,Beloit,Outdoor Track & Field,Women,4
+2016,Beloit,Softball,Women,2.5
+2016,Beloit,Total,Women,26
+2016,Cornell,Volleyball,Women,10
+2016,Cornell,Soccer,Women,2
+2016,Cornell,Cross Country,Women,9
+2016,Cornell,Tennis,Women,8
+2016,Cornell,Basketball,Women,10
+2016,Cornell,Swimming,Women,-
+2016,Cornell,Indoor Track & Field,Women,8
+2016,Cornell,Outdoor Track & Field,Women,8
+2016,Cornell,Softball,Women,9
+2016,Cornell,Total,Women,64
+2016,Grinnell,Volleyball,Women,8
+2016,Grinnell,Soccer,Women,8.5
+2016,Grinnell,Cross Country,Women,8
+2016,Grinnell,Tennis,Women,10
+2016,Grinnell,Basketball,Women,7
+2016,Grinnell,Swimming,Women,10
+2016,Grinnell,Indoor Track & Field,Women,6
+2016,Grinnell,Outdoor Track & Field,Women,6
+2016,Grinnell,Softball,Women,4
+2016,Grinnell,Total,Women,77.5
+2016,Illinois College,Volleyball,Women,5
+2016,Illinois College,Soccer,Women,5
+2016,Illinois College,Cross Country,Women,2
+2016,Illinois College,Tennis,Women,3
+2016,Illinois College,Basketball,Women,5
+2016,Illinois College,Swimming,Women,5
+2016,Illinois College,Indoor Track & Field,Women,7
+2016,Illinois College,Outdoor Track & Field,Women,7
+2016,Illinois College,Softball,Women,8
+2016,Illinois College,Total,Women,54
+2016,Knox,Volleyball,Women,3
+2016,Knox,Soccer,Women,10
+2016,Knox,Cross Country,Women,3
+2016,Knox,Tennis,Women,5
+2016,Knox,Basketball,Women,6
+2016,Knox,Swimming,Women,6
+2016,Knox,Indoor Track & Field,Women,2
+2016,Knox,Outdoor Track & Field,Women,3
+2016,Knox,Softball,Women,1
+2016,Knox,Total,Women,39
+2016,Lake Forest,Volleyball,Women,4
+2016,Lake Forest,Soccer,Women,8.5
+2016,Lake Forest,Cross Country,Women,7
+2016,Lake Forest,Tennis,Women,7
+2016,Lake Forest,Basketball,Women,4
+2016,Lake Forest,Swimming,Women,8
+2016,Lake Forest,Indoor Track & Field,Women,-
+2016,Lake Forest,Outdoor Track & Field,Women,-
+2016,Lake Forest,Softball,Women,7
+2016,Lake Forest,Total,Women,53.5
+2016,Lawrence,Volleyball,Women,6.5
+2016,Lawrence,Soccer,Women,1
+2016,Lawrence,Cross Country,Women,4
+2016,Lawrence,Tennis,Women,6
+2016,Lawrence,Basketball,Women,1
+2016,Lawrence,Swimming,Women,9
+2016,Lawrence,Indoor Track & Field,Women,3
+2016,Lawrence,Outdoor Track & Field,Women,2
+2016,Lawrence,Softball,Women,2.5
+2016,Lawrence,Total,Women,35
+2016,Monmouth,Volleyball,Women,2
+2016,Monmouth,Soccer,Women,4
+2016,Monmouth,Cross Country,Women,6
+2016,Monmouth,Tennis,Women,2
+2016,Monmouth,Basketball,Women,2.5
+2016,Monmouth,Swimming,Women,4
+2016,Monmouth,Indoor Track & Field,Women,9
+2016,Monmouth,Outdoor Track & Field,Women,9
+2016,Monmouth,Softball,Women,6
+2016,Monmouth,Total,Women,53.5
+2016,Ripon,Volleyball,Women,6.5
+2016,Ripon,Soccer,Women,6.5
+2016,Ripon,Cross Country,Women,-
+2016,Ripon,Tennis,Women,4
+2016,Ripon,Basketball,Women,8.5
+2016,Ripon,Swimming,Women,7
+2016,Ripon,Indoor Track & Field,Women,5
+2016,Ripon,Outdoor Track & Field,Women,5
+2016,Ripon,Softball,Women,5
+2016,Ripon,Total,Women,47.5
+2016,St. Norbert,Volleyball,Women,9
+2016,St. Norbert,Soccer,Women,6.5
+2016,St. Norbert,Cross Country,Women,10
+2016,St. Norbert,Tennis,Women,9
+2016,St. Norbert,Basketball,Women,8.5
+2016,St. Norbert,Swimming,Women,-
+2016,St. Norbert,Indoor Track & Field,Women,10
+2016,St. Norbert,Outdoor Track & Field,Women,10
+2016,St. Norbert,Softball,Women,10
+2016,St. Norbert,Total,Women,79
+2017,Beloit,Football,Men,2
+2017,Beloit,Soccer,Men,3
+2017,Beloit,Cross Country,Men,4
+2017,Beloit,Basketball,Men,2
+2017,Beloit,Swimming,Men,4
+2017,Beloit,Indoor Track & Field,Men,4
+2017,Beloit,Tennis,Men,
+2017,Beloit,Outdoor Track & Field,Men,7
+2017,Beloit,Baseball,Men,3.5
+2017,Beloit,Total,Men,29.5
+2017,Cornell,Football,Men,5
+2017,Cornell,Soccer,Men,5
+2017,Cornell,Cross Country,Men,10
+2017,Cornell,Basketball,Men,4.5
+2017,Cornell,Swimming,Men,
+2017,Cornell,Indoor Track & Field,Men,7
+2017,Cornell,Tennis,Men,4
+2017,Cornell,Outdoor Track & Field,Men,8
+2017,Cornell,Baseball,Men,5.5
+2017,Cornell,Total,Men,49
+2017,Grinnell,Football,Men,1
+2017,Grinnell,Soccer,Men,7
+2017,Grinnell,Cross Country,Men,9
+2017,Grinnell,Basketball,Men,6
+2017,Grinnell,Swimming,Men,10
+2017,Grinnell,Indoor Track & Field,Men,3
+2017,Grinnell,Tennis,Men,10
+2017,Grinnell,Outdoor Track & Field,Men,1
+2017,Grinnell,Baseball,Men,8
+2017,Grinnell,Total,Men,55
+2017,Illinois College,Football,Men,8
+2017,Illinois College,Soccer,Men,6
+2017,Illinois College,Cross Country,Men,1
+2017,Illinois College,Basketball,Men,1
+2017,Illinois College,Swimming,Men,5
+2017,Illinois College,Indoor Track & Field,Men,9
+2017,Illinois College,Tennis,Men,5
+2017,Illinois College,Outdoor Track & Field,Men,9
+2017,Illinois College,Baseball,Men,3.5
+2017,Illinois College,Total,Men,55.5
+2017,Knox,Football,Men,4
+2017,Knox,Soccer,Men,9.5
+2017,Knox,Cross Country,Men,3
+2017,Knox,Basketball,Men,3
+2017,Knox,Swimming,Men,3
+2017,Knox,Indoor Track & Field,Men,5
+2017,Knox,Tennis,Men,2
+2017,Knox,Outdoor Track & Field,Men,4
+2017,Knox,Baseball,Men,2
+2017,Knox,Total,Men,44.5
+2017,Lake Forest,Football,Men,9
+2017,Lake Forest,Soccer,Men,8
+2017,Lake Forest,Cross Country,Men,8
+2017,Lake Forest,Basketball,Men,7
+2017,Lake Forest,Swimming,Men,9
+2017,Lake Forest,Indoor Track & Field,Men,1
+2017,Lake Forest,Tennis,Men,9
+2017,Lake Forest,Outdoor Track & Field,Men,2
+2017,Lake Forest,Baseball,Men,
+2017,Lake Forest,Total,Men,63
+2017,Lawrence,Football,Men,3
+2017,Lawrence,Soccer,Men,1.5
+2017,Lawrence,Cross Country,Men,7
+2017,Lawrence,Basketball,Men,4.5
+2017,Lawrence,Swimming,Men,7
+2017,Lawrence,Indoor Track & Field,Men,6
+2017,Lawrence,Tennis,Men,8
+2017,Lawrence,Outdoor Track & Field,Men,3
+2017,Lawrence,Baseball,Men,7
+2017,Lawrence,Total,Men,47
+2017,Monmouth,Football,Men,12
+2017,Monmouth,Soccer,Men,4
+2017,Monmouth,Cross Country,Men,6
+2017,Monmouth,Basketball,Men,10
+2017,Monmouth,Swimming,Men,6
+2017,Monmouth,Indoor Track & Field,Men,10
+2017,Monmouth,Tennis,Men,6.5
+2017,Monmouth,Outdoor Track & Field,Men,10
+2017,Monmouth,Baseball,Men,10
+2017,Monmouth,Total,Men,80.5
+2017,Ripon,Football,Men,6
+2017,Ripon,Soccer,Men,1.5
+2017,Ripon,Cross Country,Men,2
+2017,Ripon,Basketball,Men,8.5
+2017,Ripon,Swimming,Men,8
+2017,Ripon,Indoor Track & Field,Men,2
+2017,Ripon,Tennis,Men,3
+2017,Ripon,Outdoor Track & Field,Men,5
+2017,Ripon,Baseball,Men,5.5
+2017,Ripon,Total,Men,41.5
+2017,St. Norbert,Football,Men,11
+2017,St. Norbert,Soccer,Men,9.5
+2017,St. Norbert,Cross Country,Men,5
+2017,St. Norbert,Basketball,Men,8.5
+2017,St. Norbert,Swimming,Men,
+2017,St. Norbert,Indoor Track & Field,Men,8
+2017,St. Norbert,Tennis,Men,6.5
+2017,St. Norbert,Outdoor Track & Field,Men,6
+2017,St. Norbert,Baseball,Men,9
+2017,St. Norbert,Total,Men,70.5
+2017,Beloit,Volleyball,Women,3
+2017,Beloit,Soccer,Women,3
+2017,Beloit,Cross Country,Women,4
+2017,Beloit,Tennis,Women,1
+2017,Beloit,Basketball,Women,2
+2017,Beloit,Swimming,Women,6
+2017,Beloit,Indoor Track & Field,Women,7
+2017,Beloit,Outdoor Track & Field,Women,7.5
+2017,Beloit,Softball,Women,1
+2017,Beloit,Total,Women,34.5
+2017,Cornell,Volleyball,Women,10
+2017,Cornell,Soccer,Women,4.5
+2017,Cornell,Cross Country,Women,7
+2017,Cornell,Tennis,Women,8
+2017,Cornell,Basketball,Women,9.5
+2017,Cornell,Swimming,Women,
+2017,Cornell,Indoor Track & Field,Women,8
+2017,Cornell,Outdoor Track & Field,Women,7.5
+2017,Cornell,Softball,Women,6.5
+2017,Cornell,Total,Women,61
+2017,Grinnell,Volleyball,Women,7
+2017,Grinnell,Soccer,Women,7.5
+2017,Grinnell,Cross Country,Women,9
+2017,Grinnell,Tennis,Women,10
+2017,Grinnell,Basketball,Women,3
+2017,Grinnell,Swimming,Women,10
+2017,Grinnell,Indoor Track & Field,Women,4
+2017,Grinnell,Outdoor Track & Field,Women,4
+2017,Grinnell,Softball,Women,8
+2017,Grinnell,Total,Women,72.5
+2017,Illinois College,Volleyball,Women,4.5
+2017,Illinois College,Soccer,Women,2
+2017,Illinois College,Cross Country,Women,2
+2017,Illinois College,Tennis,Women,3
+2017,Illinois College,Basketball,Women,5
+2017,Illinois College,Swimming,Women,5
+2017,Illinois College,Indoor Track & Field,Women,5
+2017,Illinois College,Outdoor Track & Field,Women,5
+2017,Illinois College,Softball,Women,9
+2017,Illinois College,Total,Women,46.5
+2017,Knox,Volleyball,Women,1.5
+2017,Knox,Soccer,Women,9.5
+2017,Knox,Cross Country,Women,3
+2017,Knox,Tennis,Women,6
+2017,Knox,Basketball,Women,8
+2017,Knox,Swimming,Women,3
+2017,Knox,Indoor Track & Field,Women,3
+2017,Knox,Outdoor Track & Field,Women,3
+2017,Knox,Softball,Women,2
+2017,Knox,Total,Women,39
+2017,Lake Forest,Volleyball,Women,4.5
+2017,Lake Forest,Soccer,Women,6
+2017,Lake Forest,Cross Country,Women,6
+2017,Lake Forest,Tennis,Women,9
+2017,Lake Forest,Basketball,Women,7
+2017,Lake Forest,Swimming,Women,9
+2017,Lake Forest,Indoor Track & Field,Women,1
+2017,Lake Forest,Outdoor Track & Field,Women,1
+2017,Lake Forest,Softball,Women,10
+2017,Lake Forest,Total,Women,61.5
+2017,Lawrence,Volleyball,Women,7
+2017,Lawrence,Soccer,Women,1
+2017,Lawrence,Cross Country,Women,5
+2017,Lawrence,Tennis,Women,5
+2017,Lawrence,Basketball,Women,5
+2017,Lawrence,Swimming,Women,8
+2017,Lawrence,Indoor Track & Field,Women,2
+2017,Lawrence,Outdoor Track & Field,Women,2
+2017,Lawrence,Softball,Women,3
+2017,Lawrence,Total,Women,38
+2017,Monmouth,Volleyball,Women,1.5
+2017,Monmouth,Soccer,Women,7.5
+2017,Monmouth,Cross Country,Women,8
+2017,Monmouth,Tennis,Women,4
+2017,Monmouth,Basketball,Women,5
+2017,Monmouth,Swimming,Women,4
+2017,Monmouth,Indoor Track & Field,Women,9
+2017,Monmouth,Outdoor Track & Field,Women,9
+2017,Monmouth,Softball,Women,5
+2017,Monmouth,Total,Women,60
+2017,Ripon,Volleyball,Women,7
+2017,Ripon,Soccer,Women,4.5
+2017,Ripon,Cross Country,Women,
+2017,Ripon,Tennis,Women,2
+2017,Ripon,Basketball,Women,9.5
+2017,Ripon,Swimming,Women,7
+2017,Ripon,Indoor Track & Field,Women,6
+2017,Ripon,Outdoor Track & Field,Women,6
+2017,Ripon,Softball,Women,6.5
+2017,Ripon,Total,Women,48.5
+2017,St. Norbert,Volleyball,Women,9
+2017,St. Norbert,Soccer,Women,9.5
+2017,St. Norbert,Cross Country,Women,10
+2017,St. Norbert,Tennis,Women,7
+2017,St. Norbert,Basketball,Women,
+2017,St. Norbert,Swimming,Women,
+2017,St. Norbert,Indoor Track & Field,Women,10
+2017,St. Norbert,Outdoor Track & Field,Women,10
+2017,St. Norbert,Softball,Women,4
+2017,St. Norbert,Total,Women,68.5
+2018,Beloit,Football,Men,1
+2018,Beloit,Soccer,Men,3
+2018,Beloit,Cross Country,Men,3
+2018,Beloit,Basketball,Men,3
+2018,Beloit,Swimming,Men,3
+2018,Beloit,Indoor Track & Field,Men,4
+2018,Beloit,Tennis,Men,
+2018,Beloit,Outdoor Track & Field,Men,6
+2018,Beloit,Baseball,Men,3.5
+2018,Beloit,Total,Men,26.5
+2018,Cornell,Football,Men,4
+2018,Cornell,Soccer,Men,8
+2018,Cornell,Cross Country,Men,10
+2018,Cornell,Basketball,Men,2
+2018,Cornell,Swimming,Men,
+2018,Cornell,Indoor Track & Field,Men,7
+2018,Cornell,Tennis,Men,7
+2018,Cornell,Outdoor Track & Field,Men,7
+2018,Cornell,Baseball,Men,10
+2018,Cornell,Total,Men,55
+2018,Grinnell,Football,Men,2
+2018,Grinnell,Soccer,Men,6
+2018,Grinnell,Cross Country,Men,9
+2018,Grinnell,Basketball,Men,9
+2018,Grinnell,Swimming,Men,10
+2018,Grinnell,Indoor Track & Field,Men,5
+2018,Grinnell,Tennis,Men,10
+2018,Grinnell,Outdoor Track & Field,Men,5
+2018,Grinnell,Baseball,Men,5.5
+2018,Grinnell,Total,Men,66.5
+2018,Illinois College,Football,Men,6
+2018,Illinois College,Soccer,Men,4
+2018,Illinois College,Cross Country,Men,1
+2018,Illinois College,Basketball,Men,4
+2018,Illinois College,Swimming,Men,4
+2018,Illinois College,Indoor Track & Field,Men,8
+2018,Illinois College,Tennis,Men,6
+2018,Illinois College,Outdoor Track & Field,Men,8
+2018,Illinois College,Baseball,Men,3.5
+2018,Illinois College,Total,Men,51.5
+2018,Knox,Football,Men,7
+2018,Knox,Soccer,Men,9
+2018,Knox,Cross Country,Men,2
+2018,Knox,Basketball,Men,1
+2018,Knox,Swimming,Men,2
+2018,Knox,Indoor Track & Field,Men,3
+2018,Knox,Tennis,Men,2
+2018,Knox,Outdoor Track & Field,Men,3
+2018,Knox,Baseball,Men,1.5
+2018,Knox,Total,Men,38.5
+2018,Lake Forest,Football,Men,9
+2018,Lake Forest,Soccer,Men,7
+2018,Lake Forest,Cross Country,Men,8
+2018,Lake Forest,Basketball,Men,8
+2018,Lake Forest,Swimming,Men,9
+2018,Lake Forest,Indoor Track & Field,Men,2
+2018,Lake Forest,Tennis,Men,8.5
+2018,Lake Forest,Outdoor Track & Field,Men,1
+2018,Lake Forest,Baseball,Men,
+2018,Lake Forest,Total,Men,62.5
+2018,Lawrence,Football,Men,3
+2018,Lawrence,Soccer,Men,2
+2018,Lawrence,Cross Country,Men,6
+2018,Lawrence,Basketball,Men,5
+2018,Lawrence,Swimming,Men,6
+2018,Lawrence,Indoor Track & Field,Men,1
+2018,Lawrence,Tennis,Men,8.5
+2018,Lawrence,Outdoor Track & Field,Men,2
+2018,Lawrence,Baseball,Men,1.5
+2018,Lawrence,Total,Men,35
+2018,Monmouth,Football,Men,11
+2018,Monmouth,Soccer,Men,5
+2018,Monmouth,Cross Country,Men,7
+2018,Monmouth,Basketball,Men,6.5
+2018,Monmouth,Swimming,Men,8
+2018,Monmouth,Indoor Track & Field,Men,10
+2018,Monmouth,Tennis,Men,4.5
+2018,Monmouth,Outdoor Track & Field,Men,10
+2018,Monmouth,Baseball,Men,7
+2018,Monmouth,Total,Men,75
+2018,Ripon,Football,Men,8
+2018,Ripon,Soccer,Men,1
+2018,Ripon,Cross Country,Men,4
+2018,Ripon,Basketball,Men,6.5
+2018,Ripon,Swimming,Men,4
+2018,Ripon,Indoor Track & Field,Men,6
+2018,Ripon,Tennis,Men,3
+2018,Ripon,Outdoor Track & Field,Men,4
+2018,Ripon,Baseball,Men,9
+2018,Ripon,Total,Men,45.5
+2018,St. Norbert,Football,Men,12
+2018,St. Norbert,Soccer,Men,10
+2018,St. Norbert,Cross Country,Men,5
+2018,St. Norbert,Basketball,Men,10
+2018,St. Norbert,Swimming,Men,7
+2018,St. Norbert,Indoor Track & Field,Men,9
+2018,St. Norbert,Tennis,Men,4.5
+2018,St. Norbert,Outdoor Track & Field,Men,9
+2018,St. Norbert,Baseball,Men,5.5
+2018,St. Norbert,Total,Men,81
+2018,Beloit,Volleyball,Women,3
+2018,Beloit,Soccer,Women,4
+2018,Beloit,Cross Country,Women,3
+2018,Beloit,Tennis,Women,3
+2018,Beloit,Basketball,Women,4.5
+2018,Beloit,Swimming,Women,3
+2018,Beloit,Indoor Track & Field,Women,8
+2018,Beloit,Outdoor Track & Field,Women,8
+2018,Beloit,Softball,Women,1
+2018,Beloit,Total,Women,37.5
+2018,Cornell,Volleyball,Women,10
+2018,Cornell,Soccer,Women,4
+2018,Cornell,Cross Country,Women,7
+2018,Cornell,Tennis,Women,8
+2018,Cornell,Basketball,Women,4.5
+2018,Cornell,Swimming,Women,
+2018,Cornell,Indoor Track & Field,Women,3.5
+2018,Cornell,Outdoor Track & Field,Women,4
+2018,Cornell,Softball,Women,5.5
+2018,Cornell,Total,Women,46.5
+2018,Grinnell,Volleyball,Women,8.5
+2018,Grinnell,Soccer,Women,9
+2018,Grinnell,Cross Country,Women,8
+2018,Grinnell,Tennis,Women,9
+2018,Grinnell,Basketball,Women,2.5
+2018,Grinnell,Swimming,Women,10
+2018,Grinnell,Indoor Track & Field,Women,6
+2018,Grinnell,Outdoor Track & Field,Women,7
+2018,Grinnell,Softball,Women,8
+2018,Grinnell,Total,Women,78
+2018,Illinois College,Volleyball,Women,7
+2018,Illinois College,Soccer,Women,2
+2018,Illinois College,Cross Country,Women,
+2018,Illinois College,Tennis,Women,3
+2018,Illinois College,Basketball,Women,2.5
+2018,Illinois College,Swimming,Women,7
+2018,Illinois College,Indoor Track & Field,Women,7
+2018,Illinois College,Outdoor Track & Field,Women,5
+2018,Illinois College,Softball,Women,8
+2018,Illinois College,Total,Women,48.5
+2018,Knox,Volleyball,Women,1
+2018,Knox,Soccer,Women,10
+2018,Knox,Cross Country,Women,2
+2018,Knox,Tennis,Women,1
+2018,Knox,Basketball,Women,6.5
+2018,Knox,Swimming,Women,2
+2018,Knox,Indoor Track & Field,Women,1
+2018,Knox,Outdoor Track & Field,Women,2.5
+2018,Knox,Softball,Women,2
+2018,Knox,Total,Women,28
+2018,Lake Forest,Volleyball,Women,6
+2018,Lake Forest,Soccer,Women,6
+2018,Lake Forest,Cross Country,Women,6
+2018,Lake Forest,Tennis,Women,10
+2018,Lake Forest,Basketball,Women,8
+2018,Lake Forest,Swimming,Women,8
+2018,Lake Forest,Indoor Track & Field,Women,3.5
+2018,Lake Forest,Outdoor Track & Field,Women,1
+2018,Lake Forest,Softball,Women,10
+2018,Lake Forest,Total,Women,67.5
+2018,Lawrence,Volleyball,Women,3
+2018,Lawrence,Soccer,Women,1
+2018,Lawrence,Cross Country,Women,5
+2018,Lawrence,Tennis,Women,3
+2018,Lawrence,Basketball,Women,1
+2018,Lawrence,Swimming,Women,9
+2018,Lawrence,Indoor Track & Field,Women,2
+2018,Lawrence,Outdoor Track & Field,Women,2.5
+2018,Lawrence,Softball,Women,4
+2018,Lawrence,Total,Women,30.5
+2018,Monmouth,Volleyball,Women,3
+2018,Monmouth,Soccer,Women,4
+2018,Monmouth,Cross Country,Women,9
+2018,Monmouth,Tennis,Women,5
+2018,Monmouth,Basketball,Women,9
+2018,Monmouth,Swimming,Women,5
+2018,Monmouth,Indoor Track & Field,Women,9
+2018,Monmouth,Outdoor Track & Field,Women,9
+2018,Monmouth,Softball,Women,5.5
+2018,Monmouth,Total,Women,66.5
+2018,Ripon,Volleyball,Women,5
+2018,Ripon,Soccer,Women,7
+2018,Ripon,Cross Country,Women,4
+2018,Ripon,Tennis,Women,6
+2018,Ripon,Basketball,Women,10
+2018,Ripon,Swimming,Women,4
+2018,Ripon,Indoor Track & Field,Women,5
+2018,Ripon,Outdoor Track & Field,Women,6
+2018,Ripon,Softball,Women,3
+2018,Ripon,Total,Women,50
+2018,St. Norbert,Volleyball,Women,8.5
+2018,St. Norbert,Soccer,Women,8
+2018,St. Norbert,Cross Country,Women,10
+2018,St. Norbert,Tennis,Women,7
+2018,St. Norbert,Basketball,Women,6.5
+2018,St. Norbert,Swimming,Women,6
+2018,St. Norbert,Indoor Track & Field,Women,10
+2018,St. Norbert,Outdoor Track & Field,Women,10
+2018,St. Norbert,Softball,Women,8
+2018,St. Norbert,Total,Women,80
+2019,Beloit,Football,Men,3
+2019,Beloit,Soccer,Men,3
+2019,Beloit,Cross Country,Men,3
+2019,Beloit,Basketball,Men,3
+2019,Beloit,Swimming,Men,4
+2019,Beloit,Indoor Track & Field,Men,1
+2019,Beloit,Tennis,Men,
+2019,Beloit,Outdoor Track & Field,Men,
+2019,Beloit,Baseball,Men,
+2019,Beloit,Total,Men,14
+2019,Cornell,Football,Men,6
+2019,Cornell,Soccer,Men,5
+2019,Cornell,Cross Country,Men,6
+2019,Cornell,Basketball,Men,6
+2019,Cornell,Swimming,Men,
+2019,Cornell,Indoor Track & Field,Men,5
+2019,Cornell,Tennis,Men,
+2019,Cornell,Outdoor Track & Field,Men,
+2019,Cornell,Baseball,Men,
+2019,Cornell,Total,Men,22
+2019,Grinnell,Football,Men,
+2019,Grinnell,Soccer,Men,4
+2019,Grinnell,Cross Country,Men,10
+2019,Grinnell,Basketball,Men,6
+2019,Grinnell,Swimming,Men,10
+2019,Grinnell,Indoor Track & Field,Men,8
+2019,Grinnell,Tennis,Men,
+2019,Grinnell,Outdoor Track & Field,Men,
+2019,Grinnell,Baseball,Men,
+2019,Grinnell,Total,Men,32
+2019,Illinois College,Football,Men,8
+2019,Illinois College,Soccer,Men,2
+2019,Illinois College,Cross Country,Men,2
+2019,Illinois College,Basketball,Men,1
+2019,Illinois College,Swimming,Men,5
+2019,Illinois College,Indoor Track & Field,Men,7
+2019,Illinois College,Tennis,Men,
+2019,Illinois College,Outdoor Track & Field,Men,
+2019,Illinois College,Baseball,Men,
+2019,Illinois College,Total,Men,24
+2019,Knox,Football,Men,4
+2019,Knox,Soccer,Men,10
+2019,Knox,Cross Country,Men,1
+2019,Knox,Basketball,Men,2
+2019,Knox,Swimming,Men,2
+2019,Knox,Indoor Track & Field,Men,3
+2019,Knox,Tennis,Men,
+2019,Knox,Outdoor Track & Field,Men,
+2019,Knox,Baseball,Men,
+2019,Knox,Total,Men,20
+2019,Lake Forest,Football,Men,9
+2019,Lake Forest,Soccer,Men,9
+2019,Lake Forest,Cross Country,Men,4
+2019,Lake Forest,Basketball,Men,8
+2019,Lake Forest,Swimming,Men,9
+2019,Lake Forest,Indoor Track & Field,Men,2
+2019,Lake Forest,Tennis,Men,
+2019,Lake Forest,Outdoor Track & Field,Men,
+2019,Lake Forest,Baseball,Men,
+2019,Lake Forest,Total,Men,33
+2019,Lawrence,Football,Men,2
+2019,Lawrence,Soccer,Men,6
+2019,Lawrence,Cross Country,Men,5
+2019,Lawrence,Basketball,Men,4
+2019,Lawrence,Swimming,Men,6
+2019,Lawrence,Indoor Track & Field,Men,4
+2019,Lawrence,Tennis,Men,
+2019,Lawrence,Outdoor Track & Field,Men,
+2019,Lawrence,Baseball,Men,
+2019,Lawrence,Total,Men,23
+2019,Monmouth,Football,Men,12
+2019,Monmouth,Soccer,Men,7
+2019,Monmouth,Cross Country,Men,9
+2019,Monmouth,Basketball,Men,6
+2019,Monmouth,Swimming,Men,7
+2019,Monmouth,Indoor Track & Field,Men,10
+2019,Monmouth,Tennis,Men,
+2019,Monmouth,Outdoor Track & Field,Men,
+2019,Monmouth,Baseball,Men,
+2019,Monmouth,Total,Men,45
+2019,Ripon,Football,Men,7
+2019,Ripon,Soccer,Men,1
+2019,Ripon,Cross Country,Men,7
+2019,Ripon,Basketball,Men,9
+2019,Ripon,Swimming,Men,3
+2019,Ripon,Indoor Track & Field,Men,6
+2019,Ripon,Tennis,Men,
+2019,Ripon,Outdoor Track & Field,Men,
+2019,Ripon,Baseball,Men,
+2019,Ripon,Total,Men,24
+2019,St. Norbert,Football,Men,11
+2019,St. Norbert,Soccer,Men,8
+2019,St. Norbert,Cross Country,Men,8
+2019,St. Norbert,Basketball,Men,10
+2019,St. Norbert,Swimming,Men,8
+2019,St. Norbert,Indoor Track & Field,Men,9
+2019,St. Norbert,Tennis,Men,
+2019,St. Norbert,Outdoor Track & Field,Men,
+2019,St. Norbert,Baseball,Men,
+2019,St. Norbert,Total,Men,44
+2019,Beloit,Volleyball,Women,1
+2019,Beloit,Soccer,Women,2
+2019,Beloit,Cross Country,Women,3
+2019,Beloit,Tennis,Women,3
+2019,Beloit,Basketball,Women,1
+2019,Beloit,Swimming,Women,2
+2019,Beloit,Indoor Track & Field,Women,5
+2019,Beloit,Outdoor Track & Field,Women,
+2019,Beloit,Softball,Women,
+2019,Beloit,Total,Women,17
+2019,Cornell,Volleyball,Women,10
+2019,Cornell,Soccer,Women,9
+2019,Cornell,Cross Country,Women,8
+2019,Cornell,Tennis,Women,6
+2019,Cornell,Basketball,Women,8
+2019,Cornell,Swimming,Women,
+2019,Cornell,Indoor Track & Field,Women,3
+2019,Cornell,Outdoor Track & Field,Women,
+2019,Cornell,Softball,Women,
+2019,Cornell,Total,Women,44
+2019,Grinnell,Volleyball,Women,7.5
+2019,Grinnell,Soccer,Women,5
+2019,Grinnell,Cross Country,Women,10
+2019,Grinnell,Tennis,Women,10
+2019,Grinnell,Basketball,Women,3
+2019,Grinnell,Swimming,Women,9
+2019,Grinnell,Indoor Track & Field,Women,7
+2019,Grinnell,Outdoor Track & Field,Women,
+2019,Grinnell,Softball,Women,
+2019,Grinnell,Total,Women,51.5
+2019,Illinois College,Volleyball,Women,7.5
+2019,Illinois College,Soccer,Women,1
+2019,Illinois College,Cross Country,Women,2
+2019,Illinois College,Tennis,Women,4
+2019,Illinois College,Basketball,Women,5
+2019,Illinois College,Swimming,Women,6
+2019,Illinois College,Indoor Track & Field,Women,6
+2019,Illinois College,Outdoor Track & Field,Women,
+2019,Illinois College,Softball,Women,
+2019,Illinois College,Total,Women,31.5
+2019,Knox,Volleyball,Women,2.5
+2019,Knox,Soccer,Women,10
+2019,Knox,Cross Country,Women,1
+2019,Knox,Tennis,Women,1
+2019,Knox,Basketball,Women,7
+2019,Knox,Swimming,Women,3
+2019,Knox,Indoor Track & Field,Women,1
+2019,Knox,Outdoor Track & Field,Women,
+2019,Knox,Softball,Women,
+2019,Knox,Total,Women,25.5
+2019,Lake Forest,Volleyball,Women,5.5
+2019,Lake Forest,Soccer,Women,7
+2019,Lake Forest,Cross Country,Women,6
+2019,Lake Forest,Tennis,Women,9
+2019,Lake Forest,Basketball,Women,6
+2019,Lake Forest,Swimming,Women,10
+2019,Lake Forest,Indoor Track & Field,Women,4
+2019,Lake Forest,Outdoor Track & Field,Women,
+2019,Lake Forest,Softball,Women,
+2019,Lake Forest,Total,Women,47.5
+2019,Lawrence,Volleyball,Women,2.5
+2019,Lawrence,Soccer,Women,3
+2019,Lawrence,Cross Country,Women,4
+2019,Lawrence,Tennis,Women,7
+2019,Lawrence,Basketball,Women,2
+2019,Lawrence,Swimming,Women,8
+2019,Lawrence,Indoor Track & Field,Women,2
+2019,Lawrence,Outdoor Track & Field,Women,
+2019,Lawrence,Softball,Women,
+2019,Lawrence,Total,Women,28.5
+2019,Monmouth,Volleyball,Women,5.5
+2019,Monmouth,Soccer,Women,8
+2019,Monmouth,Cross Country,Women,9
+2019,Monmouth,Tennis,Women,5
+2019,Monmouth,Basketball,Women,9
+2019,Monmouth,Swimming,Women,5
+2019,Monmouth,Indoor Track & Field,Women,9
+2019,Monmouth,Outdoor Track & Field,Women,
+2019,Monmouth,Softball,Women,
+2019,Monmouth,Total,Women,50.5
+2019,Ripon,Volleyball,Women,4
+2019,Ripon,Soccer,Women,4
+2019,Ripon,Cross Country,Women,5
+2019,Ripon,Tennis,Women,2
+2019,Ripon,Basketball,Women,10
+2019,Ripon,Swimming,Women,4
+2019,Ripon,Indoor Track & Field,Women,8
+2019,Ripon,Outdoor Track & Field,Women,
+2019,Ripon,Softball,Women,
+2019,Ripon,Total,Women,37
+2019,St. Norbert,Volleyball,Women,9
+2019,St. Norbert,Soccer,Women,6
+2019,St. Norbert,Cross Country,Women,7
+2019,St. Norbert,Tennis,Women,8
+2019,St. Norbert,Basketball,Women,4
+2019,St. Norbert,Swimming,Women,7
+2019,St. Norbert,Indoor Track & Field,Women,10
+2019,St. Norbert,Outdoor Track & Field,Women,
+2019,St. Norbert,Softball,Women,
+2019,St. Norbert,Total,Women,51
+2021,Beloit,Football,Men,1
+2021,Beloit,Soccer,Men,3
+2021,Beloit,Cross Country,Men,1
+2021,Beloit,Basketball,Men,2
+2021,Beloit,Swimming,Men,4
+2021,Beloit,Indoor Track & Field,Men,2
+2021,Beloit,Tennis,Men,
+2021,Beloit,Outdoor Track & Field,Men,2
+2021,Beloit,Baseball,Men,5.5
+2021,Beloit,Total,Men,20.5
+2021,Cornell,Football,Men,4
+2021,Cornell,Soccer,Men,8
+2021,Cornell,Cross Country,Men,8
+2021,Cornell,Basketball,Men,8
+2021,Cornell,Swimming,Men,
+2021,Cornell,Indoor Track & Field,Men,7
+2021,Cornell,Tennis,Men,6
+2021,Cornell,Outdoor Track & Field,Men,8
+2021,Cornell,Baseball,Men,3.5
+2021,Cornell,Total,Men,52.5
+2021,Grinnell,Football,Men,3
+2021,Grinnell,Soccer,Men,7
+2021,Grinnell,Cross Country,Men,7
+2021,Grinnell,Basketball,Men,6.5
+2021,Grinnell,Swimming,Men,9
+2021,Grinnell,Indoor Track & Field,Men,5
+2021,Grinnell,Tennis,Men,9
+2021,Grinnell,Outdoor Track & Field,Men,5
+2021,Grinnell,Baseball,Men,3.5
+2021,Grinnell,Total,Men,55
+2021,Illinois College,Football,Men,5
+2021,Illinois College,Soccer,Men,4
+2021,Illinois College,Cross Country,Men,4
+2021,Illinois College,Basketball,Men,6.5
+2021,Illinois College,Swimming,Men,3
+2021,Illinois College,Indoor Track & Field,Men,4
+2021,Illinois College,Tennis,Men,3
+2021,Illinois College,Outdoor Track & Field,Men,3
+2021,Illinois College,Baseball,Men,5.5
+2021,Illinois College,Total,Men,38
+2021,Knox,Football,Men,6
+2021,Knox,Soccer,Men,9
+2021,Knox,Cross Country,Men,2
+2021,Knox,Basketball,Men,3
+2021,Knox,Swimming,Men,1
+2021,Knox,Indoor Track & Field,Men,6
+2021,Knox,Tennis,Men,
+2021,Knox,Outdoor Track & Field,Men,6
+2021,Knox,Baseball,Men,1
+2021,Knox,Total,Men,34
+2021,Lake Forest,Football,Men,10
+2021,Lake Forest,Soccer,Men,5
+2021,Lake Forest,Cross Country,Men,3
+2021,Lake Forest,Basketball,Men,4.5
+2021,Lake Forest,Swimming,Men,8
+2021,Lake Forest,Indoor Track & Field,Men,1
+2021,Lake Forest,Tennis,Men,8
+2021,Lake Forest,Outdoor Track & Field,Men,1
+2021,Lake Forest,Baseball,Men,
+2021,Lake Forest,Total,Men,40.5
+2021,Lawrence,Football,Men,2
+2021,Lawrence,Soccer,Men,6
+2021,Lawrence,Cross Country,Men,9
+2021,Lawrence,Basketball,Men,4.5
+2021,Lawrence,Swimming,Men,5
+2021,Lawrence,Indoor Track & Field,Men,3
+2021,Lawrence,Tennis,Men,5
+2021,Lawrence,Outdoor Track & Field,Men,4
+2021,Lawrence,Baseball,Men,9
+2021,Lawrence,Total,Men,47.5
+2021,Monmouth,Football,Men,9
+2021,Monmouth,Soccer,Men,1.5
+2021,Monmouth,Cross Country,Men,5
+2021,Monmouth,Basketball,Men,1
+2021,Monmouth,Swimming,Men,2
+2021,Monmouth,Indoor Track & Field,Men,8
+2021,Monmouth,Tennis,Men,4
+2021,Monmouth,Outdoor Track & Field,Men,7
+2021,Monmouth,Baseball,Men,2
+2021,Monmouth,Total,Men,39.5
+2021,Ripon,Football,Men,7
+2021,Ripon,Soccer,Men,1.5
+2021,Ripon,Cross Country,Men,6
+2021,Ripon,Basketball,Men,9
+2021,Ripon,Swimming,Men,6
+2021,Ripon,Indoor Track & Field,Men,9
+2021,Ripon,Tennis,Men,7
+2021,Ripon,Outdoor Track & Field,Men,9
+2021,Ripon,Baseball,Men,7
+2021,Ripon,Total,Men,61.5
+2021,Beloit,Volleyball,Women,2
+2021,Beloit,Soccer,Women,7
+2021,Beloit,Cross Country,Women,3
+2021,Beloit,Tennis,Women,
+2021,Beloit,Basketball,Women,1
+2021,Beloit,Swimming,Women,2
+2021,Beloit,Indoor Track & Field,Women,3
+2021,Beloit,Outdoor Track & Field,Women,5
+2021,Beloit,Softball,Women,5
+2021,Beloit,Total,Women,28
+2021,Cornell,Volleyball,Women,9
+2021,Cornell,Soccer,Women,3
+2021,Cornell,Cross Country,Women,5
+2021,Cornell,Tennis,Women,6
+2021,Cornell,Basketball,Women,4.5
+2021,Cornell,Swimming,Women,
+2021,Cornell,Indoor Track & Field,Women,4
+2021,Cornell,Outdoor Track & Field,Women,4
+2021,Cornell,Softball,Women,4
+2021,Cornell,Total,Women,39.5
+2021,Grinnell,Volleyball,Women,8
+2021,Grinnell,Soccer,Women,4
+2021,Grinnell,Cross Country,Women,8
+2021,Grinnell,Tennis,Women,9
+2021,Grinnell,Basketball,Women,3
+2021,Grinnell,Swimming,Women,9
+2021,Grinnell,Indoor Track & Field,Women,6
+2021,Grinnell,Outdoor Track & Field,Women,8
+2021,Grinnell,Softball,Women,7
+2021,Grinnell,Total,Women,62
+2021,Illinois College,Volleyball,Women,7
+2021,Illinois College,Soccer,Women,2
+2021,Illinois College,Cross Country,Women,
+2021,Illinois College,Tennis,Women,4
+2021,Illinois College,Basketball,Women,6
+2021,Illinois College,Swimming,Women,3
+2021,Illinois College,Indoor Track & Field,Women,5
+2021,Illinois College,Outdoor Track & Field,Women,6
+2021,Illinois College,Softball,Women,8
+2021,Illinois College,Total,Women,41
+2021,Knox,Volleyball,Women,4
+2021,Knox,Soccer,Women,9
+2021,Knox,Cross Country,Women,
+2021,Knox,Tennis,Women,
+2021,Knox,Basketball,Women,7.5
+2021,Knox,Swimming,Women,1
+2021,Knox,Indoor Track & Field,Women,2
+2021,Knox,Outdoor Track & Field,Women,2
+2021,Knox,Softball,Women,1.5
+2021,Knox,Total,Women,27
+2021,Lake Forest,Volleyball,Women,5
+2021,Lake Forest,Soccer,Women,8
+2021,Lake Forest,Cross Country,Women,4
+2021,Lake Forest,Tennis,Women,8
+2021,Lake Forest,Basketball,Women,2
+2021,Lake Forest,Swimming,Women,8
+2021,Lake Forest,Indoor Track & Field,Women,1
+2021,Lake Forest,Outdoor Track & Field,Women,1
+2021,Lake Forest,Softball,Women,9
+2021,Lake Forest,Total,Women,46
+2021,Lawrence,Volleyball,Women,1
+2021,Lawrence,Soccer,Women,6
+2021,Lawrence,Cross Country,Women,9
+2021,Lawrence,Tennis,Women,7
+2021,Lawrence,Basketball,Women,4.5
+2021,Lawrence,Swimming,Women,6
+2021,Lawrence,Indoor Track & Field,Women,7
+2021,Lawrence,Outdoor Track & Field,Women,3
+2021,Lawrence,Softball,Women,1.5
+2021,Lawrence,Total,Women,45
+2021,Monmouth,Volleyball,Women,6
+2021,Monmouth,Soccer,Women,5
+2021,Monmouth,Cross Country,Women,6
+2021,Monmouth,Tennis,Women,3
+2021,Monmouth,Basketball,Women,7.5
+2021,Monmouth,Swimming,Women,4
+2021,Monmouth,Indoor Track & Field,Women,8
+2021,Monmouth,Outdoor Track & Field,Women,9
+2021,Monmouth,Softball,Women,6
+2021,Monmouth,Total,Women,54.5
+2021,Ripon,Volleyball,Women,3
+2021,Ripon,Soccer,Women,1
+2021,Ripon,Cross Country,Women,7
+2021,Ripon,Tennis,Women,5
+2021,Ripon,Basketball,Women,9
+2021,Ripon,Swimming,Women,5
+2021,Ripon,Indoor Track & Field,Women,9
+2021,Ripon,Outdoor Track & Field,Women,7
+2021,Ripon,Softball,Women,3
+2021,Ripon,Total,Women,49
+2022,Beloit,Football,Men,2
+2022,Beloit,Soccer,Men,5
+2022,Beloit,Cross Country,Men,2
+2022,Beloit,Basketball,Men,1
+2022,Beloit,Swimming,Men,4
+2022,Beloit,Indoor Track & Field,Men,3
+2022,Beloit,Tennis,Men,
+2022,Beloit,Outdoor Track & Field,Men,6
+2022,Beloit,Baseball,Men,9
+2022,Beloit,Total,Men,32
+2022,Cornell,Football,Men,4
+2022,Cornell,Soccer,Men,1
+2022,Cornell,Cross Country,Men,9
+2022,Cornell,Basketball,Men,8
+2022,Cornell,Swimming,Men,
+2022,Cornell,Indoor Track & Field,Men,5
+2022,Cornell,Tennis,Men,5
+2022,Cornell,Outdoor Track & Field,Men,3
+2022,Cornell,Baseball,Men,4
+2022,Cornell,Total,Men,39
+2022,Grinnell,Football,Men,3
+2022,Grinnell,Soccer,Men,8
+2022,Grinnell,Cross Country,Men,8
+2022,Grinnell,Basketball,Men,3
+2022,Grinnell,Swimming,Men,9
+2022,Grinnell,Indoor Track & Field,Men,7
+2022,Grinnell,Tennis,Men,7
+2022,Grinnell,Outdoor Track & Field,Men,8
+2022,Grinnell,Baseball,Men,6
+2022,Grinnell,Total,Men,59
+2022,Illinois College,Football,Men,6
+2022,Illinois College,Soccer,Men,4
+2022,Illinois College,Cross Country,Men,6
+2022,Illinois College,Basketball,Men,9
+2022,Illinois College,Swimming,Men,3
+2022,Illinois College,Indoor Track & Field,Men,4
+2022,Illinois College,Tennis,Men,2
+2022,Illinois College,Outdoor Track & Field,Men,4
+2022,Illinois College,Baseball,Men,4
+2022,Illinois College,Total,Men,42
+2022,Knox,Football,Men,5
+2022,Knox,Soccer,Men,6
+2022,Knox,Cross Country,Men,3
+2022,Knox,Basketball,Men,2
+2022,Knox,Swimming,Men,1
+2022,Knox,Indoor Track & Field,Men,6
+2022,Knox,Tennis,Men,
+2022,Knox,Outdoor Track & Field,Men,5
+2022,Knox,Baseball,Men,1
+2022,Knox,Total,Men,29
+2022,Lake Forest,Football,Men,9
+2022,Lake Forest,Soccer,Men,9
+2022,Lake Forest,Cross Country,Men,
+2022,Lake Forest,Basketball,Men,5
+2022,Lake Forest,Swimming,Men,7
+2022,Lake Forest,Indoor Track & Field,Men,1
+2022,Lake Forest,Tennis,Men,6
+2022,Lake Forest,Outdoor Track & Field,Men,1
+2022,Lake Forest,Baseball,Men,
+2022,Lake Forest,Total,Men,38
+2022,Lawrence,Football,Men,7
+2022,Lawrence,Soccer,Men,3
+2022,Lawrence,Cross Country,Men,5
+2022,Lawrence,Basketball,Men,4
+2022,Lawrence,Swimming,Men,6
+2022,Lawrence,Indoor Track & Field,Men,2
+2022,Lawrence,Tennis,Men,3
+2022,Lawrence,Outdoor Track & Field,Men,2
+2022,Lawrence,Baseball,Men,2
+2022,Lawrence,Total,Men,34
+2022,Monmouth,Football,Men,9
+2022,Monmouth,Soccer,Men,2
+2022,Monmouth,Cross Country,Men,4
+2022,Monmouth,Basketball,Men,7
+2022,Monmouth,Swimming,Men,2
+2022,Monmouth,Indoor Track & Field,Men,8
+2022,Monmouth,Tennis,Men,1
+2022,Monmouth,Outdoor Track & Field,Men,7
+2022,Monmouth,Baseball,Men,4
+2022,Monmouth,Total,Men,44
+2022,Ripon,Football,Men,9
+2022,Ripon,Soccer,Men,7
+2022,Ripon,Cross Country,Men,7
+2022,Ripon,Basketball,Men,6
+2022,Ripon,Swimming,Men,5
+2022,Ripon,Indoor Track & Field,Men,9
+2022,Ripon,Tennis,Men,4
+2022,Ripon,Outdoor Track & Field,Men,9
+2022,Ripon,Baseball,Men,7.5
+2022,Ripon,Total,Men,63.5
+2022,Beloit,Volleyball,Women,4
+2022,Beloit,Soccer,Women,7
+2022,Beloit,Cross Country,Women,5
+2022,Beloit,Tennis,Women,
+2022,Beloit,Basketball,Women,2
+2022,Beloit,Swimming,Women,4
+2022,Beloit,Indoor Track & Field,Women,3
+2022,Beloit,Outdoor Track & Field,Women,5
+2022,Beloit,Softball,Women,2
+2022,Beloit,Total,Women,32
+2022,Cornell,Volleyball,Women,9
+2022,Cornell,Soccer,Women,6
+2022,Cornell,Cross Country,Women,6
+2022,Cornell,Tennis,Women,5
+2022,Cornell,Basketball,Women,7
+2022,Cornell,Swimming,Women,
+2022,Cornell,Indoor Track & Field,Women,7
+2022,Cornell,Outdoor Track & Field,Women,8
+2022,Cornell,Softball,Women,6
+2022,Cornell,Total,Women,54
+2022,Grinnell,Volleyball,Women,7
+2022,Grinnell,Soccer,Women,9
+2022,Grinnell,Cross Country,Women,8
+2022,Grinnell,Tennis,Women,9
+2022,Grinnell,Basketball,Women,5
+2022,Grinnell,Swimming,Women,9
+2022,Grinnell,Indoor Track & Field,Women,6
+2022,Grinnell,Outdoor Track & Field,Women,6
+2022,Grinnell,Softball,Women,8.5
+2022,Grinnell,Total,Women,67.5
+2022,Illinois College,Volleyball,Women,6
+2022,Illinois College,Soccer,Women,4
+2022,Illinois College,Cross Country,Women,3
+2022,Illinois College,Tennis,Women,6
+2022,Illinois College,Basketball,Women,6
+2022,Illinois College,Swimming,Women,2
+2022,Illinois College,Indoor Track & Field,Women,4
+2022,Illinois College,Outdoor Track & Field,Women,4
+2022,Illinois College,Softball,Women,8.5
+2022,Illinois College,Total,Women,43.5
+2022,Knox,Volleyball,Women,2
+2022,Knox,Soccer,Women,3
+2022,Knox,Cross Country,Women,1
+2022,Knox,Tennis,Women,
+2022,Knox,Basketball,Women,8.5
+2022,Knox,Swimming,Women,1
+2022,Knox,Indoor Track & Field,Women,2
+2022,Knox,Outdoor Track & Field,Women,2
+2022,Knox,Softball,Women,5
+2022,Knox,Total,Women,24.5
+2022,Lake Forest,Volleyball,Women,8
+2022,Lake Forest,Soccer,Women,8
+2022,Lake Forest,Cross Country,Women,4
+2022,Lake Forest,Tennis,Women,8
+2022,Lake Forest,Basketball,Women,3
+2022,Lake Forest,Swimming,Women,8
+2022,Lake Forest,Indoor Track & Field,Women,1
+2022,Lake Forest,Outdoor Track & Field,Women,1
+2022,Lake Forest,Softball,Women,7
+2022,Lake Forest,Total,Women,48
+2022,Lawrence,Volleyball,Women,1
+2022,Lawrence,Soccer,Women,5
+2022,Lawrence,Cross Country,Women,7
+2022,Lawrence,Tennis,Women,7
+2022,Lawrence,Basketball,Women,1
+2022,Lawrence,Swimming,Women,6
+2022,Lawrence,Indoor Track & Field,Women,5
+2022,Lawrence,Outdoor Track & Field,Women,3
+2022,Lawrence,Softball,Women,1
+2022,Lawrence,Total,Women,36
+2022,Monmouth,Volleyball,Women,4
+2022,Monmouth,Soccer,Women,1
+2022,Monmouth,Cross Country,Women,2
+2022,Monmouth,Tennis,Women,3
+2022,Monmouth,Basketball,Women,4
+2022,Monmouth,Swimming,Women,3
+2022,Monmouth,Indoor Track & Field,Women,8
+2022,Monmouth,Outdoor Track & Field,Women,7
+2022,Monmouth,Softball,Women,3.5
+2022,Monmouth,Total,Women,36.5
+2022,Ripon,Volleyball,Women,4
+2022,Ripon,Soccer,Women,2
+2022,Ripon,Cross Country,Women,9
+2022,Ripon,Tennis,Women,4
+2022,Ripon,Basketball,Women,8.5
+2022,Ripon,Swimming,Women,5
+2022,Ripon,Indoor Track & Field,Women,9
+2022,Ripon,Outdoor Track & Field,Women,9
+2022,Ripon,Softball,Women,3.5
+2022,Ripon,Total,Women,54
+2023,Beloit,Football,Men,2
+2023,Beloit,Soccer,Men,5
+2023,Beloit,Cross Country,Men,1
+2023,Beloit,Basketball,Men,7
+2023,Beloit,Swimming,Men,2
+2023,Beloit,Indoor Track & Field,Men,3
+2023,Beloit,Tennis,Men,
+2023,Beloit,Outdoor Track & Field,Men,5
+2023,Beloit,Baseball,Men,7
+2023,Beloit,Total,Men,32
+2023,Cornell,Football,Men,7
+2023,Cornell,Soccer,Men,8
+2023,Cornell,Cross Country,Men,8
+2023,Cornell,Basketball,Men,2
+2023,Cornell,Swimming,Men,
+2023,Cornell,Indoor Track & Field,Men,7
+2023,Cornell,Tennis,Men,5
+2023,Cornell,Outdoor Track & Field,Men,4
+2023,Cornell,Baseball,Men,6
+2023,Cornell,Total,Men,47
+2023,Grinnell,Football,Men,3
+2023,Grinnell,Soccer,Men,6
+2023,Grinnell,Cross Country,Men,9
+2023,Grinnell,Basketball,Men,8
+2023,Grinnell,Swimming,Men,9
+2023,Grinnell,Indoor Track & Field,Men,6
+2023,Grinnell,Tennis,Men,7
+2023,Grinnell,Outdoor Track & Field,Men,7
+2023,Grinnell,Baseball,Men,3
+2023,Grinnell,Total,Men,58
+2023,Illinois College,Football,Men,9.5
+2023,Illinois College,Soccer,Men,9
+2023,Illinois College,Cross Country,Men,5
+2023,Illinois College,Basketball,Men,9
+2023,Illinois College,Swimming,Men,5
+2023,Illinois College,Indoor Track & Field,Men,5
+2023,Illinois College,Tennis,Men,3
+2023,Illinois College,Outdoor Track & Field,Men,8
+2023,Illinois College,Baseball,Men,2
+2023,Illinois College,Total,Men,55.5
+2023,Knox,Football,Men,4
+2023,Knox,Soccer,Men,4
+2023,Knox,Cross Country,Men,4
+2023,Knox,Basketball,Men,3
+2023,Knox,Swimming,Men,1
+2023,Knox,Indoor Track & Field,Men,1
+2023,Knox,Tennis,Men,
+2023,Knox,Outdoor Track & Field,Men,2
+2023,Knox,Baseball,Men,1
+2023,Knox,Total,Men,20
+2023,Lake Forest,Football,Men,7
+2023,Lake Forest,Soccer,Men,7
+2023,Lake Forest,Cross Country,Men,2
+2023,Lake Forest,Basketball,Men,4
+2023,Lake Forest,Swimming,Men,7
+2023,Lake Forest,Indoor Track & Field,Men,2
+2023,Lake Forest,Tennis,Men,6
+2023,Lake Forest,Outdoor Track & Field,Men,1
+2023,Lake Forest,Baseball,Men,
+2023,Lake Forest,Total,Men,36
+2023,Lawrence,Football,Men,1
+2023,Lawrence,Soccer,Men,1
+2023,Lawrence,Cross Country,Men,6
+2023,Lawrence,Basketball,Men,1
+2023,Lawrence,Swimming,Men,6
+2023,Lawrence,Indoor Track & Field,Men,4
+2023,Lawrence,Tennis,Men,4
+2023,Lawrence,Outdoor Track & Field,Men,3
+2023,Lawrence,Baseball,Men,9
+2023,Lawrence,Total,Men,35
+2023,Monmouth,Football,Men,9.5
+2023,Monmouth,Soccer,Men,3
+2023,Monmouth,Cross Country,Men,3
+2023,Monmouth,Basketball,Men,5
+2023,Monmouth,Swimming,Men,4
+2023,Monmouth,Indoor Track & Field,Men,8
+2023,Monmouth,Tennis,Men,1
+2023,Monmouth,Outdoor Track & Field,Men,6
+2023,Monmouth,Baseball,Men,4
+2023,Monmouth,Total,Men,43.5
+2023,Ripon,Football,Men,5
+2023,Ripon,Soccer,Men,2
+2023,Ripon,Cross Country,Men,7
+2023,Ripon,Basketball,Men,6
+2023,Ripon,Swimming,Men,3
+2023,Ripon,Indoor Track & Field,Men,9
+2023,Ripon,Tennis,Men,2
+2023,Ripon,Outdoor Track & Field,Men,9
+2023,Ripon,Baseball,Men,5
+2023,Ripon,Total,Men,48
+2023,Beloit,Volleyball,Women,1
+2023,Beloit,Soccer,Women,6
+2023,Beloit,Cross Country,Women,4
+2023,Beloit,Tennis,Women,
+2023,Beloit,Basketball,Women,4
+2023,Beloit,Swimming,Women,3
+2023,Beloit,Indoor Track & Field,Women,3
+2023,Beloit,Outdoor Track & Field,Women,4
+2023,Beloit,Softball,Women,2
+2023,Beloit,Total,Women,27
+2023,Cornell,Volleyball,Women,9
+2023,Cornell,Soccer,Women,2
+2023,Cornell,Cross Country,Women,6
+2023,Cornell,Tennis,Women,5
+2023,Cornell,Basketball,Women,3
+2023,Cornell,Swimming,Women,
+2023,Cornell,Indoor Track & Field,Women,5
+2023,Cornell,Outdoor Track & Field,Women,6
+2023,Cornell,Softball,Women,6
+2023,Cornell,Total,Women,42
+2023,Grinnell,Volleyball,Women,6
+2023,Grinnell,Soccer,Women,8
+2023,Grinnell,Cross Country,Women,9
+2023,Grinnell,Tennis,Women,7
+2023,Grinnell,Basketball,Women,5.5
+2023,Grinnell,Swimming,Women,9
+2023,Grinnell,Indoor Track & Field,Women,7
+2023,Grinnell,Outdoor Track & Field,Women,7
+2023,Grinnell,Softball,Women,8
+2023,Grinnell,Total,Women,66.5
+2023,Illinois College,Volleyball,Women,8
+2023,Illinois College,Soccer,Women,4
+2023,Illinois College,Cross Country,Women,
+2023,Illinois College,Tennis,Women,4
+2023,Illinois College,Basketball,Women,7
+2023,Illinois College,Swimming,Women,2
+2023,Illinois College,Indoor Track & Field,Women,6
+2023,Illinois College,Outdoor Track & Field,Women,5
+2023,Illinois College,Softball,Women,7
+2023,Illinois College,Total,Women,43
+2023,Knox,Volleyball,Women,2
+2023,Knox,Soccer,Women,1
+2023,Knox,Cross Country,Women,1
+2023,Knox,Tennis,Women,
+2023,Knox,Basketball,Women,8
+2023,Knox,Swimming,Women,1
+2023,Knox,Indoor Track & Field,Women,2
+2023,Knox,Outdoor Track & Field,Women,2
+2023,Knox,Softball,Women,1
+2023,Knox,Total,Women,18
+2023,Lake Forest,Volleyball,Women,7
+2023,Lake Forest,Soccer,Women,9
+2023,Lake Forest,Cross Country,Women,5
+2023,Lake Forest,Tennis,Women,6
+2023,Lake Forest,Basketball,Women,2
+2023,Lake Forest,Swimming,Women,7
+2023,Lake Forest,Indoor Track & Field,Women,1
+2023,Lake Forest,Outdoor Track & Field,Women,1
+2023,Lake Forest,Softball,Women,9
+2023,Lake Forest,Total,Women,47
+2023,Lawrence,Volleyball,Women,3
+2023,Lawrence,Soccer,Women,7
+2023,Lawrence,Cross Country,Women,8
+2023,Lawrence,Tennis,Women,2
+2023,Lawrence,Basketball,Women,5.5
+2023,Lawrence,Swimming,Women,6
+2023,Lawrence,Indoor Track & Field,Women,4
+2023,Lawrence,Outdoor Track & Field,Women,3
+2023,Lawrence,Softball,Women,4
+2023,Lawrence,Total,Women,42.5
+2023,Monmouth,Volleyball,Women,5
+2023,Monmouth,Soccer,Women,5
+2023,Monmouth,Cross Country,Women,3
+2023,Monmouth,Tennis,Women,3
+2023,Monmouth,Basketball,Women,1
+2023,Monmouth,Swimming,Women,4.5
+2023,Monmouth,Indoor Track & Field,Women,8
+2023,Monmouth,Outdoor Track & Field,Women,8
+2023,Monmouth,Softball,Women,5
+2023,Monmouth,Total,Women,42.5
+2023,Ripon,Volleyball,Women,4
+2023,Ripon,Soccer,Women,3
+2023,Ripon,Cross Country,Women,7
+2023,Ripon,Tennis,Women,1
+2023,Ripon,Basketball,Women,9
+2023,Ripon,Swimming,Women,4.5
+2023,Ripon,Indoor Track & Field,Women,9
+2023,Ripon,Outdoor Track & Field,Women,9
+2023,Ripon,Softball,Women,3
+2023,Ripon,Total,Women,49.5
+2024,Beloit,Football,Men,1.5
+2024,Beloit,Soccer,Men,1
+2024,Beloit,Cross Country,Men,1
+2024,Beloit,Basketball,Men,2.5
+2024,Beloit,Swimming,Men,2
+2024,Beloit,Indoor Track & Field,Men,5
+2024,Beloit,Tennis,Men,
+2024,Beloit,Outdoor Track & Field,Men,
+2024,Beloit,Baseball,Men,
+2024,Beloit,Total,Men,13
+2024,Cornell,Football,Men,6
+2024,Cornell,Soccer,Men,4
+2024,Cornell,Cross Country,Men,9
+2024,Cornell,Basketball,Men,4
+2024,Cornell,Swimming,Men,
+2024,Cornell,Indoor Track & Field,Men,9
+2024,Cornell,Tennis,Men,
+2024,Cornell,Outdoor Track & Field,Men,
+2024,Cornell,Baseball,Men,
+2024,Cornell,Total,Men,32
+2024,Grinnell,Football,Men,3.5
+2024,Grinnell,Soccer,Men,6.5
+2024,Grinnell,Cross Country,Men,7
+2024,Grinnell,Basketball,Men,8
+2024,Grinnell,Swimming,Men,8
+2024,Grinnell,Indoor Track & Field,Men,4
+2024,Grinnell,Tennis,Men,
+2024,Grinnell,Outdoor Track & Field,Men,
+2024,Grinnell,Baseball,Men,
+2024,Grinnell,Total,Men,37
+2024,Illinois College,Football,Men,8
+2024,Illinois College,Soccer,Men,8
+2024,Illinois College,Cross Country,Men,3
+2024,Illinois College,Basketball,Men,6.5
+2024,Illinois College,Swimming,Men,5
+2024,Illinois College,Indoor Track & Field,Men,6
+2024,Illinois College,Tennis,Men,
+2024,Illinois College,Outdoor Track & Field,Men,
+2024,Illinois College,Baseball,Men,
+2024,Illinois College,Total,Men,36.5
+2024,Knox,Football,Men,3.5
+2024,Knox,Soccer,Men,6.5
+2024,Knox,Cross Country,Men,5
+2024,Knox,Basketball,Men,1
+2024,Knox,Swimming,Men,
+2024,Knox,Indoor Track & Field,Men,2
+2024,Knox,Tennis,Men,
+2024,Knox,Outdoor Track & Field,Men,
+2024,Knox,Baseball,Men,
+2024,Knox,Total,Men,18
+2024,Lake Forest,Football,Men,10
+2024,Lake Forest,Soccer,Men,9
+2024,Lake Forest,Cross Country,Men,2
+2024,Lake Forest,Basketball,Men,6.5
+2024,Lake Forest,Swimming,Men,6
+2024,Lake Forest,Indoor Track & Field,Men,1
+2024,Lake Forest,Tennis,Men,
+2024,Lake Forest,Outdoor Track & Field,Men,
+2024,Lake Forest,Baseball,Men,
+2024,Lake Forest,Total,Men,34.5
+2024,Lawrence,Football,Men,1.5
+2024,Lawrence,Soccer,Men,3
+2024,Lawrence,Cross Country,Men,8
+2024,Lawrence,Basketball,Men,2.5
+2024,Lawrence,Swimming,Men,4
+2024,Lawrence,Indoor Track & Field,Men,3
+2024,Lawrence,Tennis,Men,
+2024,Lawrence,Outdoor Track & Field,Men,
+2024,Lawrence,Baseball,Men,
+2024,Lawrence,Total,Men,22
+2024,Monmouth,Football,Men,9
+2024,Monmouth,Soccer,Men,2
+2024,Monmouth,Cross Country,Men,4
+2024,Monmouth,Basketball,Men,9
+2024,Monmouth,Swimming,Men,3
+2024,Monmouth,Indoor Track & Field,Men,8
+2024,Monmouth,Tennis,Men,
+2024,Monmouth,Outdoor Track & Field,Men,
+2024,Monmouth,Baseball,Men,
+2024,Monmouth,Total,Men,35
+2024,Ripon,Football,Men,5
+2024,Ripon,Soccer,Men,5
+2024,Ripon,Cross Country,Men,6
+2024,Ripon,Basketball,Men,5
+2024,Ripon,Swimming,Men,1
+2024,Ripon,Indoor Track & Field,Men,7
+2024,Ripon,Tennis,Men,
+2024,Ripon,Outdoor Track & Field,Men,
+2024,Ripon,Baseball,Men,
+2024,Ripon,Total,Men,29
+2024,Beloit,Volleyball,Women,1
+2024,Beloit,Soccer,Women,6
+2024,Beloit,Cross Country,Women,2
+2024,Beloit,Tennis,Women,
+2024,Beloit,Basketball,Women,2
+2024,Beloit,Swimming,Women,5
+2024,Beloit,Indoor Track & Field,Women,3
+2024,Beloit,Outdoor Track & Field,Women,
+2024,Beloit,Softball,Women,
+2024,Beloit,Total,Women,19
+2024,Cornell,Volleyball,Women,9
+2024,Cornell,Soccer,Women,2
+2024,Cornell,Cross Country,Women,6
+2024,Cornell,Tennis,Women,5
+2024,Cornell,Basketball,Women,5.5
+2024,Cornell,Swimming,Women,
+2024,Cornell,Indoor Track & Field,Women,5
+2024,Cornell,Outdoor Track & Field,Women,
+2024,Cornell,Softball,Women,
+2024,Cornell,Total,Women,32.5
+2024,Grinnell,Volleyball,Women,8
+2024,Grinnell,Soccer,Women,7
+2024,Grinnell,Cross Country,Women,8
+2024,Grinnell,Tennis,Women,7
+2024,Grinnell,Basketball,Women,7.5
+2024,Grinnell,Swimming,Women,8
+2024,Grinnell,Indoor Track & Field,Women,7
+2024,Grinnell,Outdoor Track & Field,Women,
+2024,Grinnell,Softball,Women,
+2024,Grinnell,Total,Women,52.5
+2024,Illinois College,Volleyball,Women,6
+2024,Illinois College,Soccer,Women,4
+2024,Illinois College,Cross Country,Women,1
+2024,Illinois College,Tennis,Women,4
+2024,Illinois College,Basketball,Women,4
+2024,Illinois College,Swimming,Women,1
+2024,Illinois College,Indoor Track & Field,Women,9
+2024,Illinois College,Outdoor Track & Field,Women,
+2024,Illinois College,Softball,Women,
+2024,Illinois College,Total,Women,29
+2024,Knox,Volleyball,Women,3
+2024,Knox,Soccer,Women,1
+2024,Knox,Cross Country,Women,3
+2024,Knox,Tennis,Women,
+2024,Knox,Basketball,Women,5.5
+2024,Knox,Swimming,Women,
+2024,Knox,Indoor Track & Field,Women,1
+2024,Knox,Outdoor Track & Field,Women,
+2024,Knox,Softball,Women,
+2024,Knox,Total,Women,13.5
+2024,Lake Forest,Volleyball,Women,4
+2024,Lake Forest,Soccer,Women,8.5
+2024,Lake Forest,Cross Country,Women,5
+2024,Lake Forest,Tennis,Women,6
+2024,Lake Forest,Basketball,Women,2
+2024,Lake Forest,Swimming,Women,6
+2024,Lake Forest,Indoor Track & Field,Women,2
+2024,Lake Forest,Outdoor Track & Field,Women,
+2024,Lake Forest,Softball,Women,
+2024,Lake Forest,Total,Women,33.5
+2024,Lawrence,Volleyball,Women,5
+2024,Lawrence,Soccer,Women,8.5
+2024,Lawrence,Cross Country,Women,9
+2024,Lawrence,Tennis,Women,3
+2024,Lawrence,Basketball,Women,7.5
+2024,Lawrence,Swimming,Women,4
+2024,Lawrence,Indoor Track & Field,Women,4
+2024,Lawrence,Outdoor Track & Field,Women,
+2024,Lawrence,Softball,Women,
+2024,Lawrence,Total,Women,41
+2024,Monmouth,Volleyball,Women,7
+2024,Monmouth,Soccer,Women,5
+2024,Monmouth,Cross Country,Women,4
+2024,Monmouth,Tennis,Women,2
+2024,Monmouth,Basketball,Women,2
+2024,Monmouth,Swimming,Women,3
+2024,Monmouth,Indoor Track & Field,Women,8
+2024,Monmouth,Outdoor Track & Field,Women,
+2024,Monmouth,Softball,Women,
+2024,Monmouth,Total,Women,31
+2024,Ripon,Volleyball,Women,2
+2024,Ripon,Soccer,Women,3
+2024,Ripon,Cross Country,Women,7
+2024,Ripon,Tennis,Women,1
+2024,Ripon,Basketball,Women,9
+2024,Ripon,Swimming,Women,2
+2024,Ripon,Indoor Track & Field,Women,6
+2024,Ripon,Outdoor Track & Field,Women,
+2024,Ripon,Softball,Women,
+2024,Ripon,Total,Women,30
