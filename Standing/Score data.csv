@@ -1,403 +1,403 @@
-Year,School,Sport,Gender,Rank
-2003,Beloit,Football,Men,4.0
-2003,Beloit,Soccer,Men,9.0
-2003,Beloit,Cross Country,Men,7.0
-2003,Beloit,Basketball,Men,1.0
-2003,Beloit,Swimming,Men,5.0
-2003,Beloit,Indoor Track & Field,Men,5.0
-2003,Beloit,Tennis,Men,6.0
+Year,School,Sport,Gender,Scores
+2003,Beloit,Football,Men,4
+2003,Beloit,Soccer,Men,9
+2003,Beloit,Cross Country,Men,7
+2003,Beloit,Basketball,Men,1
+2003,Beloit,Swimming,Men,5
+2003,Beloit,Indoor Track & Field,Men,5
+2003,Beloit,Tennis,Men,6
 2003,Beloit,Baseball,Men,3.5
-2003,Beloit,Outdoor Track & Field,Men,2.0
+2003,Beloit,Outdoor Track & Field,Men,2
 2003,Beloit,Total,Men,44.5
-2003,Carroll,Football,Men,4.0
-2003,Carroll,Soccer,Men,3.0
-2003,Carroll,Cross Country,Men,4.0
-2003,Carroll,Basketball,Men,9.0
-2003,Carroll,Swimming,Men,6.0
-2003,Carroll,Indoor Track & Field,Men,2.0
-2003,Carroll,Tennis,Men,2.0
-2003,Carroll,Baseball,Men,2.0
-2003,Carroll,Outdoor Track & Field,Men,4.0
-2003,Carroll,Total,Men,42.0
-2003,Grinnell,Football,Men,1.0
-2003,Grinnell,Soccer,Men,6.0
-2003,Grinnell,Cross Country,Men,10.0
-2003,Grinnell,Basketball,Men,8.0
-2003,Grinnell,Swimming,Men,10.0
-2003,Grinnell,Indoor Track & Field,Men,8.0
-2003,Grinnell,Tennis,Men,10.0
+2003,Carroll,Football,Men,4
+2003,Carroll,Soccer,Men,3
+2003,Carroll,Cross Country,Men,4
+2003,Carroll,Basketball,Men,9
+2003,Carroll,Swimming,Men,6
+2003,Carroll,Indoor Track & Field,Men,2
+2003,Carroll,Tennis,Men,2
+2003,Carroll,Baseball,Men,2
+2003,Carroll,Outdoor Track & Field,Men,4
+2003,Carroll,Total,Men,42
+2003,Grinnell,Football,Men,1
+2003,Grinnell,Soccer,Men,6
+2003,Grinnell,Cross Country,Men,10
+2003,Grinnell,Basketball,Men,8
+2003,Grinnell,Swimming,Men,10
+2003,Grinnell,Indoor Track & Field,Men,8
+2003,Grinnell,Tennis,Men,10
 2003,Grinnell,Baseball,Men,5.5
-2003,Grinnell,Outdoor Track & Field,Men,8.0
+2003,Grinnell,Outdoor Track & Field,Men,8
 2003,Grinnell,Total,Men,71.5
-2003,Illinois C.,Football,Men,4.0
+2003,Illinois C.,Football,Men,4
 2003,Illinois C.,Soccer,Men,1.5
-2003,Illinois C.,Cross Country,Men,1.0
-2003,Illinois C.,Basketball,Men,4.0
+2003,Illinois C.,Cross Country,Men,1
+2003,Illinois C.,Basketball,Men,4
 2003,Illinois C.,Swimming,Men,
-2003,Illinois C.,Indoor Track & Field,Men,6.0
-2003,Illinois C.,Tennis,Men,1.0
+2003,Illinois C.,Indoor Track & Field,Men,6
+2003,Illinois C.,Tennis,Men,1
 2003,Illinois C.,Baseball,Men,7.5
-2003,Illinois C.,Outdoor Track & Field,Men,6.0
-2003,Illinois C.,Total,Men,34.0
-2003,Knox,Football,Men,4.0
+2003,Illinois C.,Outdoor Track & Field,Men,6
+2003,Illinois C.,Total,Men,34
+2003,Knox,Football,Men,4
 2003,Knox,Soccer,Men,1.5
-2003,Knox,Cross Country,Men,8.0
+2003,Knox,Cross Country,Men,8
 2003,Knox,Basketball,Men,2.5
-2003,Knox,Swimming,Men,4.0
-2003,Knox,Indoor Track & Field,Men,3.0
-2003,Knox,Tennis,Men,4.0
+2003,Knox,Swimming,Men,4
+2003,Knox,Indoor Track & Field,Men,3
+2003,Knox,Tennis,Men,4
 2003,Knox,Baseball,Men,3.5
-2003,Knox,Outdoor Track & Field,Men,3.0
+2003,Knox,Outdoor Track & Field,Men,3
 2003,Knox,Total,Men,42.5
-2003,Lake Forest,Football,Men,8.0
-2003,Lake Forest,Soccer,Men,8.0
-2003,Lake Forest,Cross Country,Men,5.0
-2003,Lake Forest,Basketball,Men,7.0
-2003,Lake Forest,Swimming,Men,8.0
+2003,Lake Forest,Football,Men,8
+2003,Lake Forest,Soccer,Men,8
+2003,Lake Forest,Cross Country,Men,5
+2003,Lake Forest,Basketball,Men,7
+2003,Lake Forest,Swimming,Men,8
 2003,Lake Forest,Indoor Track & Field,Men,
-2003,Lake Forest,Tennis,Men,7.0
+2003,Lake Forest,Tennis,Men,7
 2003,Lake Forest,Baseball,Men,
 2003,Lake Forest,Outdoor Track & Field,Men,
-2003,Lake Forest,Total,Men,43.0
-2003,Lawerence,Football,Men,4.0
-2003,Lawerence,Soccer,Men,7.0
-2003,Lawerence,Cross Country,Men,2.0
-2003,Lawerence,Basketball,Men,10.0
-2003,Lawerence,Swimming,Men,9.0
-2003,Lawerence,Indoor Track & Field,Men,4.0
-2003,Lawerence,Tennis,Men,5.0
+2003,Lake Forest,Total,Men,43
+2003,Lawerence,Football,Men,4
+2003,Lawerence,Soccer,Men,7
+2003,Lawerence,Cross Country,Men,2
+2003,Lawerence,Basketball,Men,10
+2003,Lawerence,Swimming,Men,9
+2003,Lawerence,Indoor Track & Field,Men,4
+2003,Lawerence,Tennis,Men,5
 2003,Lawerence,Baseball,Men,5.5
-2003,Lawerence,Outdoor Track & Field,Men,5.0
+2003,Lawerence,Outdoor Track & Field,Men,5
 2003,Lawerence,Total,Men,59.5
-2003,Monmouth,Football,Men,9.0
+2003,Monmouth,Football,Men,9
 2003,Monmouth,Soccer,Men,4.5
-2003,Monmouth,Cross Country,Men,3.0
+2003,Monmouth,Cross Country,Men,3
 2003,Monmouth,Basketball,Men,2.5
 2003,Monmouth,Swimming,Men,
-2003,Monmouth,Indoor Track & Field,Men,1.0
-2003,Monmouth,Tennis,Men,3.0
-2003,Monmouth,Baseball,Men,9.0
-2003,Monmouth,Outdoor Track & Field,Men,10.0
-2003,Monmouth,Total,Men,61.0
-2003,Ripon,Football,Men,7.0
+2003,Monmouth,Indoor Track & Field,Men,1
+2003,Monmouth,Tennis,Men,3
+2003,Monmouth,Baseball,Men,9
+2003,Monmouth,Outdoor Track & Field,Men,10
+2003,Monmouth,Total,Men,61
+2003,Ripon,Football,Men,7
 2003,Ripon,Soccer,Men,4.5
-2003,Ripon,Cross Country,Men,6.0
-2003,Ripon,Basketball,Men,5.0
-2003,Ripon,Swimming,Men,7.0
-2003,Ripon,Indoor Track & Field,Men,7.0
-2003,Ripon,Tennis,Men,9.0
-2003,Ripon,Baseball,Men,10.0
-2003,Ripon,Outdoor Track & Field,Men,7.0
+2003,Ripon,Cross Country,Men,6
+2003,Ripon,Basketball,Men,5
+2003,Ripon,Swimming,Men,7
+2003,Ripon,Indoor Track & Field,Men,7
+2003,Ripon,Tennis,Men,9
+2003,Ripon,Baseball,Men,10
+2003,Ripon,Outdoor Track & Field,Men,7
 2003,Ripon,Total,Men,66.5
-2003,St. Norbert,Football,Men,10.0
-2003,St. Norbert,Soccer,Men,10.
-2003,St. Norbert,Cross Country,Men,9.0
-2003,St. Norbert,Basketball,Men,6.0
+2003,St. Norbert,Football,Men,10
+2003,St. Norbert,Soccer,Men,10
+2003,St. Norbert,Cross Country,Men,9
+2003,St. Norbert,Basketball,Men,6
 2003,St. Norbert,Swimming,Men,
-2003,St. Norbert,Indoor Track & Field,Men,9.0
-2003,St. Norbert,Tennis,Men,8.0
+2003,St. Norbert,Indoor Track & Field,Men,9
+2003,St. Norbert,Tennis,Men,8
 2003,St. Norbert,Baseball,Men,7.5
-2003,St. Norbert,Outdoor Track & Field,Men,9.0
+2003,St. Norbert,Outdoor Track & Field,Men,9
 2003,St. Norbert,Total,Men,75.5
-2003,Beloit,Volleyball,Women,7.0
-2003,Beloit,Soccer,Women,4.0
-2003,Beloit,Cross Country,Women,7.0
-2003,Beloit,Tennis,Women,5.0
-2003,Beloit,Basketball,Women,4.0
-2003,Beloit,Swimming,Women,6.0
-2003,Beloit,Indoor Track & Field,Women,8.0
+2003,Beloit,Volleyball,Women,7
+2003,Beloit,Soccer,Women,4
+2003,Beloit,Cross Country,Women,7
+2003,Beloit,Tennis,Women,5
+2003,Beloit,Basketball,Women,4
+2003,Beloit,Swimming,Women,6
+2003,Beloit,Indoor Track & Field,Women,8
 2003,Beloit,Softball,Women,3.5
-2003,Beloit,Outdoor Track & Field,Women,9.0
+2003,Beloit,Outdoor Track & Field,Women,9
 2003,Beloit,Total,Women,57.5
-2003,Carroll,Volleyball,Women,9.0
-2003,Carroll,Soccer,Women,7.0
-2003,Carroll,Cross Country,Women,6.0
-2003,Carroll,Tennis,Women,7.0
+2003,Carroll,Volleyball,Women,9
+2003,Carroll,Soccer,Women,7
+2003,Carroll,Cross Country,Women,6
+2003,Carroll,Tennis,Women,7
 2003,Carroll,Basketball,Women,5.5
-2003,Carroll,Swimming,Women,5.0
-2003,Carroll,Indoor Track & Field,Women,9.0
+2003,Carroll,Swimming,Women,5
+2003,Carroll,Indoor Track & Field,Women,9
 2003,Carroll,Softball,Women,1.5
-2003,Carroll,Outdoor Track & Field,Women,10.0
-2003,Carroll,Total,Women,66.0
+2003,Carroll,Outdoor Track & Field,Women,10
+2003,Carroll,Total,Women,66
 2003,Grinnell,Volleyball,Women,3.5
-2003,Grinnell,Soccer,Women,10.0
-2003,Grinnell,Cross Country,Women,8.0
-2003,Grinnell,Tennis,Women,9.0
+2003,Grinnell,Soccer,Women,10
+2003,Grinnell,Cross Country,Women,8
+2003,Grinnell,Tennis,Women,9
 2003,Grinnell,Basketball,Women,7.5
-2003,Grinnell,Swimming,Women,10.0
+2003,Grinnell,Swimming,Women,10
 2003,Grinnell,Indoor Track & Field,Women,6.5
 2003,Grinnell,Softball,Women,1.5
-2003,Grinnell,Outdoor Track & Field,Women,3.0
-2003,Grinnell,Total,Women,62.0
-2003,Illinois C.,Volleyball,Women,6.0
-2003,Illinois C.,Soccer,Women,2.0
-2003,Illinois C.,Cross Country,Women,1.0
-2003,Illinois C.,Tennis,Women,2.0
-2003,Illinois C.,Basketball,Women,3.0
+2003,Grinnell,Outdoor Track & Field,Women,3
+2003,Grinnell,Total,Women,62
+2003,Illinois C.,Volleyball,Women,6
+2003,Illinois C.,Soccer,Women,2
+2003,Illinois C.,Cross Country,Women,1
+2003,Illinois C.,Tennis,Women,2
+2003,Illinois C.,Basketball,Women,3
 2003,Illinois C.,Swimming,Women,
-2003,Illinois C.,Indoor Track & Field,Women,4.0
+2003,Illinois C.,Indoor Track & Field,Women,4
 2003,Illinois C.,Softball,Women,5.5
-2003,Illinois C.,Outdoor Track & Field,Women,2.0
+2003,Illinois C.,Outdoor Track & Field,Women,2
 2003,Illinois C.,Total,Women,35.5
 2003,Knox,Volleyball,Women,3.5
-2003,Knox,Soccer,Women,1.0
-2003,Knox,Cross Country,Women,3.0
-2003,Knox,Tennis,Women,4.0
-2003,Knox,Basketball,Women,1.0
-2003,Knox,Swimming,Women,4.0
-2003,Knox,Indoor Track & Field,Women,5.0
+2003,Knox,Soccer,Women,1
+2003,Knox,Cross Country,Women,3
+2003,Knox,Tennis,Women,4
+2003,Knox,Basketball,Women,1
+2003,Knox,Swimming,Women,4
+2003,Knox,Indoor Track & Field,Women,5
 2003,Knox,Softball,Women,3.5
-2003,Knox,Outdoor Track & Field,Women,4.0
-2003,Knox,Total,Women,38.0
-2003,Lake Forest,Volleyball,Women,10.0
-2003,Lake Forest,Soccer,Women,9.0
-2003,Lake Forest,Cross Country,Women,2.0
-2003,Lake Forest,Tennis,Women,10.0
+2003,Knox,Outdoor Track & Field,Women,4
+2003,Knox,Total,Women,38
+2003,Lake Forest,Volleyball,Women,10
+2003,Lake Forest,Soccer,Women,9
+2003,Lake Forest,Cross Country,Women,2
+2003,Lake Forest,Tennis,Women,10
 2003,Lake Forest,Basketball,Women,7.5
-2003,Lake Forest,Swimming,Women,9.0
+2003,Lake Forest,Swimming,Women,9
 2003,Lake Forest,Indoor Track & Field,Women,
-2003,Lake Forest,Softball,Women,10.0
+2003,Lake Forest,Softball,Women,10
 2003,Lake Forest,Outdoor Track & Field,Women,
 2003,Lake Forest,Total,Women,57.5
 2003,Lawerence,Volleyball,Women,1.5
-2003,Lawerence,Soccer,Women,5.0
-2003,Lawerence,Cross Country,Women,9.0
-2003,Lawerence,Tennis,Women,3.0
+2003,Lawerence,Soccer,Women,5
+2003,Lawerence,Cross Country,Women,9
+2003,Lawerence,Tennis,Women,3
 2003,Lawerence,Basketball,Women,5.5
-2003,Lawerence,Swimming,Women,7.0
-2003,Lawerence,Indoor Track & Field,Women,3.0
-2003,Lawerence,Softball,Women,8.0
-2003,Lawerence,Outdoor Track & Field,Women,5.0
-2003,Lawerence,Total,Women,47.0
-2003,Monmouth,Volleyball,Women,5.0
-2003,Monmouth,Soccer,Women,6.0
-2003,Monmouth,Cross Country,Women,4.0
-2003,Monmouth,Tennis,Women,1.0
-2003,Monmouth,Basketball,Women,2.0
+2003,Lawerence,Swimming,Women,7
+2003,Lawerence,Indoor Track & Field,Women,3
+2003,Lawerence,Softball,Women,8
+2003,Lawerence,Outdoor Track & Field,Women,5
+2003,Lawerence,Total,Women,47
+2003,Monmouth,Volleyball,Women,5
+2003,Monmouth,Soccer,Women,6
+2003,Monmouth,Cross Country,Women,4
+2003,Monmouth,Tennis,Women,1
+2003,Monmouth,Basketball,Women,2
 2003,Monmouth,Swimming,Women,
-2003,Monmouth,Indoor Track & Field,Women,10.0
-2003,Monmouth,Softball,Women,7.0
-2003,Monmouth,Outdoor Track & Field,Women,8.0
-2003,Monmouth,Total,Women,50.0
+2003,Monmouth,Indoor Track & Field,Women,10
+2003,Monmouth,Softball,Women,7
+2003,Monmouth,Outdoor Track & Field,Women,8
+2003,Monmouth,Total,Women,50
 2003,Ripon,Volleyball,Women,1.5
-2003,Ripon,Soccer,Women,3.0
-2003,Ripon,Cross Country,Women,5.0
-2003,Ripon,Tennis,Women,8.0
-2003,Ripon,Basketball,Women,10.0
-2003,Ripon,Swimming,Women,3.0
-2003,Ripon,Indoor Track & Field,Women,2.0
-2003,Ripon,Softball,Women,9.0
-2003,Ripon,Outdoor Track & Field,Women,6.0
+2003,Ripon,Soccer,Women,3
+2003,Ripon,Cross Country,Women,5
+2003,Ripon,Tennis,Women,8
+2003,Ripon,Basketball,Women,10
+2003,Ripon,Swimming,Women,3
+2003,Ripon,Indoor Track & Field,Women,2
+2003,Ripon,Softball,Women,9
+2003,Ripon,Outdoor Track & Field,Women,6
 2003,Ripon,Total,Women,55.5
-2003,St. Norbert,Volleyball,Women,8.0
-2003,St. Norbert,Soccer,Women,8.0
-2003,St. Norbert,Cross Country,Women,10.0
-2003,St. Norbert,Tennis,Women,6.0
-2003,St. Norbert,Basketball,Women,9.0
-2003,St. Norbert,Swimming,Women,8.0
+2003,St. Norbert,Volleyball,Women,8
+2003,St. Norbert,Soccer,Women,8
+2003,St. Norbert,Cross Country,Women,10
+2003,St. Norbert,Tennis,Women,6
+2003,St. Norbert,Basketball,Women,9
+2003,St. Norbert,Swimming,Women,8
 2003,St. Norbert,Indoor Track & Field,Women,6.5
 2003,St. Norbert,Softball,Women,5.5
-2003,St. Norbert,Outdoor Track & Field,Women,7.0
-2003,St. Norbert,Total,Women,73.0
-2004,Beloit,Football,Men,3.0
-2004,Beloit,Soccer,Men,7.0
+2003,St. Norbert,Outdoor Track & Field,Women,7
+2003,St. Norbert,Total,Women,73
+2004,Beloit,Football,Men,3
+2004,Beloit,Soccer,Men,7
 2004,Beloit,Cross Country,Men,6.5
 2004,Beloit,Basketball,Men,2.5
-2004,Beloit,Swimming,Men,6.0
-2004,Beloit,Indoor Track & Field,Men,4.0
-2004,Beloit,Tennis,Men,3.0
-2004,Beloit,Baseball,Men,5.0
-2004,Beloit,Outdoor Track & Field,Men,5.0
+2004,Beloit,Swimming,Men,6
+2004,Beloit,Indoor Track & Field,Men,4
+2004,Beloit,Tennis,Men,3
+2004,Beloit,Baseball,Men,5
+2004,Beloit,Outdoor Track & Field,Men,5
 2004,Beloit,Total,Men,45.5
-2004,Carroll,Football,Men,4.0
-2004,Carroll,Soccer,Men,9.0
-2004,Carroll,Cross Country,Men,2.0
+2004,Carroll,Football,Men,4
+2004,Carroll,Soccer,Men,9
+2004,Carroll,Cross Country,Men,2
 2004,Carroll,Basketball,Men,7.5
-2004,Carroll,Swimming,Men,5.0
+2004,Carroll,Swimming,Men,5
 2004,Carroll,Indoor Track & Field,Men,2.5
-2004,Carroll,Tennis,Men,2.0
+2004,Carroll,Tennis,Men,2
 2004,Carroll,Baseball,Men,2.5
-2004,Carroll,Outdoor Track & Field,Men,2.0
+2004,Carroll,Outdoor Track & Field,Men,2
 2004,Carroll,Total,Men,43.5
 2004,Ginnell,Football,Men,6.5
-2004,Ginnell,Soccer,Men,4.0
-2004,Ginnell,Cross Country,Men,10.0
+2004,Ginnell,Soccer,Men,4
+2004,Ginnell,Cross Country,Men,10
 2004,Ginnell,Basketball,Men,2.5
-2004,Ginnell,Swimming,Men,10.0
-2004,Ginnell,Indoor Track & Field,Men,5.0
-2004,Ginnell,Tennis,Men,10.0
-2004,Ginnell,Baseball,Men,5.0
-2004,Ginnell,Outdoor Track & Field,Men,8.0
-2004,Ginnell,Total,Men,69.0
+2004,Ginnell,Swimming,Men,10
+2004,Ginnell,Indoor Track & Field,Men,5
+2004,Ginnell,Tennis,Men,10
+2004,Ginnell,Baseball,Men,5
+2004,Ginnell,Outdoor Track & Field,Men,8
+2004,Ginnell,Total,Men,69
 2004,Illinois C.,Football,Men,6.5
-2004,Illinois C.,Soccer,Men,3.0
-2004,Illinois C.,Cross Country,Men,1.0
+2004,Illinois C.,Soccer,Men,3
+2004,Illinois C.,Cross Country,Men,1
 2004,Illinois C.,Basketball,Men,2.5
 2004,Illinois C.,Swimming,Men,
 2004,Illinois C.,Indoor Track & Field,Men,7.5
-2004,Illinois C.,Tennis,Men,1.0
+2004,Illinois C.,Tennis,Men,1
 2004,Illinois C.,Baseball,Men,7.5
-2004,Illinois C.,Outdoor Track & Field,Men,4.0
+2004,Illinois C.,Outdoor Track & Field,Men,4
 2004,Illinois C.,Total,Men,35.5
 2004,Know,Football,Men,1.5
-2004,Know,Soccer,Men,2.0
-2004,Know,Cross Country,Men,3.0
-2004,Know,Basketball,Men,5.0
-2004,Know,Swimming,Men,4.0
+2004,Know,Soccer,Men,2
+2004,Know,Cross Country,Men,3
+2004,Know,Basketball,Men,5
+2004,Know,Swimming,Men,4
 2004,Know,Indoor Track & Field,Men,2.5
-2004,Know,Tennis,Men,7.0
+2004,Know,Tennis,Men,7
 2004,Know,Baseball,Men,2.5
-2004,Know,Outdoor Track & Field,Men,3.0
-2004,Know,Total,Men,40.0
-2004,Lake Forest,Football,Men,8.0
-2004,Lake Forest,Soccer,Men,7.0
-2004,Lake Forest,Cross Country,Men,4.0
+2004,Know,Outdoor Track & Field,Men,3
+2004,Know,Total,Men,40
+2004,Lake Forest,Football,Men,8
+2004,Lake Forest,Soccer,Men,7
+2004,Lake Forest,Cross Country,Men,4
 2004,Lake Forest,Basketball,Men,7.5
-2004,Lake Forest,Swimming,Men,8.0
+2004,Lake Forest,Swimming,Men,8
 2004,Lake Forest,Indoor Track & Field,Men,
-2004,Lake Forest,Tennis,Men,4.0
+2004,Lake Forest,Tennis,Men,4
 2004,Lake Forest,Baseball,Men,
 2004,Lake Forest,Outdoor Track & Field,Men,
 2004,Lake Forest,Total,Men,38.5
 2004,Lawerence,Football,Men,1.5
-2004,Lawerence,Soccer,Men,7.0
-2004,Lawerence,Cross Country,Men,5.0
-2004,Lawerence,Basketball,Men,1.0
-2004,Lawerence,Swimming,Men,9.0
-2004,Lawerence,Indoor Track & Field,Men,5.0
-2004,Lawerence,Tennis,Men,5.0
-2004,Lawerence,Baseball,Men,5.0
-2004,Lawerence,Outdoor Track & Field,Men,7.0
+2004,Lawerence,Soccer,Men,7
+2004,Lawerence,Cross Country,Men,5
+2004,Lawerence,Basketball,Men,1
+2004,Lawerence,Swimming,Men,9
+2004,Lawerence,Indoor Track & Field,Men,5
+2004,Lawerence,Tennis,Men,5
+2004,Lawerence,Baseball,Men,5
+2004,Lawerence,Outdoor Track & Field,Men,7
 2004,Lawerence,Total,Men,64.5
-2004,Monmouth,Football,Men,9.0
-2004,Monmouth,Soccer,Men,1.0
-2004,Monmouth,Cross Country,Men,9.0
-2004,Monmouth,Basketball,Men,6.0
-2004,Monmouth,Swimming,Men,7.0
-2004,Monmouth,Indoor Track & Field,Men,10.0
+2004,Monmouth,Football,Men,9
+2004,Monmouth,Soccer,Men,1
+2004,Monmouth,Cross Country,Men,9
+2004,Monmouth,Basketball,Men,6
+2004,Monmouth,Swimming,Men,7
+2004,Monmouth,Indoor Track & Field,Men,10
 2004,Monmouth,Tennis,Men,6..0
 2004,Monmouth,Baseball,Men,7.5
-2004,Monmouth,Outdoor Track & Field,Men,10.0
+2004,Monmouth,Outdoor Track & Field,Men,10
 2004,Monmouth,Total,Men,73.5
-2004,Ripon,Football,Men,5.0
-2004,Ripon,Soccer,Men,5.0
+2004,Ripon,Football,Men,5
+2004,Ripon,Soccer,Men,5
 2004,Ripon,Cross Country,Men,6.5
-2004,Ripon,Basketball,Men,9.0
-2004,Ripon,Swimming,Men,3.0
-2004,Ripon,Indoor Track & Field,Men,6.0
-2004,Ripon,Tennis,Men,9.0
-2004,Ripon,Baseball,Men,10.0
-2004,Ripon,Outdoor Track & Field,Men,6.0
+2004,Ripon,Basketball,Men,9
+2004,Ripon,Swimming,Men,3
+2004,Ripon,Indoor Track & Field,Men,6
+2004,Ripon,Tennis,Men,9
+2004,Ripon,Baseball,Men,10
+2004,Ripon,Outdoor Track & Field,Men,6
 2004,Ripon,Total,Men,61.5
-2004,St. Norbert,Football,Men,10.0
-2004,St. Norbert,Soccer,Men,10.0
-2004,St. Norbert,Cross Country,Men,8.0
+2004,St. Norbert,Football,Men,10
+2004,St. Norbert,Soccer,Men,10
+2004,St. Norbert,Cross Country,Men,8
 2004,St. Norbert,Basketball,Men,2.5
 2004,St. Norbert,Swimming,Men,
-2004,St. Norbert,Indoor Track & Field,Men,9.0
-2004,St. Norbert,Tennis,Men,8.0
-2004,St. Norbert,Baseball,Men,9.0
-2004,St. Norbert,Outdoor Track & Field,Men,9.0
+2004,St. Norbert,Indoor Track & Field,Men,9
+2004,St. Norbert,Tennis,Men,8
+2004,St. Norbert,Baseball,Men,9
+2004,St. Norbert,Outdoor Track & Field,Men,9
 2004,St. Norbert,Total,Men,71.5
-2004,Beloit,Volleyball,Women,6.0
-2004,Beloit,Soccer,Women,3.0
-2004,Beloit,Cross Country,Women,7.0
-2004,Beloit,Tennis,Women,8.0
-2004,Beloit,Basketball,Women,4.0
-2004,Beloit,Swimming,Women,5.0
-2004,Beloit,Indoor Track & Field,Women,4.0
-2004,Beloit,Softball,Women,9.0
-2004,Beloit,Outdoor Track & Field,Women,6.0
-2004,Beloit,Total,Women,55.0
+2004,Beloit,Volleyball,Women,6
+2004,Beloit,Soccer,Women,3
+2004,Beloit,Cross Country,Women,7
+2004,Beloit,Tennis,Women,8
+2004,Beloit,Basketball,Women,4
+2004,Beloit,Swimming,Women,5
+2004,Beloit,Indoor Track & Field,Women,4
+2004,Beloit,Softball,Women,9
+2004,Beloit,Outdoor Track & Field,Women,6
+2004,Beloit,Total,Women,55
 2004,Carroll,Volleyball,Women,1.5
-2004,Carroll,Soccer,Women,9.0
-2004,Carroll,Cross Country,Women,5.0
-2004,Carroll,Tennis,Women,7.0
-2004,Carroll,Basketball,Women,5.0
-2004,Carroll,Swimming,Women,8.0
-2004,Carroll,Indoor Track & Field,Women,9.0
+2004,Carroll,Soccer,Women,9
+2004,Carroll,Cross Country,Women,5
+2004,Carroll,Tennis,Women,7
+2004,Carroll,Basketball,Women,5
+2004,Carroll,Swimming,Women,8
+2004,Carroll,Indoor Track & Field,Women,9
 2004,Carroll,Softball,Women,3.5
-2004,Carroll,Outdoor Track & Field,Women,9.0
+2004,Carroll,Outdoor Track & Field,Women,9
 2004,Carroll,Total,Women,61.5
 2004,Grinnell,Volleyball,Women,3.5
-2004,Grinnell,Soccer,Women,8.0
-2004,Grinnell,Cross Country,Women,10.0
-2004,Grinnell,Tennis,Women,10.0
-2004,Grinnell,Basketball,Women,2.0
-2004,Grinnell,Swimming,Women,10.0
-2004,Grinnell,Indoor Track & Field,Women,6.0
+2004,Grinnell,Soccer,Women,8
+2004,Grinnell,Cross Country,Women,10
+2004,Grinnell,Tennis,Women,10
+2004,Grinnell,Basketball,Women,2
+2004,Grinnell,Swimming,Women,10
+2004,Grinnell,Indoor Track & Field,Women,6
 2004,Grinnell,Softball,Women,5.5
-2004,Grinnell,Outdoor Track & Field,Women,7.0
-2004,Grinnell,Total,Women,69.0
-2004,Illinois C.,Volleyball,Women,5.0
-2004,Illinois C.,Soccer,Women,4.0
-2004,Illinois C.,Cross Country,Women,1.0
-2004,Illinois C.,Tennis,Women,1.0
-2004,Illinois C.,Basketball,Women,6.0
+2004,Grinnell,Outdoor Track & Field,Women,7
+2004,Grinnell,Total,Women,69
+2004,Illinois C.,Volleyball,Women,5
+2004,Illinois C.,Soccer,Women,4
+2004,Illinois C.,Cross Country,Women,1
+2004,Illinois C.,Tennis,Women,1
+2004,Illinois C.,Basketball,Women,6
 2004,Illinois C.,Swimming,Women,
-2004,Illinois C.,Indoor Track & Field,Women,5.0
-2004,Illinois C.,Softball,Women,8.0
-2004,Illinois C.,Outdoor Track & Field,Women,4.0
-2004,Illinois C.,Total,Women,44.0
+2004,Illinois C.,Indoor Track & Field,Women,5
+2004,Illinois C.,Softball,Women,8
+2004,Illinois C.,Outdoor Track & Field,Women,4
+2004,Illinois C.,Total,Women,44
 2004,Knox,Volleyball,Women,1.5
-2004,Knox,Soccer,Women,1.0
-2004,Knox,Cross Country,Women,2.0
-2004,Knox,Tennis,Women,2.0
-2004,Knox,Basketball,Women,1.0
-2004,Knox,Swimming,Women,2.0
-2004,Knox,Indoor Track & Field,Women,3.0
+2004,Knox,Soccer,Women,1
+2004,Knox,Cross Country,Women,2
+2004,Knox,Tennis,Women,2
+2004,Knox,Basketball,Women,1
+2004,Knox,Swimming,Women,2
+2004,Knox,Indoor Track & Field,Women,3
 2004,Knox,Softball,Women,1.5
-2004,Knox,Outdoor Track & Field,Women,3.0
-2004,Knox,Total,Women,28.0
-2004,Lake Forest,Volleyball,Women,9.0
-2004,Lake Forest,Soccer,Women,10.0
-2004,Lake Forest,Cross Country,Women,4.0
-2004,Lake Forest,Tennis,Women,4.0
+2004,Knox,Outdoor Track & Field,Women,3
+2004,Knox,Total,Women,28
+2004,Lake Forest,Volleyball,Women,9
+2004,Lake Forest,Soccer,Women,10
+2004,Lake Forest,Cross Country,Women,4
+2004,Lake Forest,Tennis,Women,4
 2004,Lake Forest,Basketball,Women,7.5
-2004,Lake Forest,Swimming,Women,9.0
+2004,Lake Forest,Swimming,Women,9
 2004,Lake Forest,Indoor Track & Field,Women,
-2004,Lake Forest,Softball,Women,10.0
+2004,Lake Forest,Softball,Women,10
 2004,Lake Forest,Outdoor Track & Field,Women,
 2004,Lake Forest,Total,Women,58.5
 2004,Lawerence,Volleyball,Women,3.5
-2004,Lawerence,Soccer,Women,6.0
-2004,Lawerence,Cross Country,Women,9.0
-2004,Lawerence,Tennis,Women,9.0
+2004,Lawerence,Soccer,Women,6
+2004,Lawerence,Cross Country,Women,9
+2004,Lawerence,Tennis,Women,9
 2004,Lawerence,Basketball,Women,7.5
-2004,Lawerence,Swimming,Women,7.0
-2004,Lawerence,Indoor Track & Field,Women,2.0
-2004,Lawerence,Softball,Women,7.0
-2004,Lawerence,Outdoor Track & Field,Women,2.0
-2004,Lawerence,Total,Women,46.0
-2004,Monmouth,Volleyball,Women,8.0
-2004,Monmouth,Soccer,Women,5.0
-2004,Monmouth,Cross Country,Women,3.0
-2004,Monmouth,Tennis,Women,3.0
-2004,Monmouth,Basketball,Women,3.0
-2004,Monmouth,Swimming,Women,3.0
-2004,Monmouth,Indoor Track & Field,Women,10.0
+2004,Lawerence,Swimming,Women,7
+2004,Lawerence,Indoor Track & Field,Women,2
+2004,Lawerence,Softball,Women,7
+2004,Lawerence,Outdoor Track & Field,Women,2
+2004,Lawerence,Total,Women,46
+2004,Monmouth,Volleyball,Women,8
+2004,Monmouth,Soccer,Women,5
+2004,Monmouth,Cross Country,Women,3
+2004,Monmouth,Tennis,Women,3
+2004,Monmouth,Basketball,Women,3
+2004,Monmouth,Swimming,Women,3
+2004,Monmouth,Indoor Track & Field,Women,10
 2004,Monmouth,Softball,Women,3.5
-2004,Monmouth,Outdoor Track & Field,Women,10.0
-2004,Monmouth,Total,Women,53.0
-2004,Ripon,Volleyball,Women,7.0
-2004,Ripon,Soccer,Women,2.0
-2004,Ripon,Cross Country,Women,8.0
-2004,Ripon,Tennis,Women,5.0
-2004,Ripon,Basketball,Women,10.0
-2004,Ripon,Swimming,Women,4.0
-2004,Ripon,Indoor Track & Field,Women,8.0
+2004,Monmouth,Outdoor Track & Field,Women,10
+2004,Monmouth,Total,Women,53
+2004,Ripon,Volleyball,Women,7
+2004,Ripon,Soccer,Women,2
+2004,Ripon,Cross Country,Women,8
+2004,Ripon,Tennis,Women,5
+2004,Ripon,Basketball,Women,10
+2004,Ripon,Swimming,Women,4
+2004,Ripon,Indoor Track & Field,Women,8
 2004,Ripon,Softball,Women,5.5
-2004,Ripon,Outdoor Track & Field,Women,8.0
+2004,Ripon,Outdoor Track & Field,Women,8
 2004,Ripon,Total,Women,63.5
-2004,St. Norbert,Volleyball,Women,10.0
-2004,St. Norbert,Soccer,Women,7.0
-2004,St. Norbert,Cross Country,Women,6.0
-2004,St. Norbert,Tennis,Women,6.0
-2004,St. Norbert,Basketball,Women,9.0
-2004,St. Norbert,Swimming,Women,6.0
-2004,St. Norbert,Indoor Track & Field,Women,7.0
+2004,St. Norbert,Volleyball,Women,10
+2004,St. Norbert,Soccer,Women,7
+2004,St. Norbert,Cross Country,Women,6
+2004,St. Norbert,Tennis,Women,6
+2004,St. Norbert,Basketball,Women,9
+2004,St. Norbert,Swimming,Women,6
+2004,St. Norbert,Indoor Track & Field,Women,7
 2004,St. Norbert,Softball,Women,1.5
-2004,St. Norbert,Outdoor Track & Field,Women,5.0
+2004,St. Norbert,Outdoor Track & Field,Women,5
 2004,St. Norbert,Total,Women,65.5
 2005,Beloit College,Football,Men,3
 2005,Beloit College,Soccer,Men,7
